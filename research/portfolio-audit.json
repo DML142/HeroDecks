@@ -1,0 +1,3060 @@
+[
+  {
+    "id": "green_shadow/cartas_buenas",
+    "hero": "green_shadow",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "green_shadow/banana_apotk_n120",
+    "hero": "green_shadow",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "green_shadow/beans_amphibious_1777",
+    "hero": "green_shadow",
+    "checks": 2,
+    "partial_sources": [
+      "Banana_Peel"
+    ]
+  },
+  {
+    "id": "green_shadow/beans_amphibious_23",
+    "hero": "green_shadow",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "green_shadow/freeze_p_pea_101",
+    "hero": "green_shadow",
+    "checks": 2,
+    "partial_sources": [
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "green_shadow/rings_beans_253",
+    "hero": "green_shadow",
+    "checks": 2,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "green_shadow/rings_apotk_18879",
+    "hero": "green_shadow",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Flourish",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "green_shadow/pea_beans_90",
+    "hero": "green_shadow",
+    "checks": 3,
+    "partial_sources": [
+      "Black_Eyed_Pea"
+    ]
+  },
+  {
+    "id": "green_shadow/pea_amphibious_70",
+    "hero": "green_shadow",
+    "checks": 1,
+    "partial_sources": [
+      "Coffee_Grounds"
+    ]
+  },
+  {
+    "id": "green_shadow/conjure_p_banana_343",
+    "hero": "green_shadow",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Black_Eyed_Pea",
+      "Bananasaurus_Rex",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "green_shadow/conjure_p_apotk_n108",
+    "hero": "green_shadow",
+    "checks": 1,
+    "partial_sources": [
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "green_shadow/moss_pea_667",
+    "hero": "green_shadow",
+    "checks": 2,
+    "partial_sources": [
+      "Banana_Peel",
+      "Black_Eyed_Pea",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "green_shadow/starfruit_pea_119",
+    "hero": "green_shadow",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "green_shadow/amphibious_solo_260",
+    "hero": "green_shadow",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "green_shadow/amphibious_potted_169",
+    "hero": "green_shadow",
+    "checks": 2,
+    "partial_sources": [
+      "Coffee_Grounds"
+    ]
+  },
+  {
+    "id": "solar_flare/valueflare",
+    "hero": "solar_flare",
+    "checks": 3,
+    "partial_sources": [
+      "Twin_Sunflower",
+      "Fig"
+    ]
+  },
+  {
+    "id": "solar_flare/berries_heal_430",
+    "hero": "solar_flare",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "solar_flare/berries_splash_p_1587",
+    "hero": "solar_flare",
+    "checks": 1,
+    "partial_sources": [
+      "Lawnmower",
+      "Squash"
+    ]
+  },
+  {
+    "id": "solar_flare/flowers_heal_157",
+    "hero": "solar_flare",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "solar_flare/heal_mushrooms_77",
+    "hero": "solar_flare",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "solar_flare/heal_strikethrough_p_n16",
+    "hero": "solar_flare",
+    "checks": 2,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "solar_flare/mushrooms_ramp_p_139",
+    "hero": "solar_flare",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "solar_flare/mushrooms_strikethrough_p_n9",
+    "hero": "solar_flare",
+    "checks": 4,
+    "partial_sources": []
+  },
+  {
+    "id": "solar_flare/pineclone_flowers_415",
+    "hero": "solar_flare",
+    "checks": 3,
+    "partial_sources": [
+      "Sunflower",
+      "Twin_Sunflower",
+      "Squash"
+    ]
+  },
+  {
+    "id": "solar_flare/pineclone_molekale_2755",
+    "hero": "solar_flare",
+    "checks": 1,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "solar_flare/molekale_conjure_p_n11672",
+    "hero": "solar_flare",
+    "checks": 1,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "solar_flare/molekale_strikethrough_p_369",
+    "hero": "solar_flare",
+    "checks": 1,
+    "partial_sources": [
+      "Poison_Ivy"
+    ]
+  },
+  {
+    "id": "solar_flare/ramp_p_splash_p_297",
+    "hero": "solar_flare",
+    "checks": 2,
+    "partial_sources": [
+      "Twin_Sunflower",
+      "Solar_Winds"
+    ]
+  },
+  {
+    "id": "solar_flare/strikethrough_p_flowers_183",
+    "hero": "solar_flare",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "solar_flare/strikethrough_p_ramp_p_12",
+    "hero": "solar_flare",
+    "checks": 2,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "wall_knight/solar_sanctuary",
+    "hero": "wall_knight",
+    "checks": 4,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "wall_knight/chemotherapy",
+    "hero": "wall_knight",
+    "checks": 3,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "wall_knight/flowers_bowling_46",
+    "hero": "wall_knight",
+    "checks": 2,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "wall_knight/flowers_heal_n66",
+    "hero": "wall_knight",
+    "checks": 4,
+    "partial_sources": [
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "wall_knight/force_patch_pecan_231",
+    "hero": "wall_knight",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Gardening_Gloves",
+      "Twin_Sunflower",
+      "Tactical_Cuke",
+      "Magnifying_Grass",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "wall_knight/heal_solo_311",
+    "hero": "wall_knight",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "wall_knight/pecan_roots_5",
+    "hero": "wall_knight",
+    "checks": 3,
+    "partial_sources": [
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "wall_knight/pecan_ramp_p_3055",
+    "hero": "wall_knight",
+    "checks": 3,
+    "partial_sources": [
+      "Wall-Nut",
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "wall_knight/mirror_three_nut_n14903",
+    "hero": "wall_knight",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "wall_knight/roots_bowling_19789",
+    "hero": "wall_knight",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "wall_knight/roots_heal_72",
+    "hero": "wall_knight",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "wall_knight/ramp_p_solo_104",
+    "hero": "wall_knight",
+    "checks": 1,
+    "partial_sources": [
+      "Twin_Sunflower",
+      "Smackadamia"
+    ]
+  },
+  {
+    "id": "wall_knight/strikethrough_p_anti_trick_359",
+    "hero": "wall_knight",
+    "checks": 4,
+    "partial_sources": [
+      "Shamrocket",
+      "Lawnmower",
+      "Photosynthesizer"
+    ]
+  },
+  {
+    "id": "wall_knight/strikethrough_p_anti_trick_154560",
+    "hero": "wall_knight",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "wall_knight/three_nut_roots_n156",
+    "hero": "wall_knight",
+    "checks": 4,
+    "partial_sources": []
+  },
+  {
+    "id": "chompzilla/apotk",
+    "hero": "chompzilla",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "chompzilla/ringspresso",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Flourish"
+    ]
+  },
+  {
+    "id": "chompzilla/banana_potted_1509",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Black_Eyed_Pea",
+      "Bananasaurus_Rex",
+      "Squash"
+    ]
+  },
+  {
+    "id": "chompzilla/flowers_strikethrough_p_66",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Coffee_Grounds"
+    ]
+  },
+  {
+    "id": "chompzilla/flowers_apotk_n2",
+    "hero": "chompzilla",
+    "checks": 2,
+    "partial_sources": [
+      "Sunflower",
+      "Umbrella_Leaf",
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "chompzilla/potted_heal_462",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Tactical_Cuke"
+    ]
+  },
+  {
+    "id": "chompzilla/heal_conjure_p_232",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Coffee_Grounds"
+    ]
+  },
+  {
+    "id": "chompzilla/rings_ramp_p_188",
+    "hero": "chompzilla",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "chompzilla/pea_solo_19089",
+    "hero": "chompzilla",
+    "checks": 2,
+    "partial_sources": [
+      "Sunflower"
+    ]
+  },
+  {
+    "id": "chompzilla/pea_flowers_267",
+    "hero": "chompzilla",
+    "checks": 3,
+    "partial_sources": [
+      "Flourish"
+    ]
+  },
+  {
+    "id": "chompzilla/moss_flowers_1298",
+    "hero": "chompzilla",
+    "checks": 3,
+    "partial_sources": [
+      "Sunflower",
+      "Solar_Winds",
+      "Grape_Power"
+    ]
+  },
+  {
+    "id": "chompzilla/ramp_p_pea_550",
+    "hero": "chompzilla",
+    "checks": 3,
+    "partial_sources": [
+      "Black_Eyed_Pea",
+      "Twin_Sunflower",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "chompzilla/strikethrough_p_ramp_p_n1360",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Coffee_Grounds"
+    ]
+  },
+  {
+    "id": "chompzilla/strikethrough_p_ramp_p_345",
+    "hero": "chompzilla",
+    "checks": 3,
+    "partial_sources": [
+      "Twin_Sunflower",
+      "Grape_Power"
+    ]
+  },
+  {
+    "id": "chompzilla/apotk_solo_n4",
+    "hero": "chompzilla",
+    "checks": 1,
+    "partial_sources": [
+      "Flourish",
+      "Grape_Power",
+      "Squash",
+      "Tactical_Cuke"
+    ]
+  },
+  {
+    "id": "spudow/berry_pecan_bastion",
+    "hero": "spudow",
+    "checks": 3,
+    "partial_sources": [
+      "Banana_Launcher",
+      "Shamrocket",
+      "Wall-Nut",
+      "Photosynthesizer"
+    ]
+  },
+  {
+    "id": "spudow/soteria",
+    "hero": "spudow",
+    "checks": 3,
+    "partial_sources": [
+      "Shamrocket",
+      "Fig"
+    ]
+  },
+  {
+    "id": "spudow/berries_molekale_2255",
+    "hero": "spudow",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "spudow/bowling_anti_trick_103",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "spudow/force_patch_pecan_14",
+    "hero": "spudow",
+    "checks": 3,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "spudow/pecan_mirror_n2118",
+    "hero": "spudow",
+    "checks": 2,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "spudow/pecan_mirror_94",
+    "hero": "spudow",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "spudow/tempo_solo_18",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket",
+      "Fig"
+    ]
+  },
+  {
+    "id": "spudow/mirror_molekale_371",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket",
+      "Fig"
+    ]
+  },
+  {
+    "id": "spudow/mushrooms_solo_1975",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Smackadamia"
+    ]
+  },
+  {
+    "id": "spudow/pineclone_mirror_1547",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Wall-Nut",
+      "Poison_Ivy"
+    ]
+  },
+  {
+    "id": "spudow/molekale_conjure_p_41",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket",
+      "Fig"
+    ]
+  },
+  {
+    "id": "spudow/roots_solo_n436",
+    "hero": "spudow",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Gardening_Gloves"
+    ]
+  },
+  {
+    "id": "spudow/anti_trick_tempo_10674",
+    "hero": "spudow",
+    "checks": 1,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "spudow/three_nut_roots_1989",
+    "hero": "spudow",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "citron/peel_shield_sanctuary",
+    "hero": "citron",
+    "checks": 3,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "citron/amphibious_momentus",
+    "hero": "citron",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "citron/beans_tempo_1363",
+    "hero": "citron",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "citron/bowling_splash_p_395",
+    "hero": "citron",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "citron/freeze_p_bowling_1726",
+    "hero": "citron",
+    "checks": 2,
+    "partial_sources": [
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "citron/pecan_three_nut_880",
+    "hero": "citron",
+    "checks": 1,
+    "partial_sources": [
+      "Wall-Nut"
+    ]
+  },
+  {
+    "id": "citron/mirror_pecan_298",
+    "hero": "citron",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "citron/roots_bowling_n125",
+    "hero": "citron",
+    "checks": 2,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "citron/roots_splash_p_n234560",
+    "hero": "citron",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "citron/splash_p_anti_trick_n956",
+    "hero": "citron",
+    "checks": 2,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "citron/splash_p_solo_2655",
+    "hero": "citron",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "citron/starfruit_amphibious_81",
+    "hero": "citron",
+    "checks": 1,
+    "partial_sources": []
+  },
+  {
+    "id": "citron/anti_trick_splash_p_n238",
+    "hero": "citron",
+    "checks": 2,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "citron/three_nut_roots_133",
+    "hero": "citron",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "citron/amphibious_roots_111621",
+    "hero": "citron",
+    "checks": 3,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "grass_knuckles/umbrella_pea_sanctuary",
+    "hero": "grass_knuckles",
+    "checks": 3,
+    "partial_sources": [
+      "Black_Eyed_Pea",
+      "Umbrella_Leaf",
+      "Shamrocket",
+      "Photosynthesizer"
+    ]
+  },
+  {
+    "id": "grass_knuckles/redundancy",
+    "hero": "grass_knuckles",
+    "checks": 3,
+    "partial_sources": [
+      "Flourish",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "grass_knuckles/sensei",
+    "hero": "grass_knuckles",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "grass_knuckles/sensei_anti_teleport",
+    "hero": "grass_knuckles",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "grass_knuckles/banana_apotk_n144",
+    "hero": "grass_knuckles",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "grass_knuckles/potted_apotk_83",
+    "hero": "grass_knuckles",
+    "checks": 2,
+    "partial_sources": [
+      "Flourish"
+    ]
+  },
+  {
+    "id": "grass_knuckles/pecan_mirror_89",
+    "hero": "grass_knuckles",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Flourish"
+    ]
+  },
+  {
+    "id": "grass_knuckles/tempo_solo_1859",
+    "hero": "grass_knuckles",
+    "checks": 1,
+    "partial_sources": [
+      "Cactus",
+      "Smackadamia"
+    ]
+  },
+  {
+    "id": "grass_knuckles/mirror_anti_trick_1605",
+    "hero": "grass_knuckles",
+    "checks": 1,
+    "partial_sources": [
+      "Wall-Nut",
+      "Black_Eyed_Pea",
+      "Bananasaurus_Rex",
+      "Smackadamia"
+    ]
+  },
+  {
+    "id": "grass_knuckles/rings_potted_n5",
+    "hero": "grass_knuckles",
+    "checks": 1,
+    "partial_sources": [
+      "Coffee_Grounds",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "grass_knuckles/conjure_p_anti_trick_1301_imported_1",
+    "hero": "grass_knuckles",
+    "checks": 1,
+    "partial_sources": [
+      "Banana_Peel",
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "grass_knuckles/roots_conjure_p_112511",
+    "hero": "grass_knuckles",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Gardening_Gloves",
+      "Shamrocket",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "grass_knuckles/anti_trick_solo_n765",
+    "hero": "grass_knuckles",
+    "checks": 2,
+    "partial_sources": [
+      "Coffee_Grounds"
+    ]
+  },
+  {
+    "id": "grass_knuckles/three_nut_anti_trick_n48",
+    "hero": "grass_knuckles",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Black_Eyed_Pea"
+    ]
+  },
+  {
+    "id": "grass_knuckles/apotk_conjure_p_25",
+    "hero": "grass_knuckles",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "nightcap/cyclecap",
+    "hero": "nightcap",
+    "checks": 4,
+    "partial_sources": []
+  },
+  {
+    "id": "nightcap/cycle_pineclone_n12308",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Fig"
+    ]
+  },
+  {
+    "id": "nightcap/freeze_p_anti_trick_1527",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": []
+  },
+  {
+    "id": "nightcap/freeze_p_molekale_552",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": [
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "nightcap/mushrooms_pineclone_515",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "nightcap/mushrooms_amphibious_71",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "nightcap/pineclone_molekale_10573",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "nightcap/pineclone_molekale_2355",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "nightcap/conjure_p_molekale_n10684",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Fig",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "nightcap/conjure_p_molekale_132",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Fig",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "nightcap/molekale_beans_n426",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "nightcap/molekale_conjure_p_10676",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "nightcap/molekale_conjure_p_10684",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "nightcap/splash_p_molekale_525",
+    "hero": "nightcap",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "nightcap/amphibious_molekale_10672",
+    "hero": "nightcap",
+    "checks": 1,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Fig",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "rose/hmr_anti_waxer",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "rose/heal_midrose",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "rose/beans_solo_831",
+    "hero": "rose",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "rose/beans_ramp_p_n8",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "rose/flowers_strikethrough_p_68",
+    "hero": "rose",
+    "checks": 1,
+    "partial_sources": []
+  },
+  {
+    "id": "rose/flowers_starfruit_1397",
+    "hero": "rose",
+    "checks": 5,
+    "partial_sources": [
+      "Solar_Winds"
+    ]
+  },
+  {
+    "id": "rose/freeze_p_solo_1236",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": [
+      "Solar_Winds"
+    ]
+  },
+  {
+    "id": "rose/heal_strikethrough_p_9",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "rose/conjure_p_amphibious_0",
+    "hero": "rose",
+    "checks": 1,
+    "partial_sources": [
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "rose/ramp_p_strikethrough_p_189",
+    "hero": "rose",
+    "checks": 1,
+    "partial_sources": [
+      "Twin_Sunflower",
+      "Shrinking_Violet",
+      "Tactical_Cuke"
+    ]
+  },
+  {
+    "id": "rose/ramp_p_amphibious_377",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": [
+      "Sunflower",
+      "Twin_Sunflower"
+    ]
+  },
+  {
+    "id": "rose/strikethrough_p_splash_p_113622",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "rose/splash_p_conjure_p_118",
+    "hero": "rose",
+    "checks": 1,
+    "partial_sources": [
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "rose/splash_p_ramp_p_500",
+    "hero": "rose",
+    "checks": 2,
+    "partial_sources": [
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "rose/amphibious_flowers_144",
+    "hero": "rose",
+    "checks": 1,
+    "partial_sources": [
+      "Shrinking_Violet",
+      "Winter_Melon"
+    ]
+  },
+  {
+    "id": "captain_combustible/comboss",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Banana_Launcher"
+    ]
+  },
+  {
+    "id": "captain_combustible/log_bait",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Fig"
+    ]
+  },
+  {
+    "id": "captain_combustible/banana_berries_1310",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": [
+      "Banana_Launcher",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "captain_combustible/berries_conjure_p_1377",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Banana_Peel"
+    ]
+  },
+  {
+    "id": "captain_combustible/potted_berries_364",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Banana_Peel",
+      "Black_Eyed_Pea",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "captain_combustible/mushrooms_molekale_317",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": [
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "captain_combustible/rings_moss_202",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": [
+      "Banana_Launcher",
+      "Coffee_Grounds",
+      "Bananasaurus_Rex"
+    ]
+  },
+  {
+    "id": "captain_combustible/pea_tempo_165",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": [
+      "Flourish",
+      "Fig"
+    ]
+  },
+  {
+    "id": "captain_combustible/pineclone_molekale_235",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Coffee_Grounds",
+      "Fig"
+    ]
+  },
+  {
+    "id": "captain_combustible/pineclone_apotk_37",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "captain_combustible/conjure_p_apotk_116422",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Banana_Launcher",
+      "Coffee_Grounds",
+      "Bananasaurus_Rex",
+      "Fig"
+    ]
+  },
+  {
+    "id": "captain_combustible/molekale_anti_trick_288",
+    "hero": "captain_combustible",
+    "checks": 2,
+    "partial_sources": [
+      "Black_Eyed_Pea",
+      "Flourish"
+    ]
+  },
+  {
+    "id": "captain_combustible/moss_solo_65",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Flourish"
+    ]
+  },
+  {
+    "id": "captain_combustible/apotk_molekale_n6",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Umbrella_Leaf",
+      "Coffee_Grounds",
+      "Fig"
+    ]
+  },
+  {
+    "id": "captain_combustible/apotk_molekale_50",
+    "hero": "captain_combustible",
+    "checks": 1,
+    "partial_sources": [
+      "Fig"
+    ]
+  },
+  {
+    "id": "beta_carrotina/waterfront_sanctuary",
+    "hero": "beta_carrotina",
+    "checks": 3,
+    "partial_sources": [
+      "Shamrocket",
+      "Photosynthesizer"
+    ]
+  },
+  {
+    "id": "beta_carrotina/mirrtorcycle",
+    "hero": "beta_carrotina",
+    "checks": 1,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "beta_carrotina/sham_control",
+    "hero": "beta_carrotina",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "beta_carrotina/beans_anti_trick_177",
+    "hero": "beta_carrotina",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer"
+    ]
+  },
+  {
+    "id": "beta_carrotina/beans_amphibious_303",
+    "hero": "beta_carrotina",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer"
+    ]
+  },
+  {
+    "id": "beta_carrotina/bowling_splash_p_198",
+    "hero": "beta_carrotina",
+    "checks": 2,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "beta_carrotina/freeze_p_solo_578",
+    "hero": "beta_carrotina",
+    "checks": 3,
+    "partial_sources": []
+  },
+  {
+    "id": "beta_carrotina/mirror_beans_1603",
+    "hero": "beta_carrotina",
+    "checks": 2,
+    "partial_sources": [
+      "Wall-Nut",
+      "Gardening_Gloves"
+    ]
+  },
+  {
+    "id": "beta_carrotina/roots_bowling_367",
+    "hero": "beta_carrotina",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "beta_carrotina/roots_amphibious_84",
+    "hero": "beta_carrotina",
+    "checks": 3,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "beta_carrotina/splash_p_anti_trick_239",
+    "hero": "beta_carrotina",
+    "checks": 1,
+    "partial_sources": [
+      "Shamrocket",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "beta_carrotina/anti_trick_splash_p_51",
+    "hero": "beta_carrotina",
+    "checks": 1,
+    "partial_sources": [
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "beta_carrotina/three_nut_tempo_905",
+    "hero": "beta_carrotina",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Wall-Nut",
+      "Shamrocket"
+    ]
+  },
+  {
+    "id": "beta_carrotina/amphibious_solo_67",
+    "hero": "beta_carrotina",
+    "checks": 1,
+    "partial_sources": []
+  },
+  {
+    "id": "beta_carrotina/amphibious_splash_p_6",
+    "hero": "beta_carrotina",
+    "checks": 2,
+    "partial_sources": [
+      "Photosynthesizer",
+      "Shrinking_Violet"
+    ]
+  },
+  {
+    "id": "super_brainz/blood_moon_replay",
+    "hero": "super_brainz",
+    "checks": 3,
+    "partial_sources": [
+      "Evolutionary_Leap",
+      "Pogo_Zombie",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "super_brainz/limerence",
+    "hero": "super_brainz",
+    "checks": 3,
+    "partial_sources": [
+      "Teleport",
+      "Space_Cowboy",
+      "Cryo-Yeti",
+      "Viking"
+    ]
+  },
+  {
+    "id": "super_brainz/blob_conjure_z_62",
+    "hero": "super_brainz",
+    "checks": 2,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Fun-Dead_Raiser"
+    ]
+  },
+  {
+    "id": "super_brainz/graves_tempo_10484",
+    "hero": "super_brainz",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Pogo_Zombie",
+      "Space_Cowboy",
+      "Viking"
+    ]
+  },
+  {
+    "id": "super_brainz/graves_freeze_z_107",
+    "hero": "super_brainz",
+    "checks": 2,
+    "partial_sources": [
+      "Frosty_Mustache",
+      "Pogo_Zombie",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "super_brainz/imps_graves_228",
+    "hero": "super_brainz",
+    "checks": 3,
+    "partial_sources": [
+      "Teleport",
+      "Pogo_Zombie"
+    ]
+  },
+  {
+    "id": "super_brainz/imps_mime_35",
+    "hero": "super_brainz",
+    "checks": 2,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Teleport",
+      "Quarterly_Bonus",
+      "Space_Cowboy",
+      "Viking"
+    ]
+  },
+  {
+    "id": "super_brainz/tempo_solo_1050",
+    "hero": "super_brainz",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "super_brainz/leap_graves_532",
+    "hero": "super_brainz",
+    "checks": 1,
+    "partial_sources": [
+      "Evolutionary_Leap",
+      "Pogo_Zombie"
+    ]
+  },
+  {
+    "id": "super_brainz/pirates_graves_n2318",
+    "hero": "super_brainz",
+    "checks": 2,
+    "partial_sources": [
+      "Space_Cowboy",
+      "Cryo-Yeti",
+      "Viking"
+    ]
+  },
+  {
+    "id": "super_brainz/science_conjure_z_n321",
+    "hero": "super_brainz",
+    "checks": 2,
+    "partial_sources": [
+      "Teleport",
+      "Moonwalker"
+    ]
+  },
+  {
+    "id": "super_brainz/trickster_conjure_z_160",
+    "hero": "super_brainz",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Teleport",
+      "Smelly_Zombie"
+    ]
+  },
+  {
+    "id": "super_brainz/conjure_z_bmr_113",
+    "hero": "super_brainz",
+    "checks": 2,
+    "partial_sources": [
+      "Evolutionary_Leap",
+      "Rocket_Science",
+      "Portal_Technician"
+    ]
+  },
+  {
+    "id": "super_brainz/conjure_z_trickster_217",
+    "hero": "super_brainz",
+    "checks": 1,
+    "partial_sources": [
+      "Teleport",
+      "Evolutionary_Leap"
+    ]
+  },
+  {
+    "id": "super_brainz/freeze_z_conjure_z_691",
+    "hero": "super_brainz",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Teleport",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "the_smash/luminous",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Alien_Ooze",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "the_smash/gargs_tempo_265",
+    "hero": "the_smash",
+    "checks": 1,
+    "partial_sources": [
+      "Nibble",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "the_smash/gargs_solo_92",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Nibble",
+      "Rolling_Stone",
+      "Botanist",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Landscaper",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "the_smash/gargs_pharaoh_106",
+    "hero": "the_smash",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Extinction_Event",
+      "Alien_Ooze"
+    ]
+  },
+  {
+    "id": "the_smash/viral_frenzy_30",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Genetic_Experiment",
+      "Rolling_Stone",
+      "Alien_Ooze"
+    ]
+  },
+  {
+    "id": "the_smash/viral_sports_63",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Rolling_Stone"
+    ]
+  },
+  {
+    "id": "the_smash/viral_handbuff_22",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Genetic_Experiment",
+      "Planetary_Gladiator",
+      "Rolling_Stone",
+      "Intergalactic_Warlord",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "the_smash/king_viral_128676",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Extinction_Event",
+      "Sumo_Wrestler"
+    ]
+  },
+  {
+    "id": "the_smash/pets_viral_22155",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Goat",
+      "Rolling_Stone",
+      "Sumo_Wrestler"
+    ]
+  },
+  {
+    "id": "the_smash/pets_king_1967",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Weed_Spray",
+      "Smashing_Gargantuar"
+    ]
+  },
+  {
+    "id": "the_smash/pharaoh_gargs_168",
+    "hero": "the_smash",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Extinction_Event",
+      "Undying_Pharaoh",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "the_smash/pharaoh_viral_1707",
+    "hero": "the_smash",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Alien_Ooze",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "the_smash/sports_solo_1404",
+    "hero": "the_smash",
+    "checks": 3,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Alien_Ooze"
+    ]
+  },
+  {
+    "id": "the_smash/handbuff_tempo_n58",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Planetary_Gladiator",
+      "Rolling_Stone",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "the_smash/swimmer_gargs_39",
+    "hero": "the_smash",
+    "checks": 2,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Botanist",
+      "Sumo_Wrestler",
+      "Alien_Ooze"
+    ]
+  },
+  {
+    "id": "impfinity/no_hokai",
+    "hero": "impfinity",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Space_Cowboy",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "impfinity/binary_dance_112561",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Smoke_Bomb",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "impfinity/binary_conjure_z_178672",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "impfinity/dance_binary_1371",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Aerobics_Instructor",
+      "Tankylosaurus"
+    ]
+  },
+  {
+    "id": "impfinity/death_z_binary_246",
+    "hero": "impfinity",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "impfinity/draw_burn_tempo_858",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Space_Cowboy",
+      "The_Chickening"
+    ]
+  },
+  {
+    "id": "impfinity/graves_dance_26",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Aerobics_Instructor",
+      "Pogo_Zombie"
+    ]
+  },
+  {
+    "id": "impfinity/imps_binary_114",
+    "hero": "impfinity",
+    "checks": 3,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Smoke_Bomb",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "impfinity/imps_dance_58",
+    "hero": "impfinity",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Fishy_Imp"
+    ]
+  },
+  {
+    "id": "impfinity/overshoot_draw_burn_19879",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Smoke_Bomb",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "impfinity/pirates_binary_11673",
+    "hero": "impfinity",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "impfinity/valkyrie_conjure_z_496",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "impfinity/conjure_z_imps_208",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Tankylosaurus"
+    ]
+  },
+  {
+    "id": "impfinity/conjure_z_overshoot_n126",
+    "hero": "impfinity",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Aerobics_Instructor"
+    ]
+  },
+  {
+    "id": "impfinity/freeze_z_imps_2855",
+    "hero": "impfinity",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Pogo_Zombie",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "rustbolt/flag_moon_academy",
+    "hero": "rustbolt",
+    "checks": 3,
+    "partial_sources": [
+      "Rocket_Science",
+      "Rolling_Stone"
+    ]
+  },
+  {
+    "id": "rustbolt/telepsterrazzi",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Teleport",
+      "Fun-Dead_Raiser",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "rustbolt/blob_viral_61",
+    "hero": "rustbolt",
+    "checks": 3,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Fun-Dead_Raiser"
+    ]
+  },
+  {
+    "id": "rustbolt/blob_viral_82",
+    "hero": "rustbolt",
+    "checks": 3,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Rolling_Stone",
+      "Teleport",
+      "Cell_Phone_Zombie"
+    ]
+  },
+  {
+    "id": "rustbolt/gargs_pharaoh_1853",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Teleport",
+      "Electrician",
+      "Landscaper",
+      "Rocket_Science",
+      "Weed_Spray"
+    ]
+  },
+  {
+    "id": "rustbolt/viral_solo_314",
+    "hero": "rustbolt",
+    "checks": 2,
+    "partial_sources": [
+      "Genetic_Experiment",
+      "Rolling_Stone",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "rustbolt/king_leap_29",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Evolutionary_Leap",
+      "Sumo_Wrestler",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "rustbolt/leap_mime_924",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Teleport",
+      "Evolutionary_Leap",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "rustbolt/mustache_viral_n60",
+    "hero": "rustbolt",
+    "checks": 3,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Teleport",
+      "Rocket_Science",
+      "Intergalactic_Warlord",
+      "Viking"
+    ]
+  },
+  {
+    "id": "rustbolt/pharaoh_solo_420",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Rolling_Stone",
+      "Rocket_Science",
+      "Weed_Spray",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "rustbolt/parasol_sun_denial_n1218",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "rustbolt/science_viral_173",
+    "hero": "rustbolt",
+    "checks": 2,
+    "partial_sources": [
+      "Genetic_Experiment",
+      "Rolling_Stone",
+      "Teleport",
+      "Fun-Dead_Raiser",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "rustbolt/sports_parasol_1162",
+    "hero": "rustbolt",
+    "checks": 2,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Sumo_Wrestler",
+      "Rocket_Science",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "rustbolt/handbuff_viral_1443",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Genetic_Experiment",
+      "Rolling_Stone",
+      "Teleport",
+      "Rocket_Science",
+      "Weed_Spray",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "rustbolt/sun_denial_leap_163",
+    "hero": "rustbolt",
+    "checks": 1,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Rolling_Stone",
+      "Teleport",
+      "Evolutionary_Leap",
+      "Fun-Dead_Raiser",
+      "Rocket_Science",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/omani",
+    "hero": "electric_boogaloo",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/omani_anti_heal",
+    "hero": "electric_boogaloo",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/binary_swimmer_14003",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/dance_binary_357",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Aerobics_Instructor"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/dance_solo_57",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/death_z_gargs_240",
+    "hero": "electric_boogaloo",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Nibble",
+      "Alien_Ooze",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/draw_burn_death_z_1209",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Haunting_Ghost",
+      "Alien_Ooze",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/frenzy_binary_n15868",
+    "hero": "electric_boogaloo",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Nibble",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/frenzy_tempo_10",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Dog_Walker",
+      "Botanist",
+      "Extinction_Event",
+      "Alien_Ooze"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/tempo_solo_1385",
+    "hero": "electric_boogaloo",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Extinction_Event",
+      "Total_Eclipse",
+      "Alien_Ooze",
+      "The_Chickening"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/overshoot_frenzy_772",
+    "hero": "electric_boogaloo",
+    "checks": 3,
+    "partial_sources": [
+      "Extinction_Event",
+      "Zombie's_Best_Friend",
+      "Tankylosaurus"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/pets_solo_1941",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "The_Chickening",
+      "Imp-Throwing_Gargantuar",
+      "Smashing_Gargantuar"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/swimmer_dance_511",
+    "hero": "electric_boogaloo",
+    "checks": 5,
+    "partial_sources": [
+      "Aerobics_Instructor"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/valkyrie_swimmer_20983",
+    "hero": "electric_boogaloo",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Zombie's_Best_Friend",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "electric_boogaloo/conjure_z_dance_42",
+    "hero": "electric_boogaloo",
+    "checks": 3,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Extinction_Event",
+      "Alien_Ooze"
+    ]
+  },
+  {
+    "id": "brain_freeze/lock_the_bathroom",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Nibble",
+      "Smoke_Bomb",
+      "Botanist",
+      "Extinction_Event",
+      "Pogo_Zombie",
+      "Space_Cowboy",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/frenzy_graves_131",
+    "hero": "brain_freeze",
+    "checks": 2,
+    "partial_sources": [
+      "Nibble",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Pogo_Zombie",
+      "Space_Cowboy",
+      "Blowgun_Imp",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/graves_freeze_z_n154560",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Dog_Walker",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Pogo_Zombie",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/imps_gargs_195",
+    "hero": "brain_freeze",
+    "checks": 3,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Extinction_Event",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "brain_freeze/imps_graves_1495",
+    "hero": "brain_freeze",
+    "checks": 3,
+    "partial_sources": [
+      "Fishy_Imp",
+      "Pogo_Zombie"
+    ]
+  },
+  {
+    "id": "brain_freeze/tempo_imps_770",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Frosty_Mustache"
+    ]
+  },
+  {
+    "id": "brain_freeze/tempo_freeze_z_20",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Dog_Walker",
+      "Botanist",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Space_Cowboy",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/pets_swimmer_n2518",
+    "hero": "brain_freeze",
+    "checks": 3,
+    "partial_sources": [
+      "Dog_Walker",
+      "Alien_Ooze",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "brain_freeze/pets_freeze_z_248",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Nibble",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Space_Cowboy",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/pets_freeze_z_79",
+    "hero": "brain_freeze",
+    "checks": 2,
+    "partial_sources": [
+      "Nibble",
+      "Smoke_Bomb",
+      "Space_Cowboy",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/pirates_freeze_z_36",
+    "hero": "brain_freeze",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Botanist",
+      "Space_Cowboy",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "brain_freeze/swimmer_gargs_21675",
+    "hero": "brain_freeze",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "brain_freeze/swimmer_pets_312",
+    "hero": "brain_freeze",
+    "checks": 2,
+    "partial_sources": [
+      "Alien_Ooze",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "brain_freeze/conjure_z_tempo_490",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Nibble",
+      "Smoke_Bomb",
+      "Alien_Ooze",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "brain_freeze/freeze_z_solo_56",
+    "hero": "brain_freeze",
+    "checks": 1,
+    "partial_sources": [
+      "Nibble",
+      "Smoke_Bomb",
+      "Botanist",
+      "Frosty_Mustache"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/deadbeard_moon_laboratory",
+    "hero": "professor_brainstorm",
+    "checks": 3,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Evolutionary_Leap"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/trickstache",
+    "hero": "professor_brainstorm",
+    "checks": 3,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Teleport",
+      "Fun-Dead_Raiser",
+      "Rocket_Science",
+      "Viking"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/binary_dance_n14",
+    "hero": "professor_brainstorm",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Teleport",
+      "Aerobics_Instructor",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/ramp_z_gargs_134561",
+    "hero": "professor_brainstorm",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Teleport",
+      "Fun-Dead_Raiser",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/dance_overshoot_399",
+    "hero": "professor_brainstorm",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Teleport",
+      "Aerobics_Instructor"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/death_z_conjure_z_96",
+    "hero": "professor_brainstorm",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Teleport",
+      "Fun-Dead_Raiser",
+      "Rocket_Science",
+      "Tankylosaurus"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/draw_burn_solo_1283_imported_1",
+    "hero": "professor_brainstorm",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/tempo_solo_1909",
+    "hero": "professor_brainstorm",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Fun-Dead_Raiser",
+      "Rocket_Science",
+      "The_Chickening",
+      "Imp-Throwing_Gargantuar"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/leap_gargs_21",
+    "hero": "professor_brainstorm",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Evolutionary_Leap",
+      "Rocket_Science",
+      "Portal_Technician"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/mime_mustache_1159",
+    "hero": "professor_brainstorm",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Viking"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/mustache_binary_102",
+    "hero": "professor_brainstorm",
+    "checks": 4,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/science_binary_15",
+    "hero": "professor_brainstorm",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Teleport",
+      "Electrician",
+      "Rocket_Science",
+      "Quarterly_Bonus"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/science_mustache_60",
+    "hero": "professor_brainstorm",
+    "checks": 3,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Moonwalker",
+      "Quarterly_Bonus"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/trickster_parasol_n121",
+    "hero": "professor_brainstorm",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "professor_brainstorm/valkyrie_death_z_73",
+    "hero": "professor_brainstorm",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Rocket_Science",
+      "Viking"
+    ]
+  },
+  {
+    "id": "immorticia/familiar_moon_menagerie",
+    "hero": "immorticia",
+    "checks": 4,
+    "partial_sources": [
+      "Extinction_Event",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "immorticia/bestached",
+    "hero": "immorticia",
+    "checks": 4,
+    "partial_sources": [
+      "Nibble",
+      "Teleport",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Fun-Dead_Raiser",
+      "Rocket_Science",
+      "Viking"
+    ]
+  },
+  {
+    "id": "immorticia/bestached_anti_untrickable",
+    "hero": "immorticia",
+    "checks": 4,
+    "partial_sources": [
+      "Nibble",
+      "Teleport",
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Fun-Dead_Raiser",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "immorticia/secret_swimmer_blob",
+    "hero": "immorticia",
+    "checks": 3,
+    "partial_sources": [
+      "Dog_Walker",
+      "Teleport"
+    ]
+  },
+  {
+    "id": "immorticia/ramp_z_science_116",
+    "hero": "immorticia",
+    "checks": 2,
+    "partial_sources": [
+      "Dog_Walker",
+      "Teleport",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "immorticia/frenzy_solo_1787",
+    "hero": "immorticia",
+    "checks": 1,
+    "partial_sources": [
+      "Electrician",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "immorticia/gargs_frenzy_85",
+    "hero": "immorticia",
+    "checks": 2,
+    "partial_sources": [
+      "Teleport",
+      "Botanist",
+      "Fun-Dead_Raiser"
+    ]
+  },
+  {
+    "id": "immorticia/tempo_gargs_370",
+    "hero": "immorticia",
+    "checks": 1,
+    "partial_sources": [
+      "Teleport",
+      "Extinction_Event",
+      "Rocket_Science",
+      "Viking",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "immorticia/leap_tempo_219",
+    "hero": "immorticia",
+    "checks": 1,
+    "partial_sources": [
+      "Teleport",
+      "Evolutionary_Leap",
+      "Extinction_Event",
+      "Garg_Throwing_Garg"
+    ]
+  },
+  {
+    "id": "immorticia/mime_ramp_z_20675",
+    "hero": "immorticia",
+    "checks": 1,
+    "partial_sources": [
+      "Dog_Walker",
+      "Extinction_Event",
+      "Fun-Dead_Raiser",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "immorticia/mustache_swimmer_124561",
+    "hero": "immorticia",
+    "checks": 4,
+    "partial_sources": [
+      "Teleport",
+      "Electrician",
+      "Rocket_Science",
+      "Viking"
+    ]
+  },
+  {
+    "id": "immorticia/pets_solo_271",
+    "hero": "immorticia",
+    "checks": 1,
+    "partial_sources": [
+      "Nibble",
+      "Teleport",
+      "Extinction_Event",
+      "Fun-Dead_Raiser",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "immorticia/parasol_ramp_z_1387",
+    "hero": "immorticia",
+    "checks": 1,
+    "partial_sources": [
+      "Extinction_Event",
+      "Alien_Ooze",
+      "Fun-Dead_Raiser"
+    ]
+  },
+  {
+    "id": "immorticia/science_mime_214",
+    "hero": "immorticia",
+    "checks": 2,
+    "partial_sources": [
+      "Nibble",
+      "Alien_Ooze",
+      "Moonwalker",
+      "Quarterly_Bonus"
+    ]
+  },
+  {
+    "id": "immorticia/swimmer_parasol_882",
+    "hero": "immorticia",
+    "checks": 2,
+    "partial_sources": [
+      "Goat",
+      "Electrician",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "z_mech/cgp_dark_ages",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "z_mech/binary_dance_n17",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Aerobics_Instructor",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "z_mech/binary_viral_176",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "z_mech/dance_binary_40",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Aerobics_Instructor",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "z_mech/death_z_gargs_258",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "z_mech/gargs_viral_247",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Sumo_Wrestler",
+      "Frankentuar"
+    ]
+  },
+  {
+    "id": "z_mech/viral_death_z_52",
+    "hero": "z_mech",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Terrify",
+      "The_Chickening",
+      "Rolling_Stone"
+    ]
+  },
+  {
+    "id": "z_mech/viral_sports_64",
+    "hero": "z_mech",
+    "checks": 3,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "z_mech/viral_conjure_z_177672",
+    "hero": "z_mech",
+    "checks": 2,
+    "partial_sources": [
+      "Bungee_Plumber"
+    ]
+  },
+  {
+    "id": "z_mech/overshoot_draw_burn_1330",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Zombie's_Best_Friend"
+    ]
+  },
+  {
+    "id": "z_mech/pharaoh_death_z_54",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Bungee_Plumber",
+      "Planetary_Gladiator",
+      "Sumo_Wrestler",
+      "Intergalactic_Warlord",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "z_mech/pharaoh_gargs_393",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Rolling_Stone",
+      "Landscaper",
+      "Weed_Spray",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "z_mech/sports_viral_1452",
+    "hero": "z_mech",
+    "checks": 2,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Sumo_Wrestler",
+      "Weed_Spray",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "z_mech/handbuff_gargs_606",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Landscaper"
+    ]
+  },
+  {
+    "id": "z_mech/valkyrie_king_295",
+    "hero": "z_mech",
+    "checks": 1,
+    "partial_sources": [
+      "Genetic_Experiment",
+      "Rolling_Stone"
+    ]
+  },
+  {
+    "id": "neptuna/midtomba",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Pogo_Zombie",
+      "Cryo-Yeti"
+    ]
+  },
+  {
+    "id": "neptuna/midtomba_anti_swarm",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Sumo_Wrestler",
+      "Pogo_Zombie",
+      "Cryo-Yeti",
+      "Weed_Spray"
+    ]
+  },
+  {
+    "id": "neptuna/viral_gargs_116561",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Terrify",
+      "Undying_Pharaoh"
+    ]
+  },
+  {
+    "id": "neptuna/viral_sports_59",
+    "hero": "neptuna",
+    "checks": 2,
+    "partial_sources": []
+  },
+  {
+    "id": "neptuna/viral_conjure_z_162",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Sumo_Wrestler",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "neptuna/imps_graves_n1200",
+    "hero": "neptuna",
+    "checks": 2,
+    "partial_sources": [
+      "Pogo_Zombie",
+      "Cryo-Yeti",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "neptuna/imps_king_254",
+    "hero": "neptuna",
+    "checks": 3,
+    "partial_sources": [
+      "Space_Cowboy",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "neptuna/pharaoh_gargs_245",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Weed_Spray"
+    ]
+  },
+  {
+    "id": "neptuna/pirates_viral_374",
+    "hero": "neptuna",
+    "checks": 2,
+    "partial_sources": [
+      "Sumo_Wrestler",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "neptuna/sports_graves_1463",
+    "hero": "neptuna",
+    "checks": 2,
+    "partial_sources": [
+      "Planetary_Gladiator",
+      "Sumo_Wrestler",
+      "Pogo_Zombie",
+      "Intergalactic_Warlord"
+    ]
+  },
+  {
+    "id": "neptuna/handbuff_sports_1396",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Weed_Spray",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "neptuna/sun_denial_graves_n1518",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Sumo_Wrestler"
+    ]
+  },
+  {
+    "id": "neptuna/sun_denial_conjure_z_242",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Smoke_Bomb",
+      "Terrify",
+      "Smelly_Zombie"
+    ]
+  },
+  {
+    "id": "neptuna/conjure_z_gargs_86",
+    "hero": "neptuna",
+    "checks": 1,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Pogo_Zombie"
+    ]
+  },
+  {
+    "id": "neptuna/conjure_z_viral_76",
+    "hero": "neptuna",
+    "checks": 2,
+    "partial_sources": [
+      "Rolling_Stone",
+      "Space_Cowboy"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/cosmic_moon_factory",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Evolutionary_Leap",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/telimps",
+    "hero": "huge_gigantacus",
+    "checks": 4,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Teleport",
+      "Viking"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/bmr_conjure_z_201",
+    "hero": "huge_gigantacus",
+    "checks": 2,
+    "partial_sources": [
+      "Teleport"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/blob_conjure_z_379",
+    "hero": "huge_gigantacus",
+    "checks": 2,
+    "partial_sources": [
+      "Teleport",
+      "Fun-Dead_Raiser"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/graves_tempo_11672",
+    "hero": "huge_gigantacus",
+    "checks": 1,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Pogo_Zombie",
+      "Space_Cowboy",
+      "Viking"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/graves_mustache_335",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Evolutionary_Leap",
+      "Electrician",
+      "Pogo_Zombie"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/leap_conjure_z_277",
+    "hero": "huge_gigantacus",
+    "checks": 1,
+    "partial_sources": [
+      "Teleport",
+      "Evolutionary_Leap",
+      "Quarterly_Bonus",
+      "Viking"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/mustache_pirates_137",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Smoke_Bomb",
+      "Teleport",
+      "Quarterly_Bonus",
+      "Space_Cowboy",
+      "Viking"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/pirates_graves_341",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Pogo_Zombie",
+      "Space_Cowboy",
+      "Cryo-Yeti",
+      "Viking"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/parasol_science_1328",
+    "hero": "huge_gigantacus",
+    "checks": 1,
+    "partial_sources": [
+      "Electrician"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/science_mustache_22055",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Frosty_Mustache",
+      "Moonwalker",
+      "Quarterly_Bonus"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/trickster_mustache_4",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Teleport",
+      "Frosty_Mustache",
+      "Viking"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/conjure_z_blob_34",
+    "hero": "huge_gigantacus",
+    "checks": 2,
+    "partial_sources": [
+      "Teleport",
+      "Evolutionary_Leap"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/conjure_z_mime_109",
+    "hero": "huge_gigantacus",
+    "checks": 1,
+    "partial_sources": [
+      "Teleport",
+      "Rocket_Science"
+    ]
+  },
+  {
+    "id": "huge_gigantacus/freeze_z_pirates_898",
+    "hero": "huge_gigantacus",
+    "checks": 3,
+    "partial_sources": [
+      "Teleport",
+      "Frosty_Mustache",
+      "Pogo_Zombie",
+      "Cryo-Yeti"
+    ]
+  }
+]
