@@ -1,0 +1,354 @@
+[
+  {
+    "id": "green_shadow",
+    "name": "Green Shadow",
+    "faction": "plants",
+    "classes": [
+      "Mega-Grow",
+      "Smarty"
+    ],
+    "signature": "Precision Blast",
+    "powers": [
+      "Big Chill",
+      "Whirlwind",
+      "Embiggen"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Green_Shadow"
+  },
+  {
+    "id": "solar_flare",
+    "name": "Solar Flare",
+    "faction": "plants",
+    "classes": [
+      "Kabloom",
+      "Solar"
+    ],
+    "signature": "Sunburn",
+    "powers": [
+      "Weed Whack",
+      "More Spore",
+      "Scorched Earth"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Solar_Flare"
+  },
+  {
+    "id": "wall_knight",
+    "name": "Wall-Knight",
+    "faction": "plants",
+    "classes": [
+      "Guardian",
+      "Solar"
+    ],
+    "signature": "Uncrackable",
+    "powers": [
+      "Geyser",
+      "Nut Signal",
+      "Bubble Up"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Wall-Knight"
+  },
+  {
+    "id": "chompzilla",
+    "name": "Chompzilla",
+    "faction": "plants",
+    "classes": [
+      "Mega-Grow",
+      "Solar"
+    ],
+    "signature": "Devour",
+    "powers": [
+      "Holo-Flora",
+      "Geyser",
+      "Scorched Earth"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Chompzilla"
+  },
+  {
+    "id": "spudow",
+    "name": "Spudow",
+    "faction": "plants",
+    "classes": [
+      "Guardian",
+      "Kabloom"
+    ],
+    "signature": "Tater Toss",
+    "powers": [
+      "Bubble Up",
+      "Storm Front",
+      "Meteor Strike"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Spudow"
+  },
+  {
+    "id": "citron",
+    "name": "Citron",
+    "faction": "plants",
+    "classes": [
+      "Guardian",
+      "Smarty"
+    ],
+    "signature": "Peel Shield",
+    "powers": [
+      "Transmogrify",
+      "Nut Signal",
+      "Root Wall"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Citron_(PvZH)"
+  },
+  {
+    "id": "grass_knuckles",
+    "name": "Grass Knuckles",
+    "faction": "plants",
+    "classes": [
+      "Guardian",
+      "Mega-Grow"
+    ],
+    "signature": "Power Pummel",
+    "powers": [
+      "Holo-Flora",
+      "Time to Shine",
+      "Root Wall"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Grass_Knuckles"
+  },
+  {
+    "id": "nightcap",
+    "name": "Nightcap",
+    "faction": "plants",
+    "classes": [
+      "Kabloom",
+      "Smarty"
+    ],
+    "signature": "Mush-Boom",
+    "powers": [
+      "More Spore",
+      "Whirlwind",
+      "Storm Front"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Nightcap_(PvZH)"
+  },
+  {
+    "id": "rose",
+    "name": "Rose",
+    "faction": "plants",
+    "classes": [
+      "Smarty",
+      "Solar"
+    ],
+    "signature": "Goatify",
+    "powers": [
+      "Transmogrify",
+      "Big Chill",
+      "Weed Whack"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Rose_(PvZH)"
+  },
+  {
+    "id": "captain_combustible",
+    "name": "Captain Combustible",
+    "faction": "plants",
+    "classes": [
+      "Kabloom",
+      "Mega-Grow"
+    ],
+    "signature": "Blazing Bark",
+    "powers": [
+      "Meteor Strike",
+      "Embiggen",
+      "Time to Shine"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Captain_Combustible"
+  },
+  {
+    "id": "beta_carrotina",
+    "name": "Beta-Carrotina",
+    "faction": "plants",
+    "classes": [
+      "Guardian",
+      "Smarty"
+    ],
+    "signature": "Genetic Amplification",
+    "powers": [
+      "Ensign Uproot",
+      "Lieutenant Carrotron",
+      "Lightspeed Seed"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Beta-Carrotina"
+  },
+  {
+    "id": "super_brainz",
+    "name": "Super Brainz",
+    "faction": "zombies",
+    "classes": [
+      "Brainy",
+      "Sneaky"
+    ],
+    "signature": "Carried Away",
+    "powers": [
+      "Telepathy",
+      "Cut Down to Size",
+      "Super Stench"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Super_Brainz_(PvZH)"
+  },
+  {
+    "id": "the_smash",
+    "name": "The Smash",
+    "faction": "zombies",
+    "classes": [
+      "Beastly",
+      "Hearty"
+    ],
+    "signature": "Slammin' Smackdown",
+    "powers": [
+      "Heroic Health",
+      "Possessed",
+      "Galvanize"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/The_Smash"
+  },
+  {
+    "id": "impfinity",
+    "name": "Impfinity",
+    "faction": "zombies",
+    "classes": [
+      "Crazy",
+      "Sneaky"
+    ],
+    "signature": "Triple Threat",
+    "powers": [
+      "Super Stench",
+      "In-Crypted",
+      "Brute Strength"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Impfinity"
+  },
+  {
+    "id": "rustbolt",
+    "name": "Rustbolt",
+    "faction": "zombies",
+    "classes": [
+      "Brainy",
+      "Hearty"
+    ],
+    "signature": "Shrink Ray",
+    "powers": [
+      "Heroic Health",
+      "Cut Down to Size",
+      "Rock Wall"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Rustbolt"
+  },
+  {
+    "id": "electric_boogaloo",
+    "name": "Electric Boogaloo",
+    "faction": "zombies",
+    "classes": [
+      "Beastly",
+      "Crazy"
+    ],
+    "signature": "Stayin' Alive",
+    "powers": [
+      "Dance Off",
+      "Evaporate",
+      "Electrobolt"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Electric_Boogaloo"
+  },
+  {
+    "id": "brain_freeze",
+    "name": "Brain Freeze",
+    "faction": "zombies",
+    "classes": [
+      "Beastly",
+      "Sneaky"
+    ],
+    "signature": "Frozen Tundra",
+    "powers": [
+      "Dolphinado",
+      "Acid Rain",
+      "Galvanize"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Brain_Freeze_(PvZH)"
+  },
+  {
+    "id": "professor_brainstorm",
+    "name": "Professor Brainstorm",
+    "faction": "zombies",
+    "classes": [
+      "Brainy",
+      "Crazy"
+    ],
+    "signature": "Eureka",
+    "powers": [
+      "Summoning",
+      "Telepathy",
+      "Dance Off"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Professor_Brainstorm"
+  },
+  {
+    "id": "immorticia",
+    "name": "Immorticia",
+    "faction": "zombies",
+    "classes": [
+      "Beastly",
+      "Brainy"
+    ],
+    "signature": "Witch's Familiar",
+    "powers": [
+      "Summoning",
+      "Evaporate",
+      "Acid Rain"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Immorticia"
+  },
+  {
+    "id": "z_mech",
+    "name": "Z-Mech",
+    "faction": "zombies",
+    "classes": [
+      "Crazy",
+      "Hearty"
+    ],
+    "signature": "Missile Madness",
+    "powers": [
+      "Rock Wall",
+      "Brute Strength",
+      "Electrobolt"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Z-Mech_(PvZH)"
+  },
+  {
+    "id": "neptuna",
+    "name": "Neptuna",
+    "faction": "zombies",
+    "classes": [
+      "Hearty",
+      "Sneaky"
+    ],
+    "signature": "Octo-Pult",
+    "powers": [
+      "Dolphinado",
+      "Possessed",
+      "In-Crypted"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Neptuna"
+  },
+  {
+    "id": "huge_gigantacus",
+    "name": "Huge-Gigantacus",
+    "faction": "zombies",
+    "classes": [
+      "Brainy",
+      "Sneaky"
+    ],
+    "signature": "Terror-Former 10,000",
+    "powers": [
+      "Iron Boarder",
+      "Teleportation Station",
+      "Ice Moon"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Huge-Gigantacus"
+  }
+]

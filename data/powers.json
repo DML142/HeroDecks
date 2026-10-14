@@ -1,0 +1,612 @@
+[
+  {
+    "name": "Precision Blast",
+    "base_cost": 1,
+    "effect_ru": "Атака на 5 в средней линии: сначала по бойцу, если он блокирует эту линию, иначе по герою.",
+    "type": "Trick",
+    "heroes": [
+      "green_shadow"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Precision_Blast"
+  },
+  {
+    "name": "Sunburn",
+    "base_cost": 1,
+    "effect_ru": "Наносит 2 урона; даёт +1 солнце до конца игры.",
+    "type": "Trick",
+    "heroes": [
+      "solar_flare"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Sunburn"
+  },
+  {
+    "name": "Uncrackable",
+    "base_cost": 1,
+    "effect_ru": "Герой не получает урон этот ход; добрать карту.",
+    "type": "Trick",
+    "heroes": [
+      "wall_knight"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Uncrackable"
+  },
+  {
+    "name": "Devour",
+    "base_cost": 1,
+    "effect_ru": "Уничтожает зомби с наименьшим здоровьем; не произвольную выбранную большую угрозу.",
+    "type": "Trick",
+    "heroes": [
+      "chompzilla"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Devour"
+  },
+  {
+    "name": "Tater Toss",
+    "base_cost": 1,
+    "effect_ru": "Создаёт Hothead с 1 здоровьем и Team-Up. При смерти Hothead наносит 6 зомби здесь.",
+    "type": "Trick",
+    "heroes": [
+      "spudow"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Tater_Toss"
+  },
+  {
+    "name": "Peel Shield",
+    "base_cost": 1,
+    "effect_ru": "Растения не получают урон этот ход; добрать карту. Уничтожение без повреждения и bounce остаются отдельными эффектами.",
+    "type": "Trick",
+    "heroes": [
+      "citron"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Peel_Shield_%28PvZH%29"
+  },
+  {
+    "name": "Power Pummel",
+    "base_cost": 1,
+    "effect_ru": "По текущей записи вики наносит 2 каждому зомби на ground. Старый расчёт автоматических шести повреждений герою не используется.",
+    "type": "Trick",
+    "heroes": [
+      "grass_knuckles"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Power_Pummel"
+  },
+  {
+    "name": "Mush-Boom",
+    "base_cost": 1,
+    "effect_ru": "Создаёт 1/1 Poison Mushroom с Anti-Hero 2; наносит 2 зомби в этой линии.",
+    "type": "Trick",
+    "heroes": [
+      "nightcap"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Mush-Boom"
+  },
+  {
+    "name": "Goatify",
+    "base_cost": 1,
+    "effect_ru": "Зомби с наибольшей атакой превращается в 1/1 Goat.",
+    "type": "Trick",
+    "heroes": [
+      "rose"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Goatify"
+  },
+  {
+    "name": "Blazing Bark",
+    "base_cost": 1,
+    "effect_ru": "Выбранное растение получает +4 атаки.",
+    "type": "Trick",
+    "heroes": [
+      "captain_combustible"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Blazing_Bark"
+  },
+  {
+    "name": "Genetic Amplification",
+    "base_cost": 1,
+    "effect_ru": "Conjure двухстоимостное растение с +2 атаки/+1 здоровья, Amphibious и Team-Up. Полученная карта остаётся в руке и требует оплаты посадки.",
+    "type": "Trick",
+    "heroes": [
+      "beta_carrotina"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Genetic_Amplification"
+  },
+  {
+    "name": "Carried Away",
+    "base_cost": 1,
+    "effect_ru": "Перемещает зомби, даёт +1/+1, затем бонусную атаку.",
+    "type": "Trick",
+    "heroes": [
+      "super_brainz"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Carried_Away"
+  },
+  {
+    "name": "Slammin' Smackdown",
+    "base_cost": 1,
+    "effect_ru": "Уничтожает растение с атакой не выше 4.",
+    "type": "Trick",
+    "heroes": [
+      "the_smash"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Slammin%27_Smackdown"
+  },
+  {
+    "name": "Triple Threat",
+    "base_cost": 1,
+    "effect_ru": "Создаёт два 2/1 Impfinity Clone с Amphibious в случайных доступных линиях.",
+    "type": "Trick",
+    "heroes": [
+      "impfinity"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Triple_Threat"
+  },
+  {
+    "name": "Shrink Ray",
+    "base_cost": 1,
+    "effect_ru": "Растение получает -3 атаки; добрать карту.",
+    "type": "Trick",
+    "heroes": [
+      "rustbolt"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Shrink_Ray"
+  },
+  {
+    "name": "Stayin' Alive",
+    "base_cost": 1,
+    "effect_ru": "Три повреждения растению и восстановление 3 здоровья своему герою.",
+    "type": "Trick",
+    "heroes": [
+      "electric_boogaloo"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Stayin%27_Alive"
+  },
+  {
+    "name": "Frozen Tundra",
+    "base_cost": 1,
+    "effect_ru": "Замораживает все растения, включая heights и water; это актуальное расширение по вики.",
+    "type": "Trick",
+    "heroes": [
+      "brain_freeze"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Frozen_Tundra"
+  },
+  {
+    "name": "Eureka",
+    "base_cost": 1,
+    "effect_ru": "Conjure трёх случайных карт зомби. Конкретный ответ не гарантирован.",
+    "type": "Trick",
+    "heroes": [
+      "professor_brainstorm"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Eureka"
+  },
+  {
+    "name": "Witch's Familiar",
+    "base_cost": 1,
+    "effect_ru": "Создаёт Zom-Bats: 2/1 Amphibious, добор при повреждении.",
+    "type": "Trick",
+    "heroes": [
+      "immorticia"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Witch%27s_Familiar"
+  },
+  {
+    "name": "Missile Madness",
+    "base_cost": 1,
+    "effect_ru": "Три повреждения выбранному растению и по одному остальным Plants.",
+    "type": "Trick",
+    "heroes": [
+      "z_mech"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Missile_Madness_%28PvZH%29"
+  },
+  {
+    "name": "Octo-Pult",
+    "base_cost": 1,
+    "effect_ru": "Создаёт Octo-Pet 3/2 с Amphibious и Frenzy.",
+    "type": "Trick",
+    "heroes": [
+      "neptuna"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Octo-Pult"
+  },
+  {
+    "name": "Terror-Former 10,000",
+    "base_cost": 1,
+    "effect_ru": "Conjure Environment и Trick; все Environments и Tricks в текущей руке стоят на 1 меньше. Обычные зомби не получают общей скидки.",
+    "type": "Trick",
+    "heroes": [
+      "huge_gigantacus"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Terror-Former_10%2C000"
+  },
+  {
+    "name": "Big Chill",
+    "base_cost": 1,
+    "effect_ru": "Freeze выбранного зомби; добрать карту.",
+    "type": "Trick",
+    "heroes": [
+      "green_shadow",
+      "rose"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Big_Chill"
+  },
+  {
+    "name": "Whirlwind",
+    "base_cost": 1,
+    "effect_ru": "Возвращает случайного зомби в руку его владельца.",
+    "type": "Trick",
+    "heroes": [
+      "green_shadow",
+      "nightcap"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Whirlwind"
+  },
+  {
+    "name": "Embiggen",
+    "base_cost": 1,
+    "effect_ru": "Растение получает +2/+2.",
+    "type": "Trick",
+    "heroes": [
+      "green_shadow",
+      "captain_combustible"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Embiggen"
+  },
+  {
+    "name": "Weed Whack",
+    "base_cost": 1,
+    "effect_ru": "Зомби получает -2/-2.",
+    "type": "Trick",
+    "heroes": [
+      "solar_flare",
+      "rose"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Weed_Whack"
+  },
+  {
+    "name": "More Spore",
+    "base_cost": 1,
+    "effect_ru": "Создаёт 1/1 Button Mushroom в выбранной линии и ещё один в случайной доступной линии.",
+    "type": "Trick",
+    "heroes": [
+      "solar_flare",
+      "nightcap"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/More_Spore"
+  },
+  {
+    "name": "Scorched Earth",
+    "base_cost": 1,
+    "effect_ru": "Все зомби на ground получают -1/-1.",
+    "type": "Trick",
+    "heroes": [
+      "solar_flare",
+      "chompzilla"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Scorched_Earth"
+  },
+  {
+    "name": "Geyser",
+    "base_cost": 1,
+    "effect_ru": "Лечит растения и своего героя на величину до 4 каждому; не превышает их текущий максимум здоровья.",
+    "type": "Trick",
+    "heroes": [
+      "wall_knight",
+      "chompzilla"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Geyser"
+  },
+  {
+    "name": "Nut Signal",
+    "base_cost": 1,
+    "effect_ru": "Создаёт Wall-Nut с Team-Up и добирает карту.",
+    "type": "Trick",
+    "heroes": [
+      "wall_knight",
+      "citron"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Nut_Signal"
+  },
+  {
+    "name": "Bubble Up",
+    "base_cost": 1,
+    "effect_ru": "Перемещает растение, даёт +4 здоровья и Team-Up.",
+    "type": "Trick",
+    "heroes": [
+      "wall_knight",
+      "spudow"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Bubble_Up"
+  },
+  {
+    "name": "Storm Front",
+    "base_cost": 1,
+    "effect_ru": "Все растения получают +1/+1.",
+    "type": "Trick",
+    "heroes": [
+      "spudow",
+      "nightcap"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Storm_Front"
+  },
+  {
+    "name": "Meteor Strike",
+    "base_cost": 1,
+    "effect_ru": "Три повреждения выбранному зомби; не герою.",
+    "type": "Trick",
+    "heroes": [
+      "spudow",
+      "captain_combustible"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Meteor_Strike"
+  },
+  {
+    "name": "Transmogrify",
+    "base_cost": 1,
+    "effect_ru": "Превращает зомби в случайного зомби исходной стоимости 1.",
+    "type": "Trick",
+    "heroes": [
+      "citron",
+      "rose"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Transmogrify"
+  },
+  {
+    "name": "Root Wall",
+    "base_cost": 1,
+    "effect_ru": "Растение получает +2 здоровья и не получает повреждения этот ход.",
+    "type": "Trick",
+    "heroes": [
+      "citron",
+      "grass_knuckles"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Root_Wall"
+  },
+  {
+    "name": "Holo-Flora",
+    "base_cost": 1,
+    "effect_ru": "Добрать две карты из своей колоды.",
+    "type": "Trick",
+    "heroes": [
+      "chompzilla",
+      "grass_knuckles"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Holo-Flora"
+  },
+  {
+    "name": "Time to Shine",
+    "base_cost": 1,
+    "effect_ru": "Выбранное растение делает бонусную атаку. Freeze может быть потрачен на разморозку вместо полноценного удара.",
+    "type": "Trick",
+    "heroes": [
+      "grass_knuckles",
+      "captain_combustible"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Time_to_Shine"
+  },
+  {
+    "name": "Ensign Uproot",
+    "base_cost": 1,
+    "effect_ru": "Plant 2/1 с Amphibious; при выходе перемещает другое растение или зомби.",
+    "type": "Fighter",
+    "heroes": [
+      "beta_carrotina"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Ensign_Uproot"
+  },
+  {
+    "name": "Lieutenant Carrotron",
+    "base_cost": 1,
+    "effect_ru": "Plant 2/1 с Team-Up; при выходе Conjure Root.",
+    "type": "Fighter",
+    "heroes": [
+      "beta_carrotina"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Lieutenant_Carrotron"
+  },
+  {
+    "name": "Lightspeed Seed",
+    "base_cost": 1,
+    "effect_ru": "Conjure двух случайных Tricks.",
+    "type": "Trick",
+    "heroes": [
+      "beta_carrotina"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Lightspeed_Seed"
+  },
+  {
+    "name": "Telepathy",
+    "base_cost": 1,
+    "effect_ru": "Добрать две карты.",
+    "type": "Trick",
+    "heroes": [
+      "super_brainz",
+      "professor_brainstorm"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Telepathy"
+  },
+  {
+    "name": "Cut Down to Size",
+    "base_cost": 1,
+    "effect_ru": "Уничтожить растение с атакой от 5.",
+    "type": "Trick",
+    "heroes": [
+      "super_brainz",
+      "rustbolt"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Cut_Down_to_Size"
+  },
+  {
+    "name": "Super Stench",
+    "base_cost": 1,
+    "effect_ru": "Все зомби получают Deadly; добрать карту.",
+    "type": "Trick",
+    "heroes": [
+      "super_brainz",
+      "impfinity"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Super_Stench"
+  },
+  {
+    "name": "Heroic Health",
+    "base_cost": 1,
+    "effect_ru": "Восстановить своему герою до 6 здоровья.",
+    "type": "Trick",
+    "heroes": [
+      "the_smash",
+      "rustbolt"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Heroic_Health"
+  },
+  {
+    "name": "Possessed",
+    "base_cost": 1,
+    "effect_ru": "Зомби получает +2 здоровья и Frenzy; не +2 атаки.",
+    "type": "Trick",
+    "heroes": [
+      "the_smash",
+      "neptuna"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Possessed"
+  },
+  {
+    "name": "Galvanize",
+    "base_cost": 1,
+    "effect_ru": "Зомби получает +2/+2.",
+    "type": "Trick",
+    "heroes": [
+      "the_smash",
+      "brain_freeze"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Galvanize"
+  },
+  {
+    "name": "In-Crypted",
+    "base_cost": 1,
+    "effect_ru": "Зомби скрывается в надгробии; добрать карту. Это не немедленная обычная атака скрытого бойца.",
+    "type": "Trick",
+    "heroes": [
+      "impfinity",
+      "neptuna"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/In-Crypted"
+  },
+  {
+    "name": "Brute Strength",
+    "base_cost": 1,
+    "effect_ru": "Зомби получает +3 атаки.",
+    "type": "Trick",
+    "heroes": [
+      "impfinity",
+      "z_mech"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Brute_Strength"
+  },
+  {
+    "name": "Rock Wall",
+    "base_cost": 1,
+    "effect_ru": "Зомби получает +5 здоровья; это не полная неуязвимость.",
+    "type": "Trick",
+    "heroes": [
+      "rustbolt",
+      "z_mech"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Rock_Wall"
+  },
+  {
+    "name": "Dance Off",
+    "base_cost": 1,
+    "effect_ru": "Создаёт Backup Dancer 1/1 в выбранной линии и ещё один в случайной доступной.",
+    "type": "Trick",
+    "heroes": [
+      "electric_boogaloo",
+      "professor_brainstorm"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Dance_Off"
+  },
+  {
+    "name": "Evaporate",
+    "base_cost": 1,
+    "effect_ru": "Уничтожить повреждённое растение и добрать карту.",
+    "type": "Trick",
+    "heroes": [
+      "electric_boogaloo",
+      "immorticia"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Evaporate"
+  },
+  {
+    "name": "Electrobolt",
+    "base_cost": 1,
+    "effect_ru": "Три повреждения выбранному растению.",
+    "type": "Trick",
+    "heroes": [
+      "electric_boogaloo",
+      "z_mech"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Electrobolt"
+  },
+  {
+    "name": "Dolphinado",
+    "base_cost": 1,
+    "effect_ru": "Возвращает случайное растение в руку владельцу.",
+    "type": "Trick",
+    "heroes": [
+      "brain_freeze",
+      "neptuna"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Dolphinado"
+  },
+  {
+    "name": "Acid Rain",
+    "base_cost": 1,
+    "effect_ru": "Все растения на ground получают -1/-1.",
+    "type": "Trick",
+    "heroes": [
+      "brain_freeze",
+      "immorticia"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Acid_Rain"
+  },
+  {
+    "name": "Summoning",
+    "base_cost": 1,
+    "effect_ru": "Создаёт случайного зомби стоимостью не больше 2 в выбранной допустимой линии.",
+    "type": "Trick",
+    "heroes": [
+      "professor_brainstorm",
+      "immorticia"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Summoning"
+  },
+  {
+    "name": "Iron Boarder",
+    "base_cost": 1,
+    "effect_ru": "Zombie 2/3 с Bullseye. В среде получает +1/+1. Как карта бойца обычно требует Zombie Play или разрешения Teleport для Tricks.",
+    "type": "Fighter",
+    "heroes": [
+      "huge_gigantacus"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Iron_Boarder"
+  },
+  {
+    "name": "Teleportation Station",
+    "base_cost": 1,
+    "effect_ru": "Environment: в начале хода при зомби здесь даёт Teleport. Не выдаёт Teleport мгновенно при установке.",
+    "type": "Environment",
+    "heroes": [
+      "huge_gigantacus"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Teleportation_Station"
+  },
+  {
+    "name": "Ice Moon",
+    "base_cost": 1,
+    "effect_ru": "Environment: зомби здесь получают Strikethrough; при установке замораживает растения этой линии.",
+    "type": "Environment",
+    "heroes": [
+      "huge_gigantacus"
+    ],
+    "wiki_url": "https://plantsvszombies.wiki.gg/wiki/Ice_Moon"
+  }
+]

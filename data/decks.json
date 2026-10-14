@@ -1,0 +1,2113 @@
+[
+  {
+    "id": "green_shadow/cartas_buenas",
+    "hero": "green_shadow",
+    "name": "Cartas Buenas",
+    "slug": "cartas_buenas",
+    "category": "source-based",
+    "source_id": "deck_8",
+    "credit": "Pillowy",
+    "source_date": "Jun 09, 2026",
+    "cards": [
+      {
+        "card": "Bonk_Choy",
+        "count": 4
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Lima_Pleurodon",
+        "count": 4
+      },
+      {
+        "card": "Split_Pea",
+        "count": 4
+      },
+      {
+        "card": "Lily_of_the_Valley",
+        "count": 3
+      },
+      {
+        "card": "Laser_Cattail",
+        "count": 3
+      },
+      {
+        "card": "Rotobaga",
+        "count": 3
+      },
+      {
+        "card": "Fertilizer",
+        "count": 3
+      },
+      {
+        "card": "Sportacus",
+        "count": 2
+      },
+      {
+        "card": "Jelly_Bean",
+        "count": 3
+      },
+      {
+        "card": "Plant_Food",
+        "count": 2
+      },
+      {
+        "card": "Gatling_Pea",
+        "count": 3
+      },
+      {
+        "card": "Brainana",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "solar_flare/valueflare",
+    "hero": "solar_flare",
+    "name": "Valueflare",
+    "slug": "valueflare",
+    "category": "source-based",
+    "source_id": "deck_13",
+    "credit": "Xera",
+    "source_date": "Apr 08, 2026",
+    "cards": [
+      {
+        "card": "Li'l_Buddy",
+        "count": 4
+      },
+      {
+        "card": "Sun_Shroom",
+        "count": 4
+      },
+      {
+        "card": "Berry_Blast",
+        "count": 4
+      },
+      {
+        "card": "Fireweed",
+        "count": 3
+      },
+      {
+        "card": "Twin_Sunflower",
+        "count": 2
+      },
+      {
+        "card": "Cross-Pollination",
+        "count": 4
+      },
+      {
+        "card": "Whack-a-Zombie",
+        "count": 2
+      },
+      {
+        "card": "Molekale",
+        "count": 3
+      },
+      {
+        "card": "Fig",
+        "count": 4
+      },
+      {
+        "card": "Aloesaurus",
+        "count": 4
+      },
+      {
+        "card": "Briar_Rose",
+        "count": 3
+      },
+      {
+        "card": "Cob_Cannon",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "wall_knight/chemotherapy",
+    "hero": "wall_knight",
+    "name": "Chemotherapy",
+    "slug": "chemotherapy",
+    "category": "source-based",
+    "source_id": "deck_255",
+    "credit": "Salt, The_Cute_Chick(TCC)",
+    "source_date": "Jun 30, 2026",
+    "cards": [
+      {
+        "card": "Li'l_Buddy",
+        "count": 4
+      },
+      {
+        "card": "Galacta-Cactus",
+        "count": 3
+      },
+      {
+        "card": "Sun_Shroom",
+        "count": 4
+      },
+      {
+        "card": "Pepper_M.D.",
+        "count": 4
+      },
+      {
+        "card": "Cross-Pollination",
+        "count": 4
+      },
+      {
+        "card": "Ketchup_Mechanic",
+        "count": 3
+      },
+      {
+        "card": "Shamrocket",
+        "count": 2
+      },
+      {
+        "card": "Whack-a-Zombie",
+        "count": 2
+      },
+      {
+        "card": "Blockbuster",
+        "count": 2
+      },
+      {
+        "card": "Aloesaurus",
+        "count": 3
+      },
+      {
+        "card": "Cob_Cannon",
+        "count": 3
+      },
+      {
+        "card": "Gravitree",
+        "count": 3
+      },
+      {
+        "card": "Wall-Nut_Bowling",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "chompzilla/apotk",
+    "hero": "chompzilla",
+    "name": "ApOTK",
+    "slug": "apotk",
+    "category": "source-based",
+    "source_id": "deck_44",
+    "credit": "The_Cute_Chick(TCC), Cursed",
+    "source_date": "Feb 18, 2026",
+    "cards": [
+      {
+        "card": "Li'l_Buddy",
+        "count": 4
+      },
+      {
+        "card": "Bonk_Choy",
+        "count": 4
+      },
+      {
+        "card": "Sun_Shroom",
+        "count": 3
+      },
+      {
+        "card": "Split_Pea",
+        "count": 2
+      },
+      {
+        "card": "Pepper_M.D.",
+        "count": 4
+      },
+      {
+        "card": "Water_Balloons",
+        "count": 2
+      },
+      {
+        "card": "Cross-Pollination",
+        "count": 4
+      },
+      {
+        "card": "Ketchup_Mechanic",
+        "count": 4
+      },
+      {
+        "card": "Aloesaurus",
+        "count": 4
+      },
+      {
+        "card": "Apotatosaurus",
+        "count": 3
+      },
+      {
+        "card": "Cob_Cannon",
+        "count": 3
+      },
+      {
+        "card": "Espresso_Fiesta",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "spudow/soteria",
+    "hero": "spudow",
+    "name": "Soteria",
+    "slug": "soteria",
+    "category": "source-based",
+    "source_id": "deck_-1205",
+    "credit": "Xera",
+    "source_date": "Jun 10, 2026",
+    "cards": [
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Galacta-Cactus",
+        "count": 4
+      },
+      {
+        "card": "Berry_Blast",
+        "count": 4
+      },
+      {
+        "card": "Tricarrotops",
+        "count": 3
+      },
+      {
+        "card": "Imitater",
+        "count": 3
+      },
+      {
+        "card": "Pear_Cub",
+        "count": 3
+      },
+      {
+        "card": "Shamrocket",
+        "count": 3
+      },
+      {
+        "card": "Sizzle",
+        "count": 3
+      },
+      {
+        "card": "Blockbuster",
+        "count": 2
+      },
+      {
+        "card": "Starch_Lord",
+        "count": 4
+      },
+      {
+        "card": "Fig",
+        "count": 4
+      },
+      {
+        "card": "Soul_Patch",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "citron/amphibious_momentus",
+    "hero": "citron",
+    "name": "Amphibious Momentus",
+    "slug": "amphibious_momentus",
+    "category": "source-based",
+    "source_id": "deck_-860",
+    "credit": "Sustainedx",
+    "source_date": "Oct 03, 2026",
+    "cards": [
+      {
+        "card": "Admiral_Navy_Bean",
+        "count": 4
+      },
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Lima_Pleurodon",
+        "count": 4
+      },
+      {
+        "card": "Sea-Shroom",
+        "count": 3
+      },
+      {
+        "card": "Sting_Bean",
+        "count": 3
+      },
+      {
+        "card": "Bog_of_Enlightenment",
+        "count": 2
+      },
+      {
+        "card": "Rotobaga",
+        "count": 4
+      },
+      {
+        "card": "Cool_Bean",
+        "count": 2
+      },
+      {
+        "card": "Marine_Bean",
+        "count": 4
+      },
+      {
+        "card": "Jelly_Bean",
+        "count": 4
+      },
+      {
+        "card": "Navy_Bean",
+        "count": 4
+      },
+      {
+        "card": "Brainana",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "grass_knuckles/sensei",
+    "hero": "grass_knuckles",
+    "name": "Sensei",
+    "slug": "sensei",
+    "category": "source-based",
+    "source_id": "deck_74",
+    "credit": "Xera, Durga",
+    "source_date": "May 11, 2026",
+    "cards": [
+      {
+        "card": "Bonk_Choy",
+        "count": 3
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Sting_Bean",
+        "count": 4
+      },
+      {
+        "card": "Lily_of_the_Valley",
+        "count": 3
+      },
+      {
+        "card": "Pea_Patch",
+        "count": 4
+      },
+      {
+        "card": "Split_Pea",
+        "count": 4
+      },
+      {
+        "card": "Fertilizer",
+        "count": 3
+      },
+      {
+        "card": "Podfather",
+        "count": 4
+      },
+      {
+        "card": "Body-Gourd",
+        "count": 1
+      },
+      {
+        "card": "Gatling_Pea",
+        "count": 4
+      },
+      {
+        "card": "Espresso_Fiesta",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "nightcap/cyclecap",
+    "hero": "nightcap",
+    "name": "Cyclecap",
+    "slug": "cyclecap",
+    "category": "source-based",
+    "source_id": "deck_1807",
+    "credit": "MakeMeACoffee, Slewer",
+    "source_date": "Jun 16, 2026",
+    "cards": [
+      {
+        "card": "Puff_Shroom",
+        "count": 3
+      },
+      {
+        "card": "Admiral_Navy_Bean",
+        "count": 4
+      },
+      {
+        "card": "Astro_Shroom",
+        "count": 4
+      },
+      {
+        "card": "Lima_Pleurodon",
+        "count": 4
+      },
+      {
+        "card": "Primal_Peashooter",
+        "count": 3
+      },
+      {
+        "card": "Shroom_For_Two",
+        "count": 2
+      },
+      {
+        "card": "Berry_Blast",
+        "count": 4
+      },
+      {
+        "card": "Wild_Berry",
+        "count": 3
+      },
+      {
+        "card": "Cro-Magnolia",
+        "count": 2
+      },
+      {
+        "card": "Planet_of_the_Grapes",
+        "count": 4
+      },
+      {
+        "card": "Sizzle",
+        "count": 2
+      },
+      {
+        "card": "Veloci-Radish_Packmate",
+        "count": 3
+      },
+      {
+        "card": "Jelly_Bean",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "rose/heal_midrose",
+    "hero": "rose",
+    "name": "Heal MidRose",
+    "slug": "heal_midrose",
+    "category": "source-based",
+    "source_id": "deck_-271",
+    "credit": "The_Cute_Chick(TCC), Salt",
+    "source_date": "Aug 09, 2026",
+    "cards": [
+      {
+        "card": "Li'l_Buddy",
+        "count": 4
+      },
+      {
+        "card": "Primal_Peashooter",
+        "count": 3
+      },
+      {
+        "card": "Sun_Shroom",
+        "count": 4
+      },
+      {
+        "card": "Pepper_M.D.",
+        "count": 4
+      },
+      {
+        "card": "Water_Balloons",
+        "count": 2
+      },
+      {
+        "card": "Cross-Pollination",
+        "count": 3
+      },
+      {
+        "card": "Ketchup_Mechanic",
+        "count": 3
+      },
+      {
+        "card": "Shrinking_Violet",
+        "count": 2
+      },
+      {
+        "card": "Aloesaurus",
+        "count": 3
+      },
+      {
+        "card": "Brainana",
+        "count": 3
+      },
+      {
+        "card": "Cob_Cannon",
+        "count": 3
+      },
+      {
+        "card": "Laser_Bean",
+        "count": 2
+      },
+      {
+        "card": "Winter_Melon",
+        "count": 2
+      },
+      {
+        "card": "Dark_Matter_Dragonfruit",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "captain_combustible/log_bait",
+    "hero": "captain_combustible",
+    "name": "Log Bait",
+    "slug": "log_bait",
+    "category": "source-based",
+    "source_id": "deck_-270",
+    "credit": "Xera, Salt, The_Cute_Chick(TCC)",
+    "source_date": "May 24, 2026",
+    "cards": [
+      {
+        "card": "Bonk_Choy",
+        "count": 4
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Umbrella_Leaf",
+        "count": 2
+      },
+      {
+        "card": "Berry_Blast",
+        "count": 4
+      },
+      {
+        "card": "Lily_of_the_Valley",
+        "count": 3
+      },
+      {
+        "card": "Split_Pea",
+        "count": 4
+      },
+      {
+        "card": "Wild_Berry",
+        "count": 4
+      },
+      {
+        "card": "Fertilizer",
+        "count": 3
+      },
+      {
+        "card": "Veloci-Radish_Packmate",
+        "count": 3
+      },
+      {
+        "card": "Plant_Food",
+        "count": 1
+      },
+      {
+        "card": "Fig",
+        "count": 4
+      },
+      {
+        "card": "Gatling_Pea",
+        "count": 4
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "beta_carrotina/sham_control",
+    "hero": "beta_carrotina",
+    "name": "Sham Control — HeroDecks shell",
+    "slug": "sham_control",
+    "category": "theorycraft",
+    "source_id": null,
+    "credit": "HeroDecks",
+    "source_date": "2026-10-14",
+    "cards": [
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Galacta-Cactus",
+        "count": 4
+      },
+      {
+        "card": "Lima_Pleurodon",
+        "count": 4
+      },
+      {
+        "card": "Photosynthesizer",
+        "count": 4
+      },
+      {
+        "card": "Pear_Cub",
+        "count": 4
+      },
+      {
+        "card": "Shamrocket",
+        "count": 3
+      },
+      {
+        "card": "Blockbuster",
+        "count": 3
+      },
+      {
+        "card": "Gravitree",
+        "count": 3
+      },
+      {
+        "card": "Poppin'_Poppies",
+        "count": 3
+      },
+      {
+        "card": "Brainana",
+        "count": 3
+      },
+      {
+        "card": "Shrinking_Violet",
+        "count": 3
+      },
+      {
+        "card": "Tricarrotops",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "super_brainz/limerence",
+    "hero": "super_brainz",
+    "name": "Limerence",
+    "slug": "limerence",
+    "category": "source-based",
+    "source_id": "deck_123",
+    "credit": "Xera, Shortbow",
+    "source_date": "Jun 11, 2026",
+    "cards": [
+      {
+        "card": "Imposter",
+        "count": 4
+      },
+      {
+        "card": "Mustache_Waxer",
+        "count": 4
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Barrel_of_Barrels",
+        "count": 2
+      },
+      {
+        "card": "Beam_Me_Up",
+        "count": 2
+      },
+      {
+        "card": "Teleportation_Zombie",
+        "count": 4
+      },
+      {
+        "card": "Duckstache",
+        "count": 4
+      },
+      {
+        "card": "Laser_Base_Alpha",
+        "count": 3
+      },
+      {
+        "card": "Space_Cowboy",
+        "count": 3
+      },
+      {
+        "card": "Tomb_Raiser",
+        "count": 3
+      },
+      {
+        "card": "Cryo-Yeti",
+        "count": 4
+      },
+      {
+        "card": "Viking",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "the_smash/luminous",
+    "hero": "the_smash",
+    "name": "Luminous",
+    "slug": "luminous",
+    "category": "source-based",
+    "source_id": "deck_16",
+    "credit": "Seasons",
+    "source_date": "Apr 03, 2026",
+    "cards": [
+      {
+        "card": "Arm_Wrestler",
+        "count": 3
+      },
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Rolling_Stone",
+        "count": 3
+      },
+      {
+        "card": "Cyborg_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Sumo_Wrestler",
+        "count": 4
+      },
+      {
+        "card": "Synchronized_Swimmer",
+        "count": 1
+      },
+      {
+        "card": "Alien_Ooze",
+        "count": 3
+      },
+      {
+        "card": "Area_22",
+        "count": 4
+      },
+      {
+        "card": "Going_Viral",
+        "count": 3
+      },
+      {
+        "card": "Turquoise_Skull_Zombie",
+        "count": 4
+      },
+      {
+        "card": "All-Star_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Intergalactic_Warlord",
+        "count": 3
+      },
+      {
+        "card": "Zombot_Battlecruiser_5000",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "impfinity/no_hokai",
+    "hero": "impfinity",
+    "name": "No-Hokai",
+    "slug": "no_hokai",
+    "category": "source-based",
+    "source_id": "deck_3",
+    "credit": "The_Cute_Chick(TCC), Mono, Xera",
+    "source_date": "Apr 19, 2026",
+    "cards": [
+      {
+        "card": "Bungee_Plumber",
+        "count": 4
+      },
+      {
+        "card": "Mini_Ninja",
+        "count": 4
+      },
+      {
+        "card": "Quickdraw_Con_Man",
+        "count": 4
+      },
+      {
+        "card": "Dr._Spacetime",
+        "count": 4
+      },
+      {
+        "card": "Quazard",
+        "count": 4
+      },
+      {
+        "card": "Sugary_Treat",
+        "count": 2
+      },
+      {
+        "card": "Gizzard_Lizard",
+        "count": 2
+      },
+      {
+        "card": "Laser_Base_Alpha",
+        "count": 3
+      },
+      {
+        "card": "Space_Cowboy",
+        "count": 3
+      },
+      {
+        "card": "Tomb_Raiser",
+        "count": 3
+      },
+      {
+        "card": "Cryo-Yeti",
+        "count": 4
+      },
+      {
+        "card": "Cursed_Gargolith",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "rustbolt/telepsterrazzi",
+    "hero": "rustbolt",
+    "name": "Telepsterrazzi",
+    "slug": "telepsterrazzi",
+    "category": "source-based",
+    "source_id": "deck_11",
+    "credit": "The_Cute_Chick(TCC)",
+    "source_date": "Apr 08, 2026",
+    "cards": [
+      {
+        "card": "Healthy_Treat",
+        "count": 4
+      },
+      {
+        "card": "Leftovers",
+        "count": 2
+      },
+      {
+        "card": "Leprechaun_Imp",
+        "count": 4
+      },
+      {
+        "card": "Paparazzi_Zombie",
+        "count": 2
+      },
+      {
+        "card": "Rolling_Stone",
+        "count": 4
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Teacher",
+        "count": 4
+      },
+      {
+        "card": "Teleportation_Zombie",
+        "count": 1
+      },
+      {
+        "card": "Fun-Dead_Raiser",
+        "count": 4
+      },
+      {
+        "card": "Going_Viral",
+        "count": 2
+      },
+      {
+        "card": "Rocket_Science",
+        "count": 2
+      },
+      {
+        "card": "Thinking_Cap",
+        "count": 3
+      },
+      {
+        "card": "Trickster",
+        "count": 4
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "electric_boogaloo/omani",
+    "hero": "electric_boogaloo",
+    "name": "Omani",
+    "slug": "omani",
+    "category": "source-based",
+    "source_id": "deck_-461",
+    "credit": "Bhb12",
+    "source_date": "Jun 22, 2026",
+    "cards": [
+      {
+        "card": "Bungee_Plumber",
+        "count": 4
+      },
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Mystery_Egg",
+        "count": 3
+      },
+      {
+        "card": "Quickdraw_Con_Man",
+        "count": 4
+      },
+      {
+        "card": "Unlife_of_the_Party",
+        "count": 3
+      },
+      {
+        "card": "Barrel_Of_Deadbeards",
+        "count": 2
+      },
+      {
+        "card": "Final_Mission",
+        "count": 2
+      },
+      {
+        "card": "Quazard",
+        "count": 4
+      },
+      {
+        "card": "Area_22",
+        "count": 4
+      },
+      {
+        "card": "Gargantuar-Throwing_Imp",
+        "count": 3
+      },
+      {
+        "card": "Frankentuar",
+        "count": 3
+      },
+      {
+        "card": "Hippity_Hop_Gargantuar",
+        "count": 4
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "brain_freeze/lock_the_bathroom",
+    "hero": "brain_freeze",
+    "name": "Lock the Bathroom",
+    "slug": "lock_the_bathroom",
+    "category": "source-based",
+    "source_id": "deck_-41",
+    "credit": "Boris",
+    "source_date": "Jul 03, 2026",
+    "cards": [
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Mini_Ninja",
+        "count": 3
+      },
+      {
+        "card": "Nibble",
+        "count": 2
+      },
+      {
+        "card": "Smoke_Bomb",
+        "count": 2
+      },
+      {
+        "card": "Botanist",
+        "count": 2
+      },
+      {
+        "card": "Dr._Spacetime",
+        "count": 4
+      },
+      {
+        "card": "Extinction_Event",
+        "count": 2
+      },
+      {
+        "card": "Area_22",
+        "count": 4
+      },
+      {
+        "card": "Line_Dancing_Zombie",
+        "count": 4
+      },
+      {
+        "card": "Pogo_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Space_Cowboy",
+        "count": 1
+      },
+      {
+        "card": "Cryo-Yeti",
+        "count": 4
+      },
+      {
+        "card": "Mixed-Up_Gravedigger",
+        "count": 3
+      },
+      {
+        "card": "Cursed_Gargolith",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "professor_brainstorm/trickstache",
+    "hero": "professor_brainstorm",
+    "name": "Trickstache",
+    "slug": "trickstache",
+    "category": "source-based",
+    "source_id": "deck_122",
+    "credit": "StarStormvZ",
+    "source_date": "Nov 10, 2025",
+    "cards": [
+      {
+        "card": "Bungee_Plumber",
+        "count": 4
+      },
+      {
+        "card": "Grave_Robber",
+        "count": 3
+      },
+      {
+        "card": "Mustache_Waxer",
+        "count": 4
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Barrel_Of_Deadbeards",
+        "count": 3
+      },
+      {
+        "card": "Exploding_Fruitcake",
+        "count": 2
+      },
+      {
+        "card": "Final_Mission",
+        "count": 2
+      },
+      {
+        "card": "Quazard",
+        "count": 4
+      },
+      {
+        "card": "Duckstache",
+        "count": 2
+      },
+      {
+        "card": "Fun-Dead_Raiser",
+        "count": 4
+      },
+      {
+        "card": "Rocket_Science",
+        "count": 2
+      },
+      {
+        "card": "Viking",
+        "count": 2
+      },
+      {
+        "card": "Trickster",
+        "count": 4
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "immorticia/bestached",
+    "hero": "immorticia",
+    "name": "Bestached",
+    "slug": "bestached",
+    "category": "source-based",
+    "source_id": "deck_108",
+    "credit": "Xera, Shortbow",
+    "source_date": "Sep 25, 2026",
+    "cards": [
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Mustache_Waxer",
+        "count": 4
+      },
+      {
+        "card": "Nibble",
+        "count": 2
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Cyborg_Zombie",
+        "count": 1
+      },
+      {
+        "card": "Extinction_Event",
+        "count": 4
+      },
+      {
+        "card": "Teleportation_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Alien_Ooze",
+        "count": 1
+      },
+      {
+        "card": "Area_22",
+        "count": 3
+      },
+      {
+        "card": "B-flat",
+        "count": 1
+      },
+      {
+        "card": "Duckstache",
+        "count": 2
+      },
+      {
+        "card": "Fun-Dead_Raiser",
+        "count": 3
+      },
+      {
+        "card": "Rocket_Science",
+        "count": 2
+      },
+      {
+        "card": "Primordial_Cheese_Shover",
+        "count": 2
+      },
+      {
+        "card": "Viking",
+        "count": 1
+      },
+      {
+        "card": "Trickster",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "z_mech/cgp_dark_ages",
+    "hero": "z_mech",
+    "name": "CGP Dark Ages",
+    "slug": "cgp_dark_ages",
+    "category": "source-based",
+    "source_id": "deck_-2255",
+    "credit": "Sustainedx",
+    "source_date": "Jul 13, 2026",
+    "cards": [
+      {
+        "card": "Black_Hole",
+        "count": 3
+      },
+      {
+        "card": "Bungee_Plumber",
+        "count": 3
+      },
+      {
+        "card": "Mystery_Egg",
+        "count": 4
+      },
+      {
+        "card": "Quickdraw_Con_Man",
+        "count": 2
+      },
+      {
+        "card": "Rolling_Stone",
+        "count": 2
+      },
+      {
+        "card": "Unlife_of_the_Party",
+        "count": 4
+      },
+      {
+        "card": "Quazard",
+        "count": 4
+      },
+      {
+        "card": "Sumo_Wrestler",
+        "count": 3
+      },
+      {
+        "card": "Going_Viral",
+        "count": 3
+      },
+      {
+        "card": "Gargantuar-Throwing_Imp",
+        "count": 3
+      },
+      {
+        "card": "Zombie_King",
+        "count": 2
+      },
+      {
+        "card": "Hippity_Hop_Gargantuar",
+        "count": 3
+      },
+      {
+        "card": "Intergalactic_Warlord",
+        "count": 2
+      },
+      {
+        "card": "Zombot_Battlecruiser_5000",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "neptuna/midtomba",
+    "hero": "neptuna",
+    "name": "Midtomba",
+    "slug": "midtomba",
+    "category": "source-based",
+    "source_id": "deck_12008",
+    "credit": "Spand14, Xera, Shortbow",
+    "source_date": "Jun 06, 2026",
+    "cards": [
+      {
+        "card": "Black_Hole",
+        "count": 4
+      },
+      {
+        "card": "Rolling_Stone",
+        "count": 4
+      },
+      {
+        "card": "Ice_Pirate",
+        "count": 3
+      },
+      {
+        "card": "Sumo_Wrestler",
+        "count": 4
+      },
+      {
+        "card": "Excavator_Zombie",
+        "count": 2
+      },
+      {
+        "card": "Laser_Base_Alpha",
+        "count": 2
+      },
+      {
+        "card": "Line_Dancing_Zombie",
+        "count": 4
+      },
+      {
+        "card": "Pogo_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Tomb_Raiser",
+        "count": 4
+      },
+      {
+        "card": "Cryo-Yeti",
+        "count": 4
+      },
+      {
+        "card": "Mixed-Up_Gravedigger",
+        "count": 3
+      },
+      {
+        "card": "Cursed_Gargolith",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "huge_gigantacus/telimps",
+    "hero": "huge_gigantacus",
+    "name": "Telimps",
+    "slug": "telimps",
+    "category": "source-based",
+    "source_id": "deck_210",
+    "credit": "Sushi",
+    "source_date": "Aug 09, 2026",
+    "cards": [
+      {
+        "card": "Imposter",
+        "count": 4
+      },
+      {
+        "card": "Mini_Ninja",
+        "count": 2
+      },
+      {
+        "card": "Neutron_Imp",
+        "count": 3
+      },
+      {
+        "card": "Smoke_Bomb",
+        "count": 2
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Imp_Throwing_Imp",
+        "count": 3
+      },
+      {
+        "card": "Lurch_For_Lunch",
+        "count": 2
+      },
+      {
+        "card": "Teleportation_Zombie",
+        "count": 4
+      },
+      {
+        "card": "Toxic_Waste_Imp",
+        "count": 4
+      },
+      {
+        "card": "Imp_Commander",
+        "count": 4
+      },
+      {
+        "card": "Laser_Base_Alpha",
+        "count": 3
+      },
+      {
+        "card": "Zom-Blob",
+        "count": 3
+      },
+      {
+        "card": "Viking",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "grass_knuckles/redundancy",
+    "hero": "grass_knuckles",
+    "name": "Redundancy",
+    "slug": "redundancy",
+    "category": "source-based-alt",
+    "source_id": "deck_2455",
+    "credit": "stingray201",
+    "source_date": "Jun 24, 2026",
+    "cards": [
+      {
+        "card": "Bonk_Choy",
+        "count": 4
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Cabbage_Pult",
+        "count": 3
+      },
+      {
+        "card": "Pea_Patch",
+        "count": 4
+      },
+      {
+        "card": "Flourish",
+        "count": 2
+      },
+      {
+        "card": "Shamrocket",
+        "count": 2
+      },
+      {
+        "card": "Typical_Beanstalk",
+        "count": 4
+      },
+      {
+        "card": "Savage_Spinach",
+        "count": 4
+      },
+      {
+        "card": "Gatling_Pea",
+        "count": 4
+      },
+      {
+        "card": "Gravitree",
+        "count": 3
+      },
+      {
+        "card": "Espresso_Fiesta",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "captain_combustible/comboss",
+    "hero": "captain_combustible",
+    "name": "Comboss",
+    "slug": "comboss",
+    "category": "source-based-alt",
+    "source_id": "deck_-42",
+    "credit": "Xera",
+    "source_date": "Jun 24, 2026",
+    "cards": [
+      {
+        "card": "Puff_Shroom",
+        "count": 4
+      },
+      {
+        "card": "Bonk_Choy",
+        "count": 4
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Banana_Launcher",
+        "count": 4
+      },
+      {
+        "card": "Berry_Blast",
+        "count": 4
+      },
+      {
+        "card": "Lily_of_the_Valley",
+        "count": 2
+      },
+      {
+        "card": "Split_Pea",
+        "count": 4
+      },
+      {
+        "card": "Fertilizer",
+        "count": 2
+      },
+      {
+        "card": "Sizzle",
+        "count": 1
+      },
+      {
+        "card": "Veloci-Radish_Packmate",
+        "count": 4
+      },
+      {
+        "card": "Repeat_Moss",
+        "count": 4
+      },
+      {
+        "card": "Onion_Rings",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "beta_carrotina/mirrtorcycle",
+    "hero": "beta_carrotina",
+    "name": "Mirrtorcycle",
+    "slug": "mirrtorcycle",
+    "category": "source-based-alt",
+    "source_id": "deck_2555",
+    "credit": "The Question Mark",
+    "source_date": "Jun 24, 2026",
+    "cards": [
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Galacta-Cactus",
+        "count": 4
+      },
+      {
+        "card": "Photosynthesizer",
+        "count": 4
+      },
+      {
+        "card": "Pismashio",
+        "count": 4
+      },
+      {
+        "card": "Planet_of_the_Grapes",
+        "count": 3
+      },
+      {
+        "card": "Primal_Wall-Nut",
+        "count": 3
+      },
+      {
+        "card": "Sportacus",
+        "count": 4
+      },
+      {
+        "card": "Three-Nut",
+        "count": 2
+      },
+      {
+        "card": "Mirror-Nut",
+        "count": 4
+      },
+      {
+        "card": "Shrinking_Violet",
+        "count": 2
+      },
+      {
+        "card": "Pecanolith",
+        "count": 4
+      },
+      {
+        "card": "Poppin'_Poppies",
+        "count": 2
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "chompzilla/ringspresso",
+    "hero": "chompzilla",
+    "name": "Ringspresso",
+    "slug": "ringspresso",
+    "category": "source-based-alt",
+    "source_id": "deck_45",
+    "credit": "Xera, Slewer, MakeMeACoffee, First Hero",
+    "source_date": "Aug 15, 2026",
+    "cards": [
+      {
+        "card": "Li'l_Buddy",
+        "count": 4
+      },
+      {
+        "card": "Bonk_Choy",
+        "count": 4
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Sun_Shroom",
+        "count": 3
+      },
+      {
+        "card": "Lily_of_the_Valley",
+        "count": 2
+      },
+      {
+        "card": "Pepper_M.D.",
+        "count": 3
+      },
+      {
+        "card": "Split_Pea",
+        "count": 2
+      },
+      {
+        "card": "Water_Balloons",
+        "count": 2
+      },
+      {
+        "card": "Flourish",
+        "count": 3
+      },
+      {
+        "card": "Ketchup_Mechanic",
+        "count": 4
+      },
+      {
+        "card": "Onion_Rings",
+        "count": 2
+      },
+      {
+        "card": "Apotatosaurus",
+        "count": 2
+      },
+      {
+        "card": "Laser_Bean",
+        "count": 2
+      },
+      {
+        "card": "Espresso_Fiesta",
+        "count": 3
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "immorticia/secret_swimmer_blob",
+    "hero": "immorticia",
+    "name": "Secret Swimmer Blob",
+    "slug": "secret_swimmer_blob",
+    "category": "source-based-alt",
+    "source_id": "deck_-124",
+    "credit": "FryEmUp",
+    "source_date": "Jun 09, 2026",
+    "cards": [
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Dog_Walker",
+        "count": 4
+      },
+      {
+        "card": "Fraidy_Cat",
+        "count": 2
+      },
+      {
+        "card": "Secret_Agent",
+        "count": 4
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Lurch_For_Lunch",
+        "count": 3
+      },
+      {
+        "card": "Synchronized_Swimmer",
+        "count": 4
+      },
+      {
+        "card": "Teleportation_Zombie",
+        "count": 4
+      },
+      {
+        "card": "Area_22",
+        "count": 4
+      },
+      {
+        "card": "Brain_Vendor",
+        "count": 3
+      },
+      {
+        "card": "Zom-Blob",
+        "count": 4
+      }
+    ],
+    "changes": []
+  },
+  {
+    "id": "grass_knuckles/sensei_anti_teleport",
+    "hero": "grass_knuckles",
+    "name": "Sensei anti-teleport",
+    "slug": "sensei_anti_teleport",
+    "category": "countermeta-theorycraft",
+    "source_id": "deck_74",
+    "credit": "HeroDecks",
+    "source_date": "2026-10-14",
+    "cards": [
+      {
+        "card": "Bonk_Choy",
+        "count": 3
+      },
+      {
+        "card": "Clique_Peas",
+        "count": 4
+      },
+      {
+        "card": "Forget-Me-Nuts",
+        "count": 4
+      },
+      {
+        "card": "Sting_Bean",
+        "count": 4
+      },
+      {
+        "card": "Lily_of_the_Valley",
+        "count": 3
+      },
+      {
+        "card": "Pea_Patch",
+        "count": 4
+      },
+      {
+        "card": "Split_Pea",
+        "count": 4
+      },
+      {
+        "card": "Fertilizer",
+        "count": 3
+      },
+      {
+        "card": "Podfather",
+        "count": 2
+      },
+      {
+        "card": "Body-Gourd",
+        "count": 1
+      },
+      {
+        "card": "Gatling_Pea",
+        "count": 4
+      },
+      {
+        "card": "Espresso_Fiesta",
+        "count": 2
+      },
+      {
+        "card": "Fire_Peashooter",
+        "count": 2
+      }
+    ],
+    "changes": [
+      {
+        "card": "Podfather",
+        "delta": -2
+      },
+      {
+        "card": "Fire_Peashooter",
+        "delta": 2
+      }
+    ],
+    "base_id": "grass_knuckles/sensei",
+    "target": "Teleportation Zombie / Mustache Waxer"
+  },
+  {
+    "id": "rose/hmr_anti_waxer",
+    "hero": "rose",
+    "name": "HMR anti-Waxer",
+    "slug": "hmr_anti_waxer",
+    "category": "countermeta-theorycraft",
+    "source_id": "deck_-271",
+    "credit": "HeroDecks",
+    "source_date": "2026-10-14",
+    "cards": [
+      {
+        "card": "Li'l_Buddy",
+        "count": 4
+      },
+      {
+        "card": "Primal_Peashooter",
+        "count": 3
+      },
+      {
+        "card": "Sun_Shroom",
+        "count": 4
+      },
+      {
+        "card": "Pepper_M.D.",
+        "count": 4
+      },
+      {
+        "card": "Water_Balloons",
+        "count": 2
+      },
+      {
+        "card": "Cross-Pollination",
+        "count": 3
+      },
+      {
+        "card": "Ketchup_Mechanic",
+        "count": 3
+      },
+      {
+        "card": "Shrinking_Violet",
+        "count": 2
+      },
+      {
+        "card": "Aloesaurus",
+        "count": 3
+      },
+      {
+        "card": "Brainana",
+        "count": 3
+      },
+      {
+        "card": "Cob_Cannon",
+        "count": 3
+      },
+      {
+        "card": "Laser_Bean",
+        "count": 2
+      },
+      {
+        "card": "Dark_Matter_Dragonfruit",
+        "count": 2
+      },
+      {
+        "card": "Whack-a-Zombie",
+        "count": 2
+      }
+    ],
+    "changes": [
+      {
+        "card": "Winter_Melon",
+        "delta": -2
+      },
+      {
+        "card": "Whack-a-Zombie",
+        "delta": 2
+      }
+    ],
+    "base_id": "rose/heal_midrose",
+    "target": "Mustache Waxer / Teleportation Zombie"
+  },
+  {
+    "id": "electric_boogaloo/omani_anti_heal",
+    "hero": "electric_boogaloo",
+    "name": "Omani anti-heal",
+    "slug": "omani_anti_heal",
+    "category": "countermeta-theorycraft",
+    "source_id": "deck_-461",
+    "credit": "HeroDecks",
+    "source_date": "2026-10-14",
+    "cards": [
+      {
+        "card": "Bungee_Plumber",
+        "count": 4
+      },
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Mystery_Egg",
+        "count": 3
+      },
+      {
+        "card": "Quickdraw_Con_Man",
+        "count": 4
+      },
+      {
+        "card": "Unlife_of_the_Party",
+        "count": 3
+      },
+      {
+        "card": "Barrel_Of_Deadbeards",
+        "count": 2
+      },
+      {
+        "card": "Final_Mission",
+        "count": 2
+      },
+      {
+        "card": "Quazard",
+        "count": 4
+      },
+      {
+        "card": "Area_22",
+        "count": 4
+      },
+      {
+        "card": "Gargantuar-Throwing_Imp",
+        "count": 3
+      },
+      {
+        "card": "Frankentuar",
+        "count": 1
+      },
+      {
+        "card": "Hippity_Hop_Gargantuar",
+        "count": 4
+      },
+      {
+        "card": "Sneezing_Zombie",
+        "count": 2
+      }
+    ],
+    "changes": [
+      {
+        "card": "Frankentuar",
+        "delta": -2
+      },
+      {
+        "card": "Sneezing_Zombie",
+        "delta": 2
+      }
+    ],
+    "base_id": "electric_boogaloo/omani",
+    "target": "Pepper M.D. / Aloesaurus / heal midrange"
+  },
+  {
+    "id": "neptuna/midtomba_anti_swarm",
+    "hero": "neptuna",
+    "name": "Midtomba anti-swarm",
+    "slug": "midtomba_anti_swarm",
+    "category": "countermeta-theorycraft",
+    "source_id": "deck_12008",
+    "credit": "HeroDecks",
+    "source_date": "2026-10-14",
+    "cards": [
+      {
+        "card": "Black_Hole",
+        "count": 4
+      },
+      {
+        "card": "Rolling_Stone",
+        "count": 4
+      },
+      {
+        "card": "Ice_Pirate",
+        "count": 3
+      },
+      {
+        "card": "Sumo_Wrestler",
+        "count": 4
+      },
+      {
+        "card": "Excavator_Zombie",
+        "count": 2
+      },
+      {
+        "card": "Laser_Base_Alpha",
+        "count": 2
+      },
+      {
+        "card": "Line_Dancing_Zombie",
+        "count": 4
+      },
+      {
+        "card": "Pogo_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Tomb_Raiser",
+        "count": 4
+      },
+      {
+        "card": "Cryo-Yeti",
+        "count": 4
+      },
+      {
+        "card": "Mixed-Up_Gravedigger",
+        "count": 3
+      },
+      {
+        "card": "Cursed_Gargolith",
+        "count": 1
+      },
+      {
+        "card": "Weed_Spray",
+        "count": 2
+      }
+    ],
+    "changes": [
+      {
+        "card": "Cursed_Gargolith",
+        "delta": -2
+      },
+      {
+        "card": "Weed_Spray",
+        "delta": 2
+      }
+    ],
+    "base_id": "neptuna/midtomba",
+    "target": "Cyclecap / low-strength Amphibious swarm"
+  },
+  {
+    "id": "immorticia/bestached_anti_untrickable",
+    "hero": "immorticia",
+    "name": "Bestached anti-Untrickable",
+    "slug": "bestached_anti_untrickable",
+    "category": "countermeta-theorycraft",
+    "source_id": "deck_108",
+    "credit": "HeroDecks",
+    "source_date": "2026-10-14",
+    "cards": [
+      {
+        "card": "Cheese_Cutter",
+        "count": 4
+      },
+      {
+        "card": "Mustache_Waxer",
+        "count": 4
+      },
+      {
+        "card": "Nibble",
+        "count": 2
+      },
+      {
+        "card": "Teleport",
+        "count": 4
+      },
+      {
+        "card": "Cyborg_Zombie",
+        "count": 1
+      },
+      {
+        "card": "Extinction_Event",
+        "count": 4
+      },
+      {
+        "card": "Teleportation_Zombie",
+        "count": 3
+      },
+      {
+        "card": "Alien_Ooze",
+        "count": 1
+      },
+      {
+        "card": "Area_22",
+        "count": 3
+      },
+      {
+        "card": "Duckstache",
+        "count": 2
+      },
+      {
+        "card": "Fun-Dead_Raiser",
+        "count": 3
+      },
+      {
+        "card": "Rocket_Science",
+        "count": 2
+      },
+      {
+        "card": "Primordial_Cheese_Shover",
+        "count": 4
+      },
+      {
+        "card": "Trickster",
+        "count": 3
+      }
+    ],
+    "changes": [
+      {
+        "card": "B-flat",
+        "delta": -1
+      },
+      {
+        "card": "Viking",
+        "delta": -1
+      },
+      {
+        "card": "Primordial_Cheese_Shover",
+        "delta": 2
+      }
+    ],
+    "base_id": "immorticia/bestached",
+    "target": "Apotatosaurus / Gravitree"
+  }
+]

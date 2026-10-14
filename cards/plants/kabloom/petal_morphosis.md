@@ -1,0 +1,26 @@
+# Petal-Morphosis
+
+[Карты](../../README.md) · [Общий индекс](../../../README.md)
+
+| Поле | Значение |
+| --- | --- |
+| Сторона | plants |
+| Класс | Kabloom |
+| Стоимость | 4 |
+| Атака / здоровье | — |
+| Типы | Flower Trick |
+| Редкость / набор | Rare / Premium |
+| Допустима в обычной колоде | Да |
+| Уровень источника | wiki-infobox |
+
+## Что делает
+
+Transform a Plant into a random Plant. Draw a card. For when it's time to turn over a new leaf.
+
+Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
+
+## Источник
+
+[Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Petal-Morphosis). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.
+
+Общая исходная структурная база: [PvZH Vault](https://pvzhvault.com/card_data.json); индивидуальная вики имеет приоритет при обнаруженном расхождении. Полная проверка в клиенте игры не выполнялась. Атрибуция и лицензия: [SOURCES](../../../SOURCES.md).

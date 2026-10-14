@@ -1,0 +1,9 @@
+research/raw/
+research/author.py
+research/profiles.py
+research/strategies.py
+research/support.py
+research/normalize.py
+__pycache__/
+*.pyc
+.upload/
