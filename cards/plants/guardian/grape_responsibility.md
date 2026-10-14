@@ -19,6 +19,18 @@ Double a plant's Health. When you think of responsibility, think of grapes.
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+трюк требует ресурса в фазе своей стороны и не оставляет постоянного бойца сам по себе. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Spudow — Health attacks / Mirror-Nut attrition [94]](../../../decks/plants/spudow/pecan_mirror_94.md)
+- [Grass Knuckles — Health attacks / Mirror-Nut attrition [89]](../../../decks/plants/grass_knuckles/pecan_mirror_89.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Grape_Responsibility). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

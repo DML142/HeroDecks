@@ -27,9 +27,21 @@ Quickdraw Con Man работает без вашего swarm, но не выра
 
 ## Разобранные колоды
 
+- [Impfinity — Draw punishment / Mystery Egg [858]](../../../decks/zombies/impfinity/draw_burn_tempo_858.md)
+- [Impfinity — Imp network / Dancing burn [58]](../../../decks/zombies/impfinity/imps_dance_58.md)
 - [Electric Boogaloo — Omani](../../../decks/zombies/electric_boogaloo/omani.md)
-- [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
 - [Electric Boogaloo — Omani anti-heal](../../../decks/zombies/electric_boogaloo/omani_anti_heal.md)
+- [Electric Boogaloo — Binary burst / Swimmer stat copy [14003]](../../../decks/zombies/electric_boogaloo/binary_swimmer_14003.md)
+- [Electric Boogaloo — Dancing burn / Bungee Plumber [57]](../../../decks/zombies/electric_boogaloo/dance_solo_57.md)
+- [Electric Boogaloo — Pet tempo / Cat Lady [1941]](../../../decks/zombies/electric_boogaloo/pets_solo_1941.md)
+- [Electric Boogaloo — Swimmer stat copy / Dancing burn [511]](../../../decks/zombies/electric_boogaloo/swimmer_dance_511.md)
+- [Professor Brainstorm — Dancing burn / Overshoot clock [399]](../../../decks/zombies/professor_brainstorm/dance_overshoot_399.md)
+- [Professor Brainstorm — Independent tempo / Bungee Plumber [1909]](../../../decks/zombies/professor_brainstorm/tempo_solo_1909.md)
+- [Professor Brainstorm — Leap progression / Gargantuar pressure [21]](../../../decks/zombies/professor_brainstorm/leap_gargs_21.md)
+- [Professor Brainstorm — Science attack / Mustache economy [60]](../../../decks/zombies/professor_brainstorm/science_mustache_60.md)
+- [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
+- [Z-Mech — Going Viral swarm / Sports team [64]](../../../decks/zombies/z_mech/viral_sports_64.md)
+- [Z-Mech — Overshoot clock / Draw punishment [1330]](../../../decks/zombies/z_mech/overshoot_draw_burn_1330.md)
 
 ## Источник
 

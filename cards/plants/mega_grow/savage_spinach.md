@@ -27,7 +27,13 @@ Fertilize даёт большую прибавку одному носителю
 
 ## Разобранные колоды
 
+- [Green Shadow — Starfruit crossfire / Pea evolution [119]](../../../decks/plants/green_shadow/starfruit_pea_119.md)
+- [Green Shadow — Water and crossfire / Bonk Choy [260]](../../../decks/plants/green_shadow/amphibious_solo_260.md)
+- [Chompzilla — Onion hand conversion / Solar acceleration [188]](../../../decks/plants/chompzilla/rings_ramp_p_188.md)
+- [Chompzilla — Pea evolution / Flower retaliation [267]](../../../decks/plants/chompzilla/pea_flowers_267.md)
 - [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Captain Combustible — Pea evolution / Puff Shroom [165]](../../../decks/plants/captain_combustible/pea_tempo_165.md)
+- [Captain Combustible — Pineclone conversion / Untrickable OTK [37]](../../../decks/plants/captain_combustible/pineclone_apotk_37.md)
 
 ## Источник
 

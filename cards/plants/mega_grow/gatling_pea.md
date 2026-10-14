@@ -28,10 +28,19 @@ Repeater дешевле, но не даёт большого тела и нем�
 ## Разобранные колоды
 
 - [Green Shadow — Cartas Buenas](../../../decks/plants/green_shadow/cartas_buenas.md)
-- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
-- [Captain Combustible — Log Bait](../../../decks/plants/captain_combustible/log_bait.md)
+- [Green Shadow — Freeze execution / Pea evolution [101]](../../../decks/plants/green_shadow/freeze_p_pea_101.md)
+- [Green Shadow — Pea evolution / Bean pressure [90]](../../../decks/plants/green_shadow/pea_beans_90.md)
+- [Green Shadow — Repeat Moss engine / Pea evolution [667]](../../../decks/plants/green_shadow/moss_pea_667.md)
+- [Chompzilla — Pea evolution / Clique Peas [19089]](../../../decks/plants/chompzilla/pea_solo_19089.md)
+- [Chompzilla — Pea evolution / Flower retaliation [267]](../../../decks/plants/chompzilla/pea_flowers_267.md)
+- [Chompzilla — Solar acceleration / Pea evolution [550]](../../../decks/plants/chompzilla/ramp_p_pea_550.md)
+- [Grass Knuckles — Umbrella Pea Sanctuary](../../../decks/plants/grass_knuckles/umbrella_pea_sanctuary.md)
 - [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Grass Knuckles — Three-Nut swarm / Growth reserve [-48]](../../../decks/plants/grass_knuckles/three_nut_anti_trick_n48.md)
+- [Captain Combustible — Log Bait](../../../decks/plants/captain_combustible/log_bait.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
 
 ## Источник
 

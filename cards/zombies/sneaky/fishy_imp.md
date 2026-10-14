@@ -19,6 +19,17 @@ Amphibious.
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 2 с исходными 3.0/1.0 для занятия линии и боя. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Impfinity — Imp network / Dancing burn [58]](../../../decks/zombies/impfinity/imps_dance_58.md)
+- [Brain Freeze — Imp network / Gravestone replay [1495]](../../../decks/zombies/brain_freeze/imps_graves_1495.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Fishy_Imp). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

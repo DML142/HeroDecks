@@ -19,6 +19,17 @@ Transform a Plant into a random Plant. Draw a card. For when it's time to turn o
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+трюк требует ресурса в фазе своей стороны и не оставляет постоянного бойца сам по себе; Draw пополняет руку из текущей колоды. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Solar Flare — Plant transformation / Plant discovery [-11672]](../../../decks/plants/solar_flare/molekale_conjure_p_n11672.md)
+- [Nightcap — Plant transformation / Plant discovery [10676]](../../../decks/plants/nightcap/molekale_conjure_p_10676.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Petal-Morphosis). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

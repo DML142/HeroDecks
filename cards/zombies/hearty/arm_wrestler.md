@@ -28,6 +28,18 @@ Cheese Cutter лучше восполняет руку, но не станови
 ## Разобранные колоды
 
 - [The Smash — Luminous](../../../decks/zombies/the_smash/luminous.md)
+- [The Smash — Going Viral swarm / Sports team [63]](../../../decks/zombies/the_smash/viral_sports_63.md)
+- [The Smash — Knight conversion / Going Viral swarm [128676]](../../../decks/zombies/the_smash/king_viral_128676.md)
+- [The Smash — Sports team / Arm Wrestler [1404]](../../../decks/zombies/the_smash/sports_solo_1404.md)
+- [Rustbolt — Brain production burst / Going Viral swarm [61]](../../../decks/zombies/rustbolt/blob_viral_61.md)
+- [Rustbolt — Sports team / Protected zombie engine [1162]](../../../decks/zombies/rustbolt/sports_parasol_1162.md)
+- [Z-Mech — Binary burst / Going Viral swarm [176]](../../../decks/zombies/z_mech/binary_viral_176.md)
+- [Z-Mech — Going Viral swarm / Sports team [64]](../../../decks/zombies/z_mech/viral_sports_64.md)
+- [Z-Mech — Sports team / Going Viral swarm [1452]](../../../decks/zombies/z_mech/sports_viral_1452.md)
+- [Neptuna — Going Viral swarm / Gargantuar pressure [116561]](../../../decks/zombies/neptuna/viral_gargs_116561.md)
+- [Neptuna — Going Viral swarm / Sports team [59]](../../../decks/zombies/neptuna/viral_sports_59.md)
+- [Neptuna — Imp network / Gravestone replay [-1200]](../../../decks/zombies/neptuna/imps_graves_n1200.md)
+- [Neptuna — Sports team / Gravestone replay [1463]](../../../decks/zombies/neptuna/sports_graves_1463.md)
 
 ## Источник
 

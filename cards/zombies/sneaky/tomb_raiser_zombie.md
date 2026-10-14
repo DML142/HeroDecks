@@ -28,9 +28,19 @@ Pogo Bouncer даёт гарантированный bounce при раскры�
 ## Разобранные колоды
 
 - [Super Brainz — Limerence](../../../decks/zombies/super_brainz/limerence.md)
+- [Super Brainz — Leap progression / Gravestone replay [532]](../../../decks/zombies/super_brainz/leap_graves_532.md)
+- [Super Brainz — Zombie discovery / Bad Moon Rising [113]](../../../decks/zombies/super_brainz/conjure_z_bmr_113.md)
+- [Super Brainz — Zombie freeze / Zombie discovery [691]](../../../decks/zombies/super_brainz/freeze_z_conjure_z_691.md)
 - [Impfinity — No-Hokai](../../../decks/zombies/impfinity/no_hokai.md)
+- [Impfinity — Binary burst / Zombie discovery [178672]](../../../decks/zombies/impfinity/binary_conjure_z_178672.md)
+- [Impfinity — Overshoot clock / Draw punishment [19879]](../../../decks/zombies/impfinity/overshoot_draw_burn_19879.md)
+- [Impfinity — Pirate breakthrough / Binary burst [11673]](../../../decks/zombies/impfinity/pirates_binary_11673.md)
+- [Impfinity — Zombie discovery / Overshoot clock [-126]](../../../decks/zombies/impfinity/conjure_z_overshoot_n126.md)
+- [Brain Freeze — Frenzy tempo / Gravestone replay [131]](../../../decks/zombies/brain_freeze/frenzy_graves_131.md)
 - [Neptuna — Midtomba](../../../decks/zombies/neptuna/midtomba.md)
 - [Neptuna — Midtomba anti-swarm](../../../decks/zombies/neptuna/midtomba_anti_swarm.md)
+- [Neptuna — Zombie discovery / Gargantuar pressure [86]](../../../decks/zombies/neptuna/conjure_z_gargs_86.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
 
 ## Источник
 

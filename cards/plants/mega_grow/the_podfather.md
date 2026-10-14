@@ -27,8 +27,12 @@ When you play a Pea, that Pea gets +2 Strength/+2 Health.
 
 ## Разобранные колоды
 
+- [Green Shadow — Pea evolution / Bean pressure [90]](../../../decks/plants/green_shadow/pea_beans_90.md)
+- [Green Shadow — Pea evolution / Water and crossfire [70]](../../../decks/plants/green_shadow/pea_amphibious_70.md)
+- [Chompzilla — Pea evolution / Clique Peas [19089]](../../../decks/plants/chompzilla/pea_solo_19089.md)
 - [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
 
 ## Источник
 

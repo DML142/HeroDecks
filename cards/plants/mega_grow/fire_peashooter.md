@@ -27,7 +27,12 @@ Cabbage-Pult достигает трёх атак только на heights, к�
 
 ## Разобранные колоды
 
+- [Green Shadow — Freeze execution / Pea evolution [101]](../../../decks/plants/green_shadow/freeze_p_pea_101.md)
+- [Green Shadow — Pea evolution / Water and crossfire [70]](../../../decks/plants/green_shadow/pea_amphibious_70.md)
+- [Chompzilla — Banana scaling / Growth reserve [1509]](../../../decks/plants/chompzilla/banana_potted_1509.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Grass Knuckles — Health attacks / Mirror-Nut attrition [89]](../../../decks/plants/grass_knuckles/pecan_mirror_89.md)
+- [Grass Knuckles — Independent tempo / Pea Pod [1859]](../../../decks/plants/grass_knuckles/tempo_solo_1859.md)
 
 ## Источник
 

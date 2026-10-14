@@ -19,6 +19,23 @@ Bullseye; Dino-Roar: Make a random History zombie in a random lane.
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 7 с исходными 8/8 для занятия линии и боя; Bullseye уменьшает защитную выгоду зарядки блока от такого урона; Dino-Roar требует реального получения карты в указанный момент. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Super Brainz — Imp network / Gravestone replay [228]](../../../decks/zombies/super_brainz/imps_graves_228.md)
+- [Rustbolt — Protected zombie engine / Sun denial [-1218]](../../../decks/zombies/rustbolt/parasol_sun_denial_n1218.md)
+- [Rustbolt — Sun denial / Leap progression [163]](../../../decks/zombies/rustbolt/sun_denial_leap_163.md)
+- [Professor Brainstorm — Death value / Zombie discovery [96]](../../../decks/zombies/professor_brainstorm/death_z_conjure_z_96.md)
+- [Immorticia — Brain acceleration / Science attack [116]](../../../decks/zombies/immorticia/ramp_z_science_116.md)
+- [Immorticia — Independent tempo / Gargantuar pressure [370]](../../../decks/zombies/immorticia/tempo_gargs_370.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
+- [Huge-Gigantacus — Zombie discovery / Brain production burst [34]](../../../decks/zombies/huge_gigantacus/conjure_z_blob_34.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Zombot_Dinotronic_Mechasaur_%28PvZH%29). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

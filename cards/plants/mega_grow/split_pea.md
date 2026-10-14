@@ -28,12 +28,17 @@ Fire Peashooter выживает лучше, но наносит меньше д
 ## Разобранные колоды
 
 - [Green Shadow — Cartas Buenas](../../../decks/plants/green_shadow/cartas_buenas.md)
+- [Green Shadow — Freeze execution / Pea evolution [101]](../../../decks/plants/green_shadow/freeze_p_pea_101.md)
+- [Green Shadow — Pea evolution / Bean pressure [90]](../../../decks/plants/green_shadow/pea_beans_90.md)
+- [Green Shadow — Repeat Moss engine / Pea evolution [667]](../../../decks/plants/green_shadow/moss_pea_667.md)
 - [Chompzilla — ApOTK](../../../decks/plants/chompzilla/apotk.md)
-- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
-- [Captain Combustible — Log Bait](../../../decks/plants/captain_combustible/log_bait.md)
-- [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
 - [Chompzilla — Ringspresso](../../../decks/plants/chompzilla/ringspresso.md)
+- [Chompzilla — Onion hand conversion / Solar acceleration [188]](../../../decks/plants/chompzilla/rings_ramp_p_188.md)
+- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Captain Combustible — Log Bait](../../../decks/plants/captain_combustible/log_bait.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
 
 ## Источник
 

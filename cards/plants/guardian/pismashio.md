@@ -27,7 +27,11 @@ Small-Nut не выдерживает те же размены; поздний �
 
 ## Разобранные колоды
 
+- [Spudow — Mushroom swarm / Poison Mushroom [1975]](../../../decks/plants/spudow/mushrooms_solo_1975.md)
+- [Citron — Splash board control / Forget-Me-Nuts [-956]](../../../decks/plants/citron/splash_p_anti_trick_n956.md)
+- [Grass Knuckles — Taxed tempo / Bonk Choy [-765]](../../../decks/plants/grass_knuckles/anti_trick_solo_n765.md)
 - [Beta-Carrotina — Mirrtorcycle](../../../decks/plants/beta_carrotina/mirrtorcycle.md)
+- [Beta-Carrotina — Water and crossfire / Mars Flytrap [67]](../../../decks/plants/beta_carrotina/amphibious_solo_67.md)
 
 ## Источник
 

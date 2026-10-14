@@ -27,7 +27,15 @@ When played next to a Leafy Plant: This gets +1Health and Conjure a Leafy card.
 
 ## Разобранные колоды
 
+- [Green Shadow — Bean pressure / Water and crossfire [1777]](../../../decks/plants/green_shadow/beans_amphibious_1777.md)
+- [Green Shadow — Pea evolution / Water and crossfire [70]](../../../decks/plants/green_shadow/pea_amphibious_70.md)
+- [Green Shadow — Starfruit crossfire / Pea evolution [119]](../../../decks/plants/green_shadow/starfruit_pea_119.md)
+- [Green Shadow — Water and crossfire / Bonk Choy [260]](../../../decks/plants/green_shadow/amphibious_solo_260.md)
+- [Chompzilla — Flower retaliation / Solar lane pressure [66]](../../../decks/plants/chompzilla/flowers_strikethrough_p_66.md)
+- [Chompzilla — Pea evolution / Flower retaliation [267]](../../../decks/plants/chompzilla/pea_flowers_267.md)
 - [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Captain Combustible — Pineclone conversion / Untrickable OTK [37]](../../../decks/plants/captain_combustible/pineclone_apotk_37.md)
+- [Captain Combustible — Repeat Moss engine / Banana Bomb [65]](../../../decks/plants/captain_combustible/moss_solo_65.md)
 
 ## Источник
 

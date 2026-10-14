@@ -27,7 +27,12 @@ Warlord усиливает всех последующих зомби предс
 
 ## Разобранные колоды
 
+- [The Smash — Knight conversion / Going Viral swarm [128676]](../../../decks/zombies/the_smash/king_viral_128676.md)
+- [The Smash — Pet tempo / Knight conversion [1967]](../../../decks/zombies/the_smash/pets_king_1967.md)
+- [Rustbolt — Knight conversion / Leap progression [29]](../../../decks/zombies/rustbolt/king_leap_29.md)
 - [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
+- [Z-Mech — Valkyrie reserve / Knight conversion [295]](../../../decks/zombies/z_mech/valkyrie_king_295.md)
+- [Neptuna — Imp network / Knight conversion [254]](../../../decks/zombies/neptuna/imps_king_254.md)
 
 ## Источник
 

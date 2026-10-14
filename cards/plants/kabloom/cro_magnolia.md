@@ -27,7 +27,10 @@ Berry Angry усиливает всё поле без основания, но �
 
 ## Разобранные колоды
 
+- [Solar Flare — Mushroom swarm / Solar lane pressure [-9]](../../../decks/plants/solar_flare/mushrooms_strikethrough_p_n9.md)
+- [Solar Flare — Solar lane pressure / Flower retaliation [183]](../../../decks/plants/solar_flare/strikethrough_p_flowers_183.md)
 - [Nightcap — Cyclecap](../../../decks/plants/nightcap/cyclecap.md)
+- [Nightcap — Mushroom swarm / Water and crossfire [71]](../../../decks/plants/nightcap/mushrooms_amphibious_71.md)
 
 ## Источник
 

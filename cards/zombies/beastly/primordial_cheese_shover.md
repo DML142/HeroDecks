@@ -27,8 +27,12 @@ Rocket Science дешевле как одна карта, но не действ
 
 ## Разобранные колоды
 
+- [Electric Boogaloo — Overshoot clock / Frenzy tempo [772]](../../../decks/zombies/electric_boogaloo/overshoot_frenzy_772.md)
+- [Electric Boogaloo — Swimmer stat copy / Dancing burn [511]](../../../decks/zombies/electric_boogaloo/swimmer_dance_511.md)
+- [Electric Boogaloo — Zombie discovery / Dancing burn [42]](../../../decks/zombies/electric_boogaloo/conjure_z_dance_42.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
 - [Immorticia — Bestached anti-Untrickable](../../../decks/zombies/immorticia/bestached_anti_untrickable.md)
+- [Immorticia — Gargantuar pressure / Frenzy tempo [85]](../../../decks/zombies/immorticia/gargs_frenzy_85.md)
 
 ## Источник
 

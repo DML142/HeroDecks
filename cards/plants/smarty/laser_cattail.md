@@ -28,6 +28,12 @@ Cattail не имеет этого роста; высокая начальная
 ## Разобранные колоды
 
 - [Green Shadow — Cartas Buenas](../../../decks/plants/green_shadow/cartas_buenas.md)
+- [Green Shadow — Water and crossfire / Growth reserve [169]](../../../decks/plants/green_shadow/amphibious_potted_169.md)
+- [Nightcap — Water and crossfire / Plant transformation [10672]](../../../decks/plants/nightcap/amphibious_molekale_10672.md)
+- [Rose — Solar acceleration / Water and crossfire [377]](../../../decks/plants/rose/ramp_p_amphibious_377.md)
+- [Rose — Water and crossfire / Flower retaliation [144]](../../../decks/plants/rose/amphibious_flowers_144.md)
+- [Beta-Carrotina — Waterfront Sanctuary](../../../decks/plants/beta_carrotina/waterfront_sanctuary.md)
+- [Beta-Carrotina — Water and crossfire / Splash board control [6]](../../../decks/plants/beta_carrotina/amphibious_splash_p_6.md)
 
 ## Источник
 

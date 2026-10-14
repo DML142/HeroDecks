@@ -19,6 +19,22 @@ All Pirates get Strikethrough. You get your beard caught in the toaster ONE time
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 3 с исходными 2/4 для занятия линии и боя; Strikethrough даёт давление через бойца, сохраняя проверку блока героя. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Super Brainz — Pirate breakthrough / Gravestone replay [-2318]](../../../decks/zombies/super_brainz/pirates_graves_n2318.md)
+- [Impfinity — Pirate breakthrough / Binary burst [11673]](../../../decks/zombies/impfinity/pirates_binary_11673.md)
+- [Brain Freeze — Pirate breakthrough / Zombie freeze [36]](../../../decks/zombies/brain_freeze/pirates_freeze_z_36.md)
+- [Neptuna — Pirate breakthrough / Going Viral swarm [374]](../../../decks/zombies/neptuna/pirates_viral_374.md)
+- [Huge-Gigantacus — Mustache economy / Pirate breakthrough [137]](../../../decks/zombies/huge_gigantacus/mustache_pirates_137.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
+- [Huge-Gigantacus — Zombie freeze / Pirate breakthrough [898]](../../../decks/zombies/huge_gigantacus/freeze_z_pirates_898.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Captain_Flameface_%28PvZH%29). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

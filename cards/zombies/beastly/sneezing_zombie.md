@@ -28,6 +28,8 @@ Frankentuar сильнее как универсальная угроза; anti-
 ## Разобранные колоды
 
 - [Electric Boogaloo — Omani anti-heal](../../../decks/zombies/electric_boogaloo/omani_anti_heal.md)
+- [Brain Freeze — Frenzy tempo / Gravestone replay [131]](../../../decks/zombies/brain_freeze/frenzy_graves_131.md)
+- [Immorticia — Protected zombie engine / Brain acceleration [1387]](../../../decks/zombies/immorticia/parasol_ramp_z_1387.md)
 
 ## Источник
 

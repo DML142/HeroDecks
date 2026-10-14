@@ -27,7 +27,12 @@ Gatling Pea атакует при Pea Evolution сразу без цепочки
 
 ## Разобранные колоды
 
+- [Green Shadow — Repeat Moss engine / Pea evolution [667]](../../../decks/plants/green_shadow/moss_pea_667.md)
+- [Chompzilla — Repeat Moss engine / Flower retaliation [1298]](../../../decks/plants/chompzilla/moss_flowers_1298.md)
 - [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Captain Combustible — Banana scaling / Berry damage [1310]](../../../decks/plants/captain_combustible/banana_berries_1310.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
+- [Captain Combustible — Repeat Moss engine / Banana Bomb [65]](../../../decks/plants/captain_combustible/moss_solo_65.md)
 
 ## Источник
 

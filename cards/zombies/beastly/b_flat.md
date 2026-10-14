@@ -27,7 +27,14 @@ Primordial Cheese Shover выбирает цель способностью бо
 
 ## Разобранные колоды
 
+- [The Smash — Pharaoh survival / Gargantuar pressure [168]](../../../decks/zombies/the_smash/pharaoh_gargs_168.md)
+- [Electric Boogaloo — Binary burst / Swimmer stat copy [14003]](../../../decks/zombies/electric_boogaloo/binary_swimmer_14003.md)
+- [Electric Boogaloo — Death value / Gargantuar pressure [240]](../../../decks/zombies/electric_boogaloo/death_z_gargs_240.md)
+- [Electric Boogaloo — Independent tempo / Bungee Plumber [1385]](../../../decks/zombies/electric_boogaloo/tempo_solo_1385.md)
+- [Electric Boogaloo — Zombie discovery / Dancing burn [42]](../../../decks/zombies/electric_boogaloo/conjure_z_dance_42.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
+- [Immorticia — Mime bonus echo / Brain acceleration [20675]](../../../decks/zombies/immorticia/mime_ramp_z_20675.md)
+- [Immorticia — Science attack / Mime bonus echo [214]](../../../decks/zombies/immorticia/science_mime_214.md)
 
 ## Источник
 

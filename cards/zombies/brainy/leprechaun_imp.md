@@ -27,7 +27,11 @@ Mustache Waxer даёт ресурс непосредственно от пос�
 
 ## Разобранные колоды
 
+- [Super Brainz — Imp network / Gravestone replay [228]](../../../decks/zombies/super_brainz/imps_graves_228.md)
+- [Super Brainz — Trickster finish / Zombie discovery [160]](../../../decks/zombies/super_brainz/trickster_conjure_z_160.md)
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
+- [Immorticia — Frenzy tempo / Chimney Sweep [1787]](../../../decks/zombies/immorticia/frenzy_solo_1787.md)
+- [Immorticia — Protected zombie engine / Brain acceleration [1387]](../../../decks/zombies/immorticia/parasol_ramp_z_1387.md)
 
 ## Источник
 

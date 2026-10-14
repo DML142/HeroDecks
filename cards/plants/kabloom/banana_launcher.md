@@ -27,7 +27,11 @@ Banana Bomb сразу решает размен дешевле; Launcher выб
 
 ## Разобранные колоды
 
+- [Spudow — Berry Pecan Bastion](../../../decks/plants/spudow/berry_pecan_bastion.md)
 - [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Captain Combustible — Banana scaling / Berry damage [1310]](../../../decks/plants/captain_combustible/banana_berries_1310.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
+- [Captain Combustible — Plant discovery / Untrickable OTK [116422]](../../../decks/plants/captain_combustible/conjure_p_apotk_116422.md)
 
 ## Источник
 

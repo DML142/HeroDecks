@@ -28,6 +28,20 @@ Sun-Shroom дешевле и менее тяжёл для стартовой р�
 ## Разобранные колоды
 
 - [Solar Flare — Valueflare](../../../decks/plants/solar_flare/valueflare.md)
+- [Solar Flare — Pineclone conversion / Flower retaliation [415]](../../../decks/plants/solar_flare/pineclone_flowers_415.md)
+- [Solar Flare — Solar acceleration / Splash board control [297]](../../../decks/plants/solar_flare/ramp_p_splash_p_297.md)
+- [Wall-Knight — Flower retaliation / Heal conversion [-66]](../../../decks/plants/wall_knight/flowers_heal_n66.md)
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Health attacks / Root economy [5]](../../../decks/plants/wall_knight/pecan_roots_5.md)
+- [Wall-Knight — Health attacks / Solar acceleration [3055]](../../../decks/plants/wall_knight/pecan_ramp_p_3055.md)
+- [Wall-Knight — Root economy / Bowling control [19789]](../../../decks/plants/wall_knight/roots_bowling_19789.md)
+- [Wall-Knight — Solar acceleration / Galacta-Cactus [104]](../../../decks/plants/wall_knight/ramp_p_solo_104.md)
+- [Chompzilla — Flower retaliation / Untrickable OTK [-2]](../../../decks/plants/chompzilla/flowers_apotk_n2.md)
+- [Chompzilla — Solar acceleration / Pea evolution [550]](../../../decks/plants/chompzilla/ramp_p_pea_550.md)
+- [Chompzilla — Solar lane pressure / Solar acceleration [345]](../../../decks/plants/chompzilla/strikethrough_p_ramp_p_345.md)
+- [Rose — Plant discovery / Water and crossfire [0]](../../../decks/plants/rose/conjure_p_amphibious_0.md)
+- [Rose — Solar acceleration / Solar lane pressure [189]](../../../decks/plants/rose/ramp_p_strikethrough_p_189.md)
+- [Rose — Solar acceleration / Water and crossfire [377]](../../../decks/plants/rose/ramp_p_amphibious_377.md)
 
 ## Источник
 

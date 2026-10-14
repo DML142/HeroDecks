@@ -19,6 +19,21 @@ Amphibious, Splash Damage 3; No special ability.
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 4 с исходными 3/3 для занятия линии и боя. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Green Shadow — Repeat Moss engine / Pea evolution [667]](../../../decks/plants/green_shadow/moss_pea_667.md)
+- [Citron — Peel Shield Sanctuary](../../../decks/plants/citron/peel_shield_sanctuary.md)
+- [Citron — Health attacks / Three-Nut swarm [880]](../../../decks/plants/citron/pecan_three_nut_880.md)
+- [Rose — Solar lane pressure / Splash board control [113622]](../../../decks/plants/rose/strikethrough_p_splash_p_113622.md)
+- [Beta-Carrotina — Waterfront Sanctuary](../../../decks/plants/beta_carrotina/waterfront_sanctuary.md)
+- [Beta-Carrotina — Mirror-Nut attrition / Bean pressure [1603]](../../../decks/plants/beta_carrotina/mirror_beans_1603.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Snapdragon_%28PvZH%29). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

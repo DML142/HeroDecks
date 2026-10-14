@@ -27,7 +27,16 @@ Wall-Nut дешевле, но не компенсирует потраченну
 
 ## Разобранные колоды
 
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Health attacks / Solar acceleration [3055]](../../../decks/plants/wall_knight/pecan_ramp_p_3055.md)
+- [Wall-Knight — Solar lane pressure / Bowling control [359]](../../../decks/plants/wall_knight/strikethrough_p_anti_trick_359.md)
+- [Spudow — Health attacks / Mirror-Nut attrition [94]](../../../decks/plants/spudow/pecan_mirror_94.md)
+- [Spudow — Mirror-Nut attrition / Plant transformation [371]](../../../decks/plants/spudow/mirror_molekale_371.md)
+- [Citron — Splash board control / Galacta-Cactus [2655]](../../../decks/plants/citron/splash_p_solo_2655.md)
+- [Grass Knuckles — Plant discovery / Banana Peel [1301_imported_1]](../../../decks/plants/grass_knuckles/conjure_p_anti_trick_1301_imported_1.md)
 - [Beta-Carrotina — Mirrtorcycle](../../../decks/plants/beta_carrotina/mirrtorcycle.md)
+- [Beta-Carrotina — Root economy / Bowling control [367]](../../../decks/plants/beta_carrotina/roots_bowling_367.md)
+- [Beta-Carrotina — Three-Nut swarm / Garlic [905]](../../../decks/plants/beta_carrotina/three_nut_tempo_905.md)
 
 ## Источник
 

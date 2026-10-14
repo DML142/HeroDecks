@@ -27,8 +27,16 @@ Aloesaurus даёт повторное лечение, но не расстав�
 
 ## Разобранные колоды
 
-- [Beta-Carrotina — Sham Control — HeroDecks shell](../../../decks/plants/beta_carrotina/sham_control.md)
+- [Wall-Knight — Flower retaliation / Bowling control [46]](../../../decks/plants/wall_knight/flowers_bowling_46.md)
+- [Wall-Knight — Solar lane pressure / Bowling control [359]](../../../decks/plants/wall_knight/strikethrough_p_anti_trick_359.md)
+- [Wall-Knight — Three-Nut swarm / Root economy [-156]](../../../decks/plants/wall_knight/three_nut_roots_n156.md)
+- [Spudow — Mushroom swarm / Poison Mushroom [1975]](../../../decks/plants/spudow/mushrooms_solo_1975.md)
+- [Citron — Bowling control / Splash board control [395]](../../../decks/plants/citron/bowling_splash_p_395.md)
+- [Citron — Splash board control / Galacta-Cactus [2655]](../../../decks/plants/citron/splash_p_solo_2655.md)
 - [Beta-Carrotina — Mirrtorcycle](../../../decks/plants/beta_carrotina/mirrtorcycle.md)
+- [Beta-Carrotina — Sham Control — HeroDecks shell](../../../decks/plants/beta_carrotina/sham_control.md)
+- [Beta-Carrotina — Bowling control / Splash board control [198]](../../../decks/plants/beta_carrotina/bowling_splash_p_198.md)
+- [Beta-Carrotina — Splash board control / Forget-Me-Nuts [239]](../../../decks/plants/beta_carrotina/splash_p_anti_trick_239.md)
 
 ## Источник
 

@@ -28,8 +28,18 @@ Hippity Hop надёжнее создаёт небольшое поле, но с
 ## Разобранные колоды
 
 - [Electric Boogaloo — Omani](../../../decks/zombies/electric_boogaloo/omani.md)
-- [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
 - [Electric Boogaloo — Omani anti-heal](../../../decks/zombies/electric_boogaloo/omani_anti_heal.md)
+- [Electric Boogaloo — Binary burst / Swimmer stat copy [14003]](../../../decks/zombies/electric_boogaloo/binary_swimmer_14003.md)
+- [Electric Boogaloo — Death value / Gargantuar pressure [240]](../../../decks/zombies/electric_boogaloo/death_z_gargs_240.md)
+- [Electric Boogaloo — Valkyrie reserve / Swimmer stat copy [20983]](../../../decks/zombies/electric_boogaloo/valkyrie_swimmer_20983.md)
+- [Professor Brainstorm — Binary burst / Dancing burn [-14]](../../../decks/zombies/professor_brainstorm/binary_dance_n14.md)
+- [Professor Brainstorm — Brain acceleration / Gargantuar pressure [134561]](../../../decks/zombies/professor_brainstorm/ramp_z_gargs_134561.md)
+- [Professor Brainstorm — Leap progression / Gargantuar pressure [21]](../../../decks/zombies/professor_brainstorm/leap_gargs_21.md)
+- [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
+- [Z-Mech — Death value / Gargantuar pressure [258]](../../../decks/zombies/z_mech/death_z_gargs_258.md)
+- [Z-Mech — Gargantuar pressure / Going Viral swarm [247]](../../../decks/zombies/z_mech/gargs_viral_247.md)
+- [Z-Mech — Going Viral swarm / Death value [52]](../../../decks/zombies/z_mech/viral_death_z_52.md)
+- [Z-Mech — Stompadon hand growth / Gargantuar pressure [606]](../../../decks/zombies/z_mech/handbuff_gargs_606.md)
 
 ## Источник
 

@@ -27,9 +27,16 @@ Torchwood усиливает горох ситуативно, но не даёт
 
 ## Разобранные колоды
 
-- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
+- [Green Shadow — Bean pressure / Water and crossfire [1777]](../../../decks/plants/green_shadow/beans_amphibious_1777.md)
+- [Green Shadow — Pea evolution / Bean pressure [90]](../../../decks/plants/green_shadow/pea_beans_90.md)
+- [Green Shadow — Starfruit crossfire / Pea evolution [119]](../../../decks/plants/green_shadow/starfruit_pea_119.md)
+- [Chompzilla — Onion hand conversion / Solar acceleration [188]](../../../decks/plants/chompzilla/rings_ramp_p_188.md)
+- [Chompzilla — Pea evolution / Clique Peas [19089]](../../../decks/plants/chompzilla/pea_solo_19089.md)
+- [Chompzilla — Pea evolution / Flower retaliation [267]](../../../decks/plants/chompzilla/pea_flowers_267.md)
 - [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Captain Combustible — Pea evolution / Puff Shroom [165]](../../../decks/plants/captain_combustible/pea_tempo_165.md)
 
 ## Источник
 

@@ -28,9 +28,15 @@ Dr. Spacetime создаёт другой ресурс и скидку, но н�
 ## Разобранные колоды
 
 - [Super Brainz — Limerence](../../../decks/zombies/super_brainz/limerence.md)
+- [Rustbolt — Mustache economy / Going Viral swarm [-60]](../../../decks/zombies/rustbolt/mustache_viral_n60.md)
 - [Professor Brainstorm — Trickstache](../../../decks/zombies/professor_brainstorm/trickstache.md)
+- [Professor Brainstorm — Mime bonus echo / Mustache economy [1159]](../../../decks/zombies/professor_brainstorm/mime_mustache_1159.md)
+- [Professor Brainstorm — Mustache economy / Binary burst [102]](../../../decks/zombies/professor_brainstorm/mustache_binary_102.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
 - [Immorticia — Bestached anti-Untrickable](../../../decks/zombies/immorticia/bestached_anti_untrickable.md)
+- [Immorticia — Mustache economy / Swimmer stat copy [124561]](../../../decks/zombies/immorticia/mustache_swimmer_124561.md)
+- [Huge-Gigantacus — Gravestone replay / Mustache economy [335]](../../../decks/zombies/huge_gigantacus/graves_mustache_335.md)
+- [Huge-Gigantacus — Trickster finish / Mustache economy [4]](../../../decks/zombies/huge_gigantacus/trickster_mustache_4.md)
 
 ## Источник
 

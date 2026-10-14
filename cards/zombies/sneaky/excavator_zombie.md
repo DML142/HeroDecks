@@ -27,8 +27,18 @@ Pogo Bouncer возвращает одну выбранную цель без т
 
 ## Разобранные колоды
 
+- [Super Brainz — Gravestone replay / Chimney Sweep [10484]](../../../decks/zombies/super_brainz/graves_tempo_10484.md)
+- [Super Brainz — Independent tempo / Chimney Sweep [1050]](../../../decks/zombies/super_brainz/tempo_solo_1050.md)
+- [Super Brainz — Pirate breakthrough / Gravestone replay [-2318]](../../../decks/zombies/super_brainz/pirates_graves_n2318.md)
+- [Brain Freeze — Zombie discovery / Frenzy tempo [490]](../../../decks/zombies/brain_freeze/conjure_z_tempo_490.md)
 - [Neptuna — Midtomba](../../../decks/zombies/neptuna/midtomba.md)
 - [Neptuna — Midtomba anti-swarm](../../../decks/zombies/neptuna/midtomba_anti_swarm.md)
+- [Neptuna — Sun denial / Gravestone replay [-1518]](../../../decks/zombies/neptuna/sun_denial_graves_n1518.md)
+- [Neptuna — Zombie discovery / Gargantuar pressure [86]](../../../decks/zombies/neptuna/conjure_z_gargs_86.md)
+- [Huge-Gigantacus — Gravestone replay / Mustache economy [335]](../../../decks/zombies/huge_gigantacus/graves_mustache_335.md)
+- [Huge-Gigantacus — Mustache economy / Pirate breakthrough [137]](../../../decks/zombies/huge_gigantacus/mustache_pirates_137.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
+- [Huge-Gigantacus — Protected zombie engine / Science attack [1328]](../../../decks/zombies/huge_gigantacus/parasol_science_1328.md)
 
 ## Источник
 

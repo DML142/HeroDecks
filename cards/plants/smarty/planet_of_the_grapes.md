@@ -27,8 +27,12 @@ Mushroom Grotto создаёт тела без попадания по геро�
 
 ## Разобранные колоды
 
+- [Citron — Bean pressure / Admiral Navy Bean [1363]](../../../decks/plants/citron/beans_tempo_1363.md)
+- [Citron — Mirror-Nut attrition / Health attacks [298]](../../../decks/plants/citron/mirror_pecan_298.md)
 - [Nightcap — Cyclecap](../../../decks/plants/nightcap/cyclecap.md)
+- [Nightcap — Cyclecap draw loop / Pineclone conversion [-12308]](../../../decks/plants/nightcap/cycle_pineclone_n12308.md)
 - [Beta-Carrotina — Mirrtorcycle](../../../decks/plants/beta_carrotina/mirrtorcycle.md)
+- [Beta-Carrotina — Bean pressure / Water and crossfire [303]](../../../decks/plants/beta_carrotina/beans_amphibious_303.md)
 
 ## Источник
 

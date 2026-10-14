@@ -27,9 +27,16 @@ Astrocado быстрее на обычной кривой, но Laser Bean ра�
 
 ## Разобранные колоды
 
-- [Rose — Heal MidRose](../../../decks/plants/rose/heal_midrose.md)
+- [Solar Flare — Solar lane pressure / Solar acceleration [12]](../../../decks/plants/solar_flare/strikethrough_p_ramp_p_12.md)
+- [Wall-Knight — Flower retaliation / Heal conversion [-66]](../../../decks/plants/wall_knight/flowers_heal_n66.md)
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Solar lane pressure / Forget-Me-Nuts [154560]](../../../decks/plants/wall_knight/strikethrough_p_anti_trick_154560.md)
 - [Chompzilla — Ringspresso](../../../decks/plants/chompzilla/ringspresso.md)
+- [Chompzilla — Flower retaliation / Untrickable OTK [-2]](../../../decks/plants/chompzilla/flowers_apotk_n2.md)
+- [Chompzilla — Onion hand conversion / Solar acceleration [188]](../../../decks/plants/chompzilla/rings_ramp_p_188.md)
 - [Rose — HMR anti-Waxer](../../../decks/plants/rose/hmr_anti_waxer.md)
+- [Rose — Heal MidRose](../../../decks/plants/rose/heal_midrose.md)
+- [Rose — Solar acceleration / Solar lane pressure [189]](../../../decks/plants/rose/ramp_p_strikethrough_p_189.md)
 
 ## Источник
 

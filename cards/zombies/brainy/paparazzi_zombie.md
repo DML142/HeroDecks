@@ -28,6 +28,8 @@ This gets +1Strength/+1Health when you play a Trick.
 ## Разобранные колоды
 
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
+- [Rustbolt — Going Viral swarm / Genetic Experiment [314]](../../../decks/zombies/rustbolt/viral_solo_314.md)
+- [Professor Brainstorm — Independent tempo / Bungee Plumber [1909]](../../../decks/zombies/professor_brainstorm/tempo_solo_1909.md)
 
 ## Источник
 

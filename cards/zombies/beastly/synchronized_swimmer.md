@@ -28,7 +28,20 @@ Amphibious; When played: This Zombie copies the Strength and Health of another Z
 ## Разобранные колоды
 
 - [The Smash — Luminous](../../../decks/zombies/the_smash/luminous.md)
+- [The Smash — Stompadon hand growth / Going Viral swarm [-58]](../../../decks/zombies/the_smash/handbuff_tempo_n58.md)
+- [The Smash — Swimmer stat copy / Gargantuar pressure [39]](../../../decks/zombies/the_smash/swimmer_gargs_39.md)
+- [Electric Boogaloo — Binary burst / Swimmer stat copy [14003]](../../../decks/zombies/electric_boogaloo/binary_swimmer_14003.md)
+- [Electric Boogaloo — Dancing burn / Binary burst [357]](../../../decks/zombies/electric_boogaloo/dance_binary_357.md)
+- [Electric Boogaloo — Swimmer stat copy / Dancing burn [511]](../../../decks/zombies/electric_boogaloo/swimmer_dance_511.md)
+- [Electric Boogaloo — Valkyrie reserve / Swimmer stat copy [20983]](../../../decks/zombies/electric_boogaloo/valkyrie_swimmer_20983.md)
+- [Brain Freeze — Frenzy tempo / Gravestone replay [131]](../../../decks/zombies/brain_freeze/frenzy_graves_131.md)
+- [Brain Freeze — Pet tempo / Swimmer stat copy [-2518]](../../../decks/zombies/brain_freeze/pets_swimmer_n2518.md)
+- [Brain Freeze — Swimmer stat copy / Gargantuar pressure [21675]](../../../decks/zombies/brain_freeze/swimmer_gargs_21675.md)
+- [Brain Freeze — Swimmer stat copy / Pet tempo [312]](../../../decks/zombies/brain_freeze/swimmer_pets_312.md)
+- [Immorticia — Familiar Moon Menagerie](../../../decks/zombies/immorticia/familiar_moon_menagerie.md)
 - [Immorticia — Secret Swimmer Blob](../../../decks/zombies/immorticia/secret_swimmer_blob.md)
+- [Immorticia — Mustache economy / Swimmer stat copy [124561]](../../../decks/zombies/immorticia/mustache_swimmer_124561.md)
+- [Immorticia — Swimmer stat copy / Protected zombie engine [882]](../../../decks/zombies/immorticia/swimmer_parasol_882.md)
 
 ## Источник
 

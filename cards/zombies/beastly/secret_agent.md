@@ -27,7 +27,15 @@ Healthy Treat усиливает поле немедленно, но не даё
 
 ## Разобранные колоды
 
+- [The Smash — Gargantuar pressure / Black Hole [92]](../../../decks/zombies/the_smash/gargs_solo_92.md)
+- [Electric Boogaloo — Swimmer stat copy / Dancing burn [511]](../../../decks/zombies/electric_boogaloo/swimmer_dance_511.md)
+- [Electric Boogaloo — Valkyrie reserve / Swimmer stat copy [20983]](../../../decks/zombies/electric_boogaloo/valkyrie_swimmer_20983.md)
+- [Brain Freeze — Swimmer stat copy / Gargantuar pressure [21675]](../../../decks/zombies/brain_freeze/swimmer_gargs_21675.md)
+- [Brain Freeze — Swimmer stat copy / Pet tempo [312]](../../../decks/zombies/brain_freeze/swimmer_pets_312.md)
 - [Immorticia — Secret Swimmer Blob](../../../decks/zombies/immorticia/secret_swimmer_blob.md)
+- [Immorticia — Frenzy tempo / Chimney Sweep [1787]](../../../decks/zombies/immorticia/frenzy_solo_1787.md)
+- [Immorticia — Mustache economy / Swimmer stat copy [124561]](../../../decks/zombies/immorticia/mustache_swimmer_124561.md)
+- [Immorticia — Swimmer stat copy / Protected zombie engine [882]](../../../decks/zombies/immorticia/swimmer_parasol_882.md)
 
 ## Источник
 

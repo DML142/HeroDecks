@@ -1,0 +1,62 @@
+[
+  {
+    "id": "competitive_potential",
+    "label": "Потенциал победы"
+  },
+  {
+    "id": "consistency",
+    "label": "Стабильность"
+  },
+  {
+    "id": "rng_dependence",
+    "label": "Зависимость от RNG"
+  },
+  {
+    "id": "strategic_depth",
+    "label": "Глубина решений"
+  },
+  {
+    "id": "fun",
+    "label": "Веселье"
+  },
+  {
+    "id": "aggression",
+    "label": "Агрессия"
+  },
+  {
+    "id": "control",
+    "label": "Контроль"
+  },
+  {
+    "id": "unpredictability",
+    "label": "Непредсказуемость"
+  },
+  {
+    "id": "speed",
+    "label": "Скорость"
+  },
+  {
+    "id": "resilience",
+    "label": "Устойчивость"
+  },
+  {
+    "id": "card_advantage",
+    "label": "Ресурс руки"
+  },
+  {
+    "id": "combo_ceiling",
+    "label": "Комбо-потолок"
+  },
+  {
+    "id": "pilot_difficulty",
+    "label": "Сложность пилотирования"
+  },
+  {
+    "id": "budget_accessibility",
+    "label": "Доступность сборки"
+  },
+  {
+    "id": "hero_identity",
+    "label": "Выраженность героя"
+  }
+]

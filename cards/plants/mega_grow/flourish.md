@@ -27,8 +27,16 @@ Cross-Pollination создаёт случайный ресурс со скидк
 
 ## Разобранные колоды
 
-- [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Green Shadow — Onion hand conversion / Untrickable OTK [18879]](../../../decks/plants/green_shadow/rings_apotk_18879.md)
 - [Chompzilla — Ringspresso](../../../decks/plants/chompzilla/ringspresso.md)
+- [Chompzilla — Pea evolution / Flower retaliation [267]](../../../decks/plants/chompzilla/pea_flowers_267.md)
+- [Chompzilla — Untrickable OTK / Lil' Buddy [-4]](../../../decks/plants/chompzilla/apotk_solo_n4.md)
+- [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Grass Knuckles — Growth reserve / Untrickable OTK [83]](../../../decks/plants/grass_knuckles/potted_apotk_83.md)
+- [Grass Knuckles — Health attacks / Mirror-Nut attrition [89]](../../../decks/plants/grass_knuckles/pecan_mirror_89.md)
+- [Captain Combustible — Pea evolution / Puff Shroom [165]](../../../decks/plants/captain_combustible/pea_tempo_165.md)
+- [Captain Combustible — Plant transformation / Banana Bomb [288]](../../../decks/plants/captain_combustible/molekale_anti_trick_288.md)
+- [Captain Combustible — Repeat Moss engine / Banana Bomb [65]](../../../decks/plants/captain_combustible/moss_solo_65.md)
 
 ## Источник
 

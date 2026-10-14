@@ -27,9 +27,16 @@ When played and When hurt: Make a Mystery Egg in a random lane.
 
 ## Разобранные колоды
 
+- [Impfinity — Draw punishment / Mystery Egg [858]](../../../decks/zombies/impfinity/draw_burn_tempo_858.md)
 - [Electric Boogaloo — Omani](../../../decks/zombies/electric_boogaloo/omani.md)
-- [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
 - [Electric Boogaloo — Omani anti-heal](../../../decks/zombies/electric_boogaloo/omani_anti_heal.md)
+- [Electric Boogaloo — Binary burst / Swimmer stat copy [14003]](../../../decks/zombies/electric_boogaloo/binary_swimmer_14003.md)
+- [Professor Brainstorm — Leap progression / Gargantuar pressure [21]](../../../decks/zombies/professor_brainstorm/leap_gargs_21.md)
+- [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
+- [Z-Mech — Binary burst / Dancing burn [-17]](../../../decks/zombies/z_mech/binary_dance_n17.md)
+- [Z-Mech — Binary burst / Going Viral swarm [176]](../../../decks/zombies/z_mech/binary_viral_176.md)
+- [Z-Mech — Death value / Gargantuar pressure [258]](../../../decks/zombies/z_mech/death_z_gargs_258.md)
+- [Z-Mech — Gargantuar pressure / Going Viral swarm [247]](../../../decks/zombies/z_mech/gargs_viral_247.md)
 
 ## Источник
 

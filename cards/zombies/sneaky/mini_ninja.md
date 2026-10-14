@@ -27,9 +27,24 @@ Imposter слабее по открытому урону, но лучше вос
 
 ## Разобранные колоды
 
+- [Super Brainz — Brain production burst / Zombie discovery [62]](../../../decks/zombies/super_brainz/blob_conjure_z_62.md)
+- [Super Brainz — Gravestone replay / Chimney Sweep [10484]](../../../decks/zombies/super_brainz/graves_tempo_10484.md)
+- [Super Brainz — Imp network / Mime bonus echo [35]](../../../decks/zombies/super_brainz/imps_mime_35.md)
 - [Impfinity — No-Hokai](../../../decks/zombies/impfinity/no_hokai.md)
+- [Impfinity — Binary burst / Dancing burn [112561]](../../../decks/zombies/impfinity/binary_dance_112561.md)
+- [Impfinity — Imp network / Binary burst [114]](../../../decks/zombies/impfinity/imps_binary_114.md)
+- [Impfinity — Overshoot clock / Draw punishment [19879]](../../../decks/zombies/impfinity/overshoot_draw_burn_19879.md)
+- [Impfinity — Zombie freeze / Imp network [2855]](../../../decks/zombies/impfinity/freeze_z_imps_2855.md)
 - [Brain Freeze — Lock the Bathroom](../../../decks/zombies/brain_freeze/lock_the_bathroom.md)
+- [Brain Freeze — Imp network / Gargantuar pressure [195]](../../../decks/zombies/brain_freeze/imps_gargs_195.md)
+- [Brain Freeze — Imp network / Gravestone replay [1495]](../../../decks/zombies/brain_freeze/imps_graves_1495.md)
+- [Brain Freeze — Zombie freeze / Mini Ninja [56]](../../../decks/zombies/brain_freeze/freeze_z_solo_56.md)
+- [Neptuna — Going Viral swarm / Sports team [59]](../../../decks/zombies/neptuna/viral_sports_59.md)
+- [Neptuna — Going Viral swarm / Zombie discovery [162]](../../../decks/zombies/neptuna/viral_conjure_z_162.md)
+- [Neptuna — Imp network / Knight conversion [254]](../../../decks/zombies/neptuna/imps_king_254.md)
+- [Neptuna — Sun denial / Zombie discovery [242]](../../../decks/zombies/neptuna/sun_denial_conjure_z_242.md)
 - [Huge-Gigantacus — Telimps](../../../decks/zombies/huge_gigantacus/telimps.md)
+- [Huge-Gigantacus — Gravestone replay / Chimney Sweep [11672]](../../../decks/zombies/huge_gigantacus/graves_tempo_11672.md)
 
 ## Источник
 

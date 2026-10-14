@@ -27,8 +27,18 @@ Bean Counter растёт сам, но не даёт такого немедле
 
 ## Разобранные колоды
 
+- [Green Shadow — Bean pressure / Water and crossfire [1777]](../../../decks/plants/green_shadow/beans_amphibious_1777.md)
+- [Green Shadow — Bean pressure / Water and crossfire [23]](../../../decks/plants/green_shadow/beans_amphibious_23.md)
+- [Green Shadow — Onion hand conversion / Bean pressure [253]](../../../decks/plants/green_shadow/rings_beans_253.md)
 - [Citron — Amphibious Momentus](../../../decks/plants/citron/amphibious_momentus.md)
+- [Citron — Bean pressure / Admiral Navy Bean [1363]](../../../decks/plants/citron/beans_tempo_1363.md)
 - [Nightcap — Cyclecap](../../../decks/plants/nightcap/cyclecap.md)
+- [Nightcap — Cyclecap draw loop / Pineclone conversion [-12308]](../../../decks/plants/nightcap/cycle_pineclone_n12308.md)
+- [Nightcap — Plant transformation / Bean pressure [-426]](../../../decks/plants/nightcap/molekale_beans_n426.md)
+- [Rose — Bean pressure / Admiral Navy Bean [831]](../../../decks/plants/rose/beans_solo_831.md)
+- [Beta-Carrotina — Bean pressure / Admiral Navy Bean [177]](../../../decks/plants/beta_carrotina/beans_anti_trick_177.md)
+- [Beta-Carrotina — Bean pressure / Water and crossfire [303]](../../../decks/plants/beta_carrotina/beans_amphibious_303.md)
+- [Beta-Carrotina — Mirror-Nut attrition / Bean pressure [1603]](../../../decks/plants/beta_carrotina/mirror_beans_1603.md)
 
 ## Источник
 

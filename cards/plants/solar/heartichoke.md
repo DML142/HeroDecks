@@ -19,6 +19,18 @@ When a Plant or your Hero is healed, do that much damage to the Zombie Hero.
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 4 с исходными 3/4 для занятия линии и боя. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Solar Flare — Flower retaliation / Heal conversion [157]](../../../decks/plants/solar_flare/flowers_heal_157.md)
+- [Solar Flare — Heal conversion / Mushroom swarm [77]](../../../decks/plants/solar_flare/heal_mushrooms_77.md)
+- [Wall-Knight — Heal conversion / Lil' Buddy [311]](../../../decks/plants/wall_knight/heal_solo_311.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Heartichoke). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

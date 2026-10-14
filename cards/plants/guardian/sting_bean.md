@@ -30,6 +30,9 @@ Sea-Shroom имеет больше начальной атаки, но не со
 - [Citron — Amphibious Momentus](../../../decks/plants/citron/amphibious_momentus.md)
 - [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Grass Knuckles — Taxed tempo / Bonk Choy [-765]](../../../decks/plants/grass_knuckles/anti_trick_solo_n765.md)
+- [Beta-Carrotina — Waterfront Sanctuary](../../../decks/plants/beta_carrotina/waterfront_sanctuary.md)
+- [Beta-Carrotina — Mirror-Nut attrition / Bean pressure [1603]](../../../decks/plants/beta_carrotina/mirror_beans_1603.md)
 
 ## Источник
 

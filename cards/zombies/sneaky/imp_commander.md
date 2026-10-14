@@ -27,7 +27,14 @@ Dr. Spacetime даёт Conjure лишь от собственного попад
 
 ## Разобранные колоды
 
+- [Super Brainz — Imp network / Gravestone replay [228]](../../../decks/zombies/super_brainz/imps_graves_228.md)
+- [Impfinity — Imp network / Binary burst [114]](../../../decks/zombies/impfinity/imps_binary_114.md)
+- [Impfinity — Imp network / Dancing burn [58]](../../../decks/zombies/impfinity/imps_dance_58.md)
+- [Brain Freeze — Imp network / Gargantuar pressure [195]](../../../decks/zombies/brain_freeze/imps_gargs_195.md)
+- [Brain Freeze — Imp network / Gravestone replay [1495]](../../../decks/zombies/brain_freeze/imps_graves_1495.md)
+- [Neptuna — Imp network / Knight conversion [254]](../../../decks/zombies/neptuna/imps_king_254.md)
 - [Huge-Gigantacus — Telimps](../../../decks/zombies/huge_gigantacus/telimps.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
 
 ## Источник
 

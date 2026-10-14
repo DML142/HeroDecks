@@ -27,8 +27,13 @@ Bananasaurus Rex дешевле и атакует дважды, но гораз�
 
 ## Разобранные колоды
 
+- [Green Shadow — Plant discovery / Untrickable OTK [-108]](../../../decks/plants/green_shadow/conjure_p_apotk_n108.md)
 - [Chompzilla — ApOTK](../../../decks/plants/chompzilla/apotk.md)
 - [Chompzilla — Ringspresso](../../../decks/plants/chompzilla/ringspresso.md)
+- [Chompzilla — Flower retaliation / Untrickable OTK [-2]](../../../decks/plants/chompzilla/flowers_apotk_n2.md)
+- [Grass Knuckles — Untrickable OTK / Plant discovery [25]](../../../decks/plants/grass_knuckles/apotk_conjure_p_25.md)
+- [Captain Combustible — Plant discovery / Untrickable OTK [116422]](../../../decks/plants/captain_combustible/conjure_p_apotk_116422.md)
+- [Captain Combustible — Untrickable OTK / Plant transformation [-6]](../../../decks/plants/captain_combustible/apotk_molekale_n6.md)
 
 ## Источник
 

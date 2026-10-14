@@ -27,7 +27,17 @@ Team-Up, Bullseye; When your Nuts get hurt, do 1 damage to the Zombie Hero.
 
 ## Разобранные колоды
 
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Mirror-Nut attrition / Three-Nut swarm [-14903]](../../../decks/plants/wall_knight/mirror_three_nut_n14903.md)
+- [Spudow — Health attacks / Mirror-Nut attrition [-2118]](../../../decks/plants/spudow/pecan_mirror_n2118.md)
+- [Spudow — Health attacks / Mirror-Nut attrition [94]](../../../decks/plants/spudow/pecan_mirror_94.md)
+- [Spudow — Mirror-Nut attrition / Plant transformation [371]](../../../decks/plants/spudow/mirror_molekale_371.md)
+- [Spudow — Pineclone conversion / Mirror-Nut attrition [1547]](../../../decks/plants/spudow/pineclone_mirror_1547.md)
+- [Citron — Mirror-Nut attrition / Health attacks [298]](../../../decks/plants/citron/mirror_pecan_298.md)
+- [Grass Knuckles — Health attacks / Mirror-Nut attrition [89]](../../../decks/plants/grass_knuckles/pecan_mirror_89.md)
+- [Grass Knuckles — Mirror-Nut attrition / Banana scaling [1605]](../../../decks/plants/grass_knuckles/mirror_anti_trick_1605.md)
 - [Beta-Carrotina — Mirrtorcycle](../../../decks/plants/beta_carrotina/mirrtorcycle.md)
+- [Beta-Carrotina — Mirror-Nut attrition / Bean pressure [1603]](../../../decks/plants/beta_carrotina/mirror_beans_1603.md)
 
 ## Источник
 

@@ -27,10 +27,14 @@ Viking не требует руки трюков, но не имеет скид�
 
 ## Разобранные колоды
 
+- [Super Brainz — Trickster finish / Zombie discovery [160]](../../../decks/zombies/super_brainz/trickster_conjure_z_160.md)
+- [Super Brainz — Zombie discovery / Trickster finish [217]](../../../decks/zombies/super_brainz/conjure_z_trickster_217.md)
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
 - [Professor Brainstorm — Trickstache](../../../decks/zombies/professor_brainstorm/trickstache.md)
+- [Professor Brainstorm — Trickster finish / Protected zombie engine [-121]](../../../decks/zombies/professor_brainstorm/trickster_parasol_n121.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
 - [Immorticia — Bestached anti-Untrickable](../../../decks/zombies/immorticia/bestached_anti_untrickable.md)
+- [Huge-Gigantacus — Trickster finish / Mustache economy [4]](../../../decks/zombies/huge_gigantacus/trickster_mustache_4.md)
 
 ## Источник
 

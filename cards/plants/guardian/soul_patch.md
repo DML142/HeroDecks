@@ -27,7 +27,16 @@ Body-Gourd заряжает блок одним выходом, но не пер
 
 ## Разобранные колоды
 
+- [Wall-Knight — Solar Sanctuary](../../../decks/plants/wall_knight/solar_sanctuary.md)
+- [Wall-Knight — Flower retaliation / Bowling control [46]](../../../decks/plants/wall_knight/flowers_bowling_46.md)
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Solar lane pressure / Bowling control [359]](../../../decks/plants/wall_knight/strikethrough_p_anti_trick_359.md)
+- [Spudow — Berry Pecan Bastion](../../../decks/plants/spudow/berry_pecan_bastion.md)
 - [Spudow — Soteria](../../../decks/plants/spudow/soteria.md)
+- [Spudow — Force Patch / Health attacks [14]](../../../decks/plants/spudow/force_patch_pecan_14.md)
+- [Citron — Peel Shield Sanctuary](../../../decks/plants/citron/peel_shield_sanctuary.md)
+- [Grass Knuckles — Umbrella Pea Sanctuary](../../../decks/plants/grass_knuckles/umbrella_pea_sanctuary.md)
+- [Beta-Carrotina — Waterfront Sanctuary](../../../decks/plants/beta_carrotina/waterfront_sanctuary.md)
 
 ## Источник
 

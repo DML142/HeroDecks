@@ -27,7 +27,13 @@ Healthy Treat сильнее сохраняет одного engine; Going Viral
 
 ## Разобранные колоды
 
+- [The Smash — Going Viral swarm / Sports team [63]](../../../decks/zombies/the_smash/viral_sports_63.md)
+- [The Smash — Pet tempo / Going Viral swarm [22155]](../../../decks/zombies/the_smash/pets_viral_22155.md)
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
+- [Rustbolt — Brain production burst / Going Viral swarm [61]](../../../decks/zombies/rustbolt/blob_viral_61.md)
+- [Rustbolt — Science attack / Going Viral swarm [173]](../../../decks/zombies/rustbolt/science_viral_173.md)
+- [Z-Mech — Going Viral swarm / Sports team [64]](../../../decks/zombies/z_mech/viral_sports_64.md)
+- [Neptuna — Going Viral swarm / Sports team [59]](../../../decks/zombies/neptuna/viral_sports_59.md)
 
 ## Источник
 

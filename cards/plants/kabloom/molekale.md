@@ -28,6 +28,17 @@ Pineclone даёт предсказуемые одинаковые тела, н�
 ## Разобранные колоды
 
 - [Solar Flare — Valueflare](../../../decks/plants/solar_flare/valueflare.md)
+- [Solar Flare — Plant transformation / Plant discovery [-11672]](../../../decks/plants/solar_flare/molekale_conjure_p_n11672.md)
+- [Solar Flare — Plant transformation / Solar lane pressure [369]](../../../decks/plants/solar_flare/molekale_strikethrough_p_369.md)
+- [Spudow — Plant transformation / Plant discovery [41]](../../../decks/plants/spudow/molekale_conjure_p_41.md)
+- [Nightcap — Pineclone conversion / Plant transformation [2355]](../../../decks/plants/nightcap/pineclone_molekale_2355.md)
+- [Nightcap — Plant discovery / Plant transformation [132]](../../../decks/plants/nightcap/conjure_p_molekale_132.md)
+- [Nightcap — Plant transformation / Plant discovery [10676]](../../../decks/plants/nightcap/molekale_conjure_p_10676.md)
+- [Nightcap — Plant transformation / Plant discovery [10684]](../../../decks/plants/nightcap/molekale_conjure_p_10684.md)
+- [Nightcap — Splash board control / Plant transformation [525]](../../../decks/plants/nightcap/splash_p_molekale_525.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
+- [Captain Combustible — Pineclone conversion / Plant transformation [235]](../../../decks/plants/captain_combustible/pineclone_molekale_235.md)
+- [Captain Combustible — Pineclone conversion / Untrickable OTK [37]](../../../decks/plants/captain_combustible/pineclone_apotk_37.md)
 
 ## Источник
 

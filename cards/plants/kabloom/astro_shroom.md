@@ -27,7 +27,16 @@ Poison Mushroom быстрее бьёт в открытой линии, но з�
 
 ## Разобранные колоды
 
+- [Solar Flare — Heal conversion / Mushroom swarm [77]](../../../decks/plants/solar_flare/heal_mushrooms_77.md)
+- [Solar Flare — Mushroom swarm / Solar acceleration [139]](../../../decks/plants/solar_flare/mushrooms_ramp_p_139.md)
+- [Solar Flare — Mushroom swarm / Solar lane pressure [-9]](../../../decks/plants/solar_flare/mushrooms_strikethrough_p_n9.md)
+- [Solar Flare — Pineclone conversion / Plant transformation [2755]](../../../decks/plants/solar_flare/pineclone_molekale_2755.md)
+- [Spudow — Taxed tempo / Astro Shroom [10674]](../../../decks/plants/spudow/anti_trick_tempo_10674.md)
 - [Nightcap — Cyclecap](../../../decks/plants/nightcap/cyclecap.md)
+- [Nightcap — Cyclecap draw loop / Pineclone conversion [-12308]](../../../decks/plants/nightcap/cycle_pineclone_n12308.md)
+- [Nightcap — Pineclone conversion / Plant transformation [10573]](../../../decks/plants/nightcap/pineclone_molekale_10573.md)
+- [Nightcap — Plant transformation / Bean pressure [-426]](../../../decks/plants/nightcap/molekale_beans_n426.md)
+- [Captain Combustible — Berry damage / Plant discovery [1377]](../../../decks/plants/captain_combustible/berries_conjure_p_1377.md)
 
 ## Источник
 

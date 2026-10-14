@@ -28,10 +28,17 @@ Astrocado быстрее наносит урон через блокеров, н
 ## Разобранные колоды
 
 - [Solar Flare — Valueflare](../../../decks/plants/solar_flare/valueflare.md)
+- [Solar Flare — Plant transformation / Solar lane pressure [369]](../../../decks/plants/solar_flare/molekale_strikethrough_p_369.md)
 - [Wall-Knight — Chemotherapy](../../../decks/plants/wall_knight/chemotherapy.md)
+- [Wall-Knight — Heal conversion / Lil' Buddy [311]](../../../decks/plants/wall_knight/heal_solo_311.md)
+- [Wall-Knight — Health attacks / Root economy [5]](../../../decks/plants/wall_knight/pecan_roots_5.md)
+- [Wall-Knight — Solar lane pressure / Bowling control [359]](../../../decks/plants/wall_knight/strikethrough_p_anti_trick_359.md)
 - [Chompzilla — ApOTK](../../../decks/plants/chompzilla/apotk.md)
-- [Rose — Heal MidRose](../../../decks/plants/rose/heal_midrose.md)
+- [Chompzilla — Growth reserve / Heal conversion [462]](../../../decks/plants/chompzilla/potted_heal_462.md)
+- [Chompzilla — Heal conversion / Plant discovery [232]](../../../decks/plants/chompzilla/heal_conjure_p_232.md)
 - [Rose — HMR anti-Waxer](../../../decks/plants/rose/hmr_anti_waxer.md)
+- [Rose — Heal MidRose](../../../decks/plants/rose/heal_midrose.md)
+- [Rose — Splash board control / Solar acceleration [500]](../../../decks/plants/rose/splash_p_ramp_p_500.md)
 
 ## Источник
 

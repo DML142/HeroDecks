@@ -28,6 +28,14 @@ Ra Zombie воздействует сразу дороже; Skull создаёт
 ## Разобранные колоды
 
 - [The Smash — Luminous](../../../decks/zombies/the_smash/luminous.md)
+- [The Smash — Pharaoh survival / Going Viral swarm [1707]](../../../decks/zombies/the_smash/pharaoh_viral_1707.md)
+- [Rustbolt — Mustache economy / Going Viral swarm [-60]](../../../decks/zombies/rustbolt/mustache_viral_n60.md)
+- [Rustbolt — Protected zombie engine / Sun denial [-1218]](../../../decks/zombies/rustbolt/parasol_sun_denial_n1218.md)
+- [Rustbolt — Sun denial / Leap progression [163]](../../../decks/zombies/rustbolt/sun_denial_leap_163.md)
+- [Z-Mech — Binary burst / Dancing burn [-17]](../../../decks/zombies/z_mech/binary_dance_n17.md)
+- [Z-Mech — Binary burst / Going Viral swarm [176]](../../../decks/zombies/z_mech/binary_viral_176.md)
+- [Neptuna — Sun denial / Gravestone replay [-1518]](../../../decks/zombies/neptuna/sun_denial_graves_n1518.md)
+- [Neptuna — Sun denial / Zombie discovery [242]](../../../decks/zombies/neptuna/sun_denial_conjure_z_242.md)
 
 ## Источник
 

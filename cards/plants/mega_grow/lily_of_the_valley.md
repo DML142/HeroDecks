@@ -28,11 +28,17 @@ Grow-Shroom даёт одно гарантированное усиление п
 ## Разобранные колоды
 
 - [Green Shadow — Cartas Buenas](../../../decks/plants/green_shadow/cartas_buenas.md)
-- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
-- [Captain Combustible — Log Bait](../../../decks/plants/captain_combustible/log_bait.md)
-- [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Green Shadow — Banana scaling / Untrickable OTK [-120]](../../../decks/plants/green_shadow/banana_apotk_n120.md)
+- [Green Shadow — Water and crossfire / Growth reserve [169]](../../../decks/plants/green_shadow/amphibious_potted_169.md)
 - [Chompzilla — Ringspresso](../../../decks/plants/chompzilla/ringspresso.md)
+- [Chompzilla — Banana scaling / Growth reserve [1509]](../../../decks/plants/chompzilla/banana_potted_1509.md)
+- [Chompzilla — Flower retaliation / Untrickable OTK [-2]](../../../decks/plants/chompzilla/flowers_apotk_n2.md)
+- [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Grass Knuckles — Growth reserve / Untrickable OTK [83]](../../../decks/plants/grass_knuckles/potted_apotk_83.md)
+- [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Captain Combustible — Log Bait](../../../decks/plants/captain_combustible/log_bait.md)
+- [Captain Combustible — Untrickable OTK / Plant transformation [-6]](../../../decks/plants/captain_combustible/apotk_molekale_n6.md)
 
 ## Источник
 

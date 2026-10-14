@@ -28,6 +28,13 @@ Smashing Gargantuar поддерживает другие Gargs, но не да�
 ## Разобранные колоды
 
 - [The Smash — Luminous](../../../decks/zombies/the_smash/luminous.md)
+- [The Smash — Going Viral swarm / Frenzy tempo [30]](../../../decks/zombies/the_smash/viral_frenzy_30.md)
+- [The Smash — Pharaoh survival / Gargantuar pressure [168]](../../../decks/zombies/the_smash/pharaoh_gargs_168.md)
+- [The Smash — Swimmer stat copy / Gargantuar pressure [39]](../../../decks/zombies/the_smash/swimmer_gargs_39.md)
+- [Rustbolt — Protected zombie engine / Sun denial [-1218]](../../../decks/zombies/rustbolt/parasol_sun_denial_n1218.md)
+- [Z-Mech — Going Viral swarm / Zombie discovery [177672]](../../../decks/zombies/z_mech/viral_conjure_z_177672.md)
+- [Neptuna — Going Viral swarm / Zombie discovery [162]](../../../decks/zombies/neptuna/viral_conjure_z_162.md)
+- [Neptuna — Pirate breakthrough / Going Viral swarm [374]](../../../decks/zombies/neptuna/pirates_viral_374.md)
 
 ## Источник
 

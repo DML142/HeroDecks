@@ -28,7 +28,18 @@ Water Chestnut живёт дольше сразу, но не оставляет 
 ## Разобранные колоды
 
 - [Spudow — Soteria](../../../decks/plants/spudow/soteria.md)
+- [Spudow — Independent tempo / Hot Lava [18]](../../../decks/plants/spudow/tempo_solo_18.md)
+- [Spudow — Plant transformation / Plant discovery [41]](../../../decks/plants/spudow/molekale_conjure_p_41.md)
+- [Citron — Bowling control / Splash board control [395]](../../../decks/plants/citron/bowling_splash_p_395.md)
+- [Citron — Freeze execution / Bowling control [1726]](../../../decks/plants/citron/freeze_p_bowling_1726.md)
+- [Citron — Root economy / Bowling control [-125]](../../../decks/plants/citron/roots_bowling_n125.md)
+- [Citron — Root economy / Splash board control [-234560]](../../../decks/plants/citron/roots_splash_p_n234560.md)
+- [Citron — Splash board control / Forget-Me-Nuts [-956]](../../../decks/plants/citron/splash_p_anti_trick_n956.md)
+- [Citron — Starfruit crossfire / Water and crossfire [81]](../../../decks/plants/citron/starfruit_amphibious_81.md)
+- [Grass Knuckles — Onion hand conversion / Growth reserve [-5]](../../../decks/plants/grass_knuckles/rings_potted_n5.md)
+- [Grass Knuckles — Untrickable OTK / Plant discovery [25]](../../../decks/plants/grass_knuckles/apotk_conjure_p_25.md)
 - [Beta-Carrotina — Sham Control — HeroDecks shell](../../../decks/plants/beta_carrotina/sham_control.md)
+- [Beta-Carrotina — Splash board control / Forget-Me-Nuts [239]](../../../decks/plants/beta_carrotina/splash_p_anti_trick_239.md)
 
 ## Источник
 

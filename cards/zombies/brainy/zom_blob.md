@@ -27,8 +27,13 @@ Zombie Evolution: This gets +1 Strength for each Brain you got this turn.
 
 ## Разобранные колоды
 
-- [Huge-Gigantacus — Telimps](../../../decks/zombies/huge_gigantacus/telimps.md)
+- [Super Brainz — Brain production burst / Zombie discovery [62]](../../../decks/zombies/super_brainz/blob_conjure_z_62.md)
+- [Rustbolt — Brain production burst / Going Viral swarm [61]](../../../decks/zombies/rustbolt/blob_viral_61.md)
+- [Rustbolt — Brain production burst / Going Viral swarm [82]](../../../decks/zombies/rustbolt/blob_viral_82.md)
 - [Immorticia — Secret Swimmer Blob](../../../decks/zombies/immorticia/secret_swimmer_blob.md)
+- [Huge-Gigantacus — Telimps](../../../decks/zombies/huge_gigantacus/telimps.md)
+- [Huge-Gigantacus — Brain production burst / Zombie discovery [379]](../../../decks/zombies/huge_gigantacus/blob_conjure_z_379.md)
+- [Huge-Gigantacus — Zombie discovery / Brain production burst [34]](../../../decks/zombies/huge_gigantacus/conjure_z_blob_34.md)
 
 ## Источник
 

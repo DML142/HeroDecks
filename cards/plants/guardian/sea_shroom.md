@@ -27,7 +27,10 @@ Sting Bean даёт Bullseye и Team-Up, но атакует слабее до �
 
 ## Разобранные колоды
 
+- [Spudow — Mushroom swarm / Poison Mushroom [1975]](../../../decks/plants/spudow/mushrooms_solo_1975.md)
 - [Citron — Amphibious Momentus](../../../decks/plants/citron/amphibious_momentus.md)
+- [Grass Knuckles — Independent tempo / Pea Pod [1859]](../../../decks/plants/grass_knuckles/tempo_solo_1859.md)
+- [Beta-Carrotina — Water and crossfire / Mars Flytrap [67]](../../../decks/plants/beta_carrotina/amphibious_solo_67.md)
 
 ## Источник
 

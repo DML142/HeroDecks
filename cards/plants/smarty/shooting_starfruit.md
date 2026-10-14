@@ -19,6 +19,18 @@ This attacks in all five lanes. When you see a Shooting Starfruit, make a wish, 
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 5 с исходными 2/2 для занятия линии и боя. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Green Shadow — Onion hand conversion / Untrickable OTK [18879]](../../../decks/plants/green_shadow/rings_apotk_18879.md)
+- [Citron — Starfruit crossfire / Water and crossfire [81]](../../../decks/plants/citron/starfruit_amphibious_81.md)
+- [Beta-Carrotina — Bean pressure / Water and crossfire [303]](../../../decks/plants/beta_carrotina/beans_amphibious_303.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Shooting_Starfruit). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

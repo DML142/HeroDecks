@@ -27,7 +27,18 @@ Planet of the Grapes даёт карты вместо разменов; Bog со
 
 ## Разобранные колоды
 
+- [Green Shadow — Water and crossfire / Bonk Choy [260]](../../../decks/plants/green_shadow/amphibious_solo_260.md)
 - [Citron — Amphibious Momentus](../../../decks/plants/citron/amphibious_momentus.md)
+- [Citron — Root economy / Splash board control [-234560]](../../../decks/plants/citron/roots_splash_p_n234560.md)
+- [Citron — Splash board control / Galacta-Cactus [2655]](../../../decks/plants/citron/splash_p_solo_2655.md)
+- [Citron — Starfruit crossfire / Water and crossfire [81]](../../../decks/plants/citron/starfruit_amphibious_81.md)
+- [Citron — Taxed tempo / Splash board control [-238]](../../../decks/plants/citron/anti_trick_splash_p_n238.md)
+- [Rose — Plant discovery / Water and crossfire [0]](../../../decks/plants/rose/conjure_p_amphibious_0.md)
+- [Rose — Solar lane pressure / Splash board control [113622]](../../../decks/plants/rose/strikethrough_p_splash_p_113622.md)
+- [Rose — Splash board control / Plant discovery [118]](../../../decks/plants/rose/splash_p_conjure_p_118.md)
+- [Rose — Splash board control / Solar acceleration [500]](../../../decks/plants/rose/splash_p_ramp_p_500.md)
+- [Beta-Carrotina — Bowling control / Splash board control [198]](../../../decks/plants/beta_carrotina/bowling_splash_p_198.md)
+- [Beta-Carrotina — Water and crossfire / Splash board control [6]](../../../decks/plants/beta_carrotina/amphibious_splash_p_6.md)
 
 ## Источник
 

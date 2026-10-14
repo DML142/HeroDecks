@@ -19,8 +19,21 @@ Mega-Grow даёт темповую кривую и Gatling, Kabloom — Berry �
 
 ## Колоды
 
-- [Log Bait — source-based](../../decks/plants/captain_combustible/log_bait.md)
 - [Comboss — source-based-alt](../../decks/plants/captain_combustible/comboss.md)
+- [Log Bait — source-based](../../decks/plants/captain_combustible/log_bait.md)
+- [Banana scaling / Berry damage [1310] — source-portfolio](../../decks/plants/captain_combustible/banana_berries_1310.md)
+- [Berry damage / Plant discovery [1377] — source-portfolio](../../decks/plants/captain_combustible/berries_conjure_p_1377.md)
+- [Growth reserve / Berry damage [364] — source-portfolio](../../decks/plants/captain_combustible/potted_berries_364.md)
+- [Mushroom swarm / Plant transformation [317] — source-portfolio](../../decks/plants/captain_combustible/mushrooms_molekale_317.md)
+- [Onion hand conversion / Repeat Moss engine [202] — source-portfolio](../../decks/plants/captain_combustible/rings_moss_202.md)
+- [Pea evolution / Puff Shroom [165] — source-portfolio](../../decks/plants/captain_combustible/pea_tempo_165.md)
+- [Pineclone conversion / Plant transformation [235] — source-portfolio](../../decks/plants/captain_combustible/pineclone_molekale_235.md)
+- [Pineclone conversion / Untrickable OTK [37] — source-portfolio](../../decks/plants/captain_combustible/pineclone_apotk_37.md)
+- [Plant discovery / Untrickable OTK [116422] — source-portfolio](../../decks/plants/captain_combustible/conjure_p_apotk_116422.md)
+- [Plant transformation / Banana Bomb [288] — source-portfolio](../../decks/plants/captain_combustible/molekale_anti_trick_288.md)
+- [Repeat Moss engine / Banana Bomb [65] — source-portfolio](../../decks/plants/captain_combustible/moss_solo_65.md)
+- [Untrickable OTK / Plant transformation [-6] — source-portfolio](../../decks/plants/captain_combustible/apotk_molekale_n6.md)
+- [Untrickable OTK / Plant transformation [50] — source-portfolio](../../decks/plants/captain_combustible/apotk_molekale_50.md)
 
 ## Источник
 

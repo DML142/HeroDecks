@@ -27,7 +27,15 @@ Rolling Stone дешевле снимает одну цель; массовый 
 
 ## Разобранные колоды
 
+- [The Smash — Pet tempo / Knight conversion [1967]](../../../decks/zombies/the_smash/pets_king_1967.md)
+- [Rustbolt — Gargantuar pressure / Pharaoh survival [1853]](../../../decks/zombies/rustbolt/gargs_pharaoh_1853.md)
+- [Rustbolt — Pharaoh survival / Healthy Treat [420]](../../../decks/zombies/rustbolt/pharaoh_solo_420.md)
+- [Rustbolt — Stompadon hand growth / Going Viral swarm [1443]](../../../decks/zombies/rustbolt/handbuff_viral_1443.md)
+- [Z-Mech — Pharaoh survival / Gargantuar pressure [393]](../../../decks/zombies/z_mech/pharaoh_gargs_393.md)
+- [Z-Mech — Sports team / Going Viral swarm [1452]](../../../decks/zombies/z_mech/sports_viral_1452.md)
 - [Neptuna — Midtomba anti-swarm](../../../decks/zombies/neptuna/midtomba_anti_swarm.md)
+- [Neptuna — Pharaoh survival / Gargantuar pressure [245]](../../../decks/zombies/neptuna/pharaoh_gargs_245.md)
+- [Neptuna — Stompadon hand growth / Sports team [1396]](../../../decks/zombies/neptuna/handbuff_sports_1396.md)
 
 ## Источник
 

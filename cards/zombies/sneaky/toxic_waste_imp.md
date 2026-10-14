@@ -27,6 +27,13 @@ Barrel of Barrels усиливает любого отдельного носи�
 
 ## Разобранные колоды
 
+- [Super Brainz — Imp network / Gravestone replay [228]](../../../decks/zombies/super_brainz/imps_graves_228.md)
+- [Super Brainz — Imp network / Mime bonus echo [35]](../../../decks/zombies/super_brainz/imps_mime_35.md)
+- [Impfinity — Imp network / Binary burst [114]](../../../decks/zombies/impfinity/imps_binary_114.md)
+- [Brain Freeze — Imp network / Gargantuar pressure [195]](../../../decks/zombies/brain_freeze/imps_gargs_195.md)
+- [Brain Freeze — Imp network / Gravestone replay [1495]](../../../decks/zombies/brain_freeze/imps_graves_1495.md)
+- [Neptuna — Imp network / Gravestone replay [-1200]](../../../decks/zombies/neptuna/imps_graves_n1200.md)
+- [Neptuna — Imp network / Knight conversion [254]](../../../decks/zombies/neptuna/imps_king_254.md)
 - [Huge-Gigantacus — Telimps](../../../decks/zombies/huge_gigantacus/telimps.md)
 
 ## Источник

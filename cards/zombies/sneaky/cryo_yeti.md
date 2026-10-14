@@ -28,10 +28,23 @@ Surprise Gargantuar не замораживает blocker; Cryo-Yeti выбра�
 ## Разобранные колоды
 
 - [Super Brainz — Limerence](../../../decks/zombies/super_brainz/limerence.md)
+- [Super Brainz — Gravestone replay / Zombie freeze [107]](../../../decks/zombies/super_brainz/graves_freeze_z_107.md)
+- [Super Brainz — Pirate breakthrough / Gravestone replay [-2318]](../../../decks/zombies/super_brainz/pirates_graves_n2318.md)
+- [Super Brainz — Zombie freeze / Zombie discovery [691]](../../../decks/zombies/super_brainz/freeze_z_conjure_z_691.md)
 - [Impfinity — No-Hokai](../../../decks/zombies/impfinity/no_hokai.md)
+- [Impfinity — Zombie freeze / Imp network [2855]](../../../decks/zombies/impfinity/freeze_z_imps_2855.md)
 - [Brain Freeze — Lock the Bathroom](../../../decks/zombies/brain_freeze/lock_the_bathroom.md)
+- [Brain Freeze — Frenzy tempo / Gravestone replay [131]](../../../decks/zombies/brain_freeze/frenzy_graves_131.md)
+- [Brain Freeze — Gravestone replay / Zombie freeze [-154560]](../../../decks/zombies/brain_freeze/graves_freeze_z_n154560.md)
+- [Brain Freeze — Independent tempo / Zombie freeze [20]](../../../decks/zombies/brain_freeze/tempo_freeze_z_20.md)
+- [Brain Freeze — Pet tempo / Zombie freeze [248]](../../../decks/zombies/brain_freeze/pets_freeze_z_248.md)
+- [Brain Freeze — Pet tempo / Zombie freeze [79]](../../../decks/zombies/brain_freeze/pets_freeze_z_79.md)
+- [Brain Freeze — Pirate breakthrough / Zombie freeze [36]](../../../decks/zombies/brain_freeze/pirates_freeze_z_36.md)
 - [Neptuna — Midtomba](../../../decks/zombies/neptuna/midtomba.md)
 - [Neptuna — Midtomba anti-swarm](../../../decks/zombies/neptuna/midtomba_anti_swarm.md)
+- [Neptuna — Imp network / Gravestone replay [-1200]](../../../decks/zombies/neptuna/imps_graves_n1200.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
+- [Huge-Gigantacus — Zombie freeze / Pirate breakthrough [898]](../../../decks/zombies/huge_gigantacus/freeze_z_pirates_898.md)
 
 ## Источник
 

@@ -28,8 +28,23 @@ Soul Patch защищает героя, но не перехватывает п�
 ## Разобранные колоды
 
 - [Wall-Knight — Chemotherapy](../../../decks/plants/wall_knight/chemotherapy.md)
-- [Beta-Carrotina — Sham Control — HeroDecks shell](../../../decks/plants/beta_carrotina/sham_control.md)
+- [Wall-Knight — Flower retaliation / Bowling control [46]](../../../decks/plants/wall_knight/flowers_bowling_46.md)
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Root economy / Bowling control [19789]](../../../decks/plants/wall_knight/roots_bowling_19789.md)
+- [Spudow — Berry damage / Plant transformation [2255]](../../../decks/plants/spudow/berries_molekale_2255.md)
+- [Spudow — Bowling control / Banana Bomb [103]](../../../decks/plants/spudow/bowling_anti_trick_103.md)
+- [Spudow — Health attacks / Mirror-Nut attrition [-2118]](../../../decks/plants/spudow/pecan_mirror_n2118.md)
+- [Spudow — Independent tempo / Hot Lava [18]](../../../decks/plants/spudow/tempo_solo_18.md)
+- [Citron — Root economy / Bowling control [-125]](../../../decks/plants/citron/roots_bowling_n125.md)
+- [Citron — Splash board control / Forget-Me-Nuts [-956]](../../../decks/plants/citron/splash_p_anti_trick_n956.md)
+- [Citron — Taxed tempo / Splash board control [-238]](../../../decks/plants/citron/anti_trick_splash_p_n238.md)
 - [Grass Knuckles — Redundancy](../../../decks/plants/grass_knuckles/redundancy.md)
+- [Grass Knuckles — Banana scaling / Untrickable OTK [-144]](../../../decks/plants/grass_knuckles/banana_apotk_n144.md)
+- [Grass Knuckles — Taxed tempo / Bonk Choy [-765]](../../../decks/plants/grass_knuckles/anti_trick_solo_n765.md)
+- [Beta-Carrotina — Sham Control — HeroDecks shell](../../../decks/plants/beta_carrotina/sham_control.md)
+- [Beta-Carrotina — Bowling control / Splash board control [198]](../../../decks/plants/beta_carrotina/bowling_splash_p_198.md)
+- [Beta-Carrotina — Splash board control / Forget-Me-Nuts [239]](../../../decks/plants/beta_carrotina/splash_p_anti_trick_239.md)
+- [Beta-Carrotina — Taxed tempo / Splash board control [51]](../../../decks/plants/beta_carrotina/anti_trick_splash_p_51.md)
 
 ## Источник
 

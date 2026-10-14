@@ -27,10 +27,22 @@ Thinking Cap создаёт дешёвые случайные суперсилы
 
 ## Разобранные колоды
 
+- [Super Brainz — Brain production burst / Zombie discovery [62]](../../../decks/zombies/super_brainz/blob_conjure_z_62.md)
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
+- [Rustbolt — Brain production burst / Going Viral swarm [61]](../../../decks/zombies/rustbolt/blob_viral_61.md)
+- [Rustbolt — Science attack / Going Viral swarm [173]](../../../decks/zombies/rustbolt/science_viral_173.md)
+- [Rustbolt — Sun denial / Leap progression [163]](../../../decks/zombies/rustbolt/sun_denial_leap_163.md)
 - [Professor Brainstorm — Trickstache](../../../decks/zombies/professor_brainstorm/trickstache.md)
+- [Professor Brainstorm — Brain acceleration / Gargantuar pressure [134561]](../../../decks/zombies/professor_brainstorm/ramp_z_gargs_134561.md)
+- [Professor Brainstorm — Death value / Zombie discovery [96]](../../../decks/zombies/professor_brainstorm/death_z_conjure_z_96.md)
+- [Professor Brainstorm — Independent tempo / Bungee Plumber [1909]](../../../decks/zombies/professor_brainstorm/tempo_solo_1909.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
 - [Immorticia — Bestached anti-Untrickable](../../../decks/zombies/immorticia/bestached_anti_untrickable.md)
+- [Immorticia — Gargantuar pressure / Frenzy tempo [85]](../../../decks/zombies/immorticia/gargs_frenzy_85.md)
+- [Immorticia — Mime bonus echo / Brain acceleration [20675]](../../../decks/zombies/immorticia/mime_ramp_z_20675.md)
+- [Immorticia — Pet tempo / Cat Lady [271]](../../../decks/zombies/immorticia/pets_solo_271.md)
+- [Immorticia — Protected zombie engine / Brain acceleration [1387]](../../../decks/zombies/immorticia/parasol_ramp_z_1387.md)
+- [Huge-Gigantacus — Brain production burst / Zombie discovery [379]](../../../decks/zombies/huge_gigantacus/blob_conjure_z_379.md)
 
 ## Источник
 

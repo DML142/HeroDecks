@@ -27,8 +27,15 @@ Gravitree лучше перехватывает новые тела, но поз
 
 ## Разобранные колоды
 
+- [Wall-Knight — Force Patch / Health attacks [231]](../../../decks/plants/wall_knight/force_patch_pecan_231.md)
+- [Wall-Knight — Health attacks / Solar acceleration [3055]](../../../decks/plants/wall_knight/pecan_ramp_p_3055.md)
+- [Citron — Root economy / Splash board control [-234560]](../../../decks/plants/citron/roots_splash_p_n234560.md)
 - [Grass Knuckles — Sensei](../../../decks/plants/grass_knuckles/sensei.md)
 - [Grass Knuckles — Sensei anti-teleport](../../../decks/plants/grass_knuckles/sensei_anti_teleport.md)
+- [Grass Knuckles — Growth reserve / Untrickable OTK [83]](../../../decks/plants/grass_knuckles/potted_apotk_83.md)
+- [Grass Knuckles — Health attacks / Mirror-Nut attrition [89]](../../../decks/plants/grass_knuckles/pecan_mirror_89.md)
+- [Beta-Carrotina — Bowling control / Splash board control [198]](../../../decks/plants/beta_carrotina/bowling_splash_p_198.md)
+- [Beta-Carrotina — Water and crossfire / Splash board control [6]](../../../decks/plants/beta_carrotina/amphibious_splash_p_6.md)
 
 ## Источник
 

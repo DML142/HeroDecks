@@ -27,7 +27,14 @@ Fun-Dead Raiser даёт две карты вашего списка, но бе�
 
 ## Разобранные колоды
 
+- [Super Brainz — Trickster finish / Zombie discovery [160]](../../../decks/zombies/super_brainz/trickster_conjure_z_160.md)
+- [Super Brainz — Zombie discovery / Bad Moon Rising [113]](../../../decks/zombies/super_brainz/conjure_z_bmr_113.md)
+- [Super Brainz — Zombie discovery / Trickster finish [217]](../../../decks/zombies/super_brainz/conjure_z_trickster_217.md)
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
+- [Professor Brainstorm — Trickster finish / Protected zombie engine [-121]](../../../decks/zombies/professor_brainstorm/trickster_parasol_n121.md)
+- [Huge-Gigantacus — Bad Moon Rising / Zombie discovery [201]](../../../decks/zombies/huge_gigantacus/bmr_conjure_z_201.md)
+- [Huge-Gigantacus — Zombie discovery / Brain production burst [34]](../../../decks/zombies/huge_gigantacus/conjure_z_blob_34.md)
+- [Huge-Gigantacus — Zombie discovery / Mime bonus echo [109]](../../../decks/zombies/huge_gigantacus/conjure_z_mime_109.md)
 
 ## Источник
 

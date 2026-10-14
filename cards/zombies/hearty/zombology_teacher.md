@@ -27,7 +27,14 @@ Flag Zombie удешевляет другие зомби, а не трюки; з
 
 ## Разобранные колоды
 
+- [The Smash — Going Viral swarm / Frenzy tempo [30]](../../../decks/zombies/the_smash/viral_frenzy_30.md)
+- [The Smash — Pet tempo / Going Viral swarm [22155]](../../../decks/zombies/the_smash/pets_viral_22155.md)
+- [Rustbolt — Flag Moon Academy](../../../decks/zombies/rustbolt/flag_moon_academy.md)
 - [Rustbolt — Telepsterrazzi](../../../decks/zombies/rustbolt/telepsterrazzi.md)
+- [Rustbolt — Going Viral swarm / Genetic Experiment [314]](../../../decks/zombies/rustbolt/viral_solo_314.md)
+- [Rustbolt — Science attack / Going Viral swarm [173]](../../../decks/zombies/rustbolt/science_viral_173.md)
+- [Z-Mech — Going Viral swarm / Zombie discovery [177672]](../../../decks/zombies/z_mech/viral_conjure_z_177672.md)
+- [Neptuna — Going Viral swarm / Zombie discovery [162]](../../../decks/zombies/neptuna/viral_conjure_z_162.md)
 
 ## Источник
 

@@ -20,6 +20,20 @@ Beastly даёт Cheese, Cyborg, Area и Ooze; Hearty — переносы, Vira
 ## Колоды
 
 - [Luminous — source-based](../../decks/zombies/the_smash/luminous.md)
+- [Gargantuar pressure / Black Hole [265] — source-portfolio](../../decks/zombies/the_smash/gargs_tempo_265.md)
+- [Gargantuar pressure / Black Hole [92] — source-portfolio](../../decks/zombies/the_smash/gargs_solo_92.md)
+- [Gargantuar pressure / Pharaoh survival [106] — source-portfolio](../../decks/zombies/the_smash/gargs_pharaoh_106.md)
+- [Going Viral swarm / Frenzy tempo [30] — source-portfolio](../../decks/zombies/the_smash/viral_frenzy_30.md)
+- [Going Viral swarm / Sports team [63] — source-portfolio](../../decks/zombies/the_smash/viral_sports_63.md)
+- [Going Viral swarm / Stompadon hand growth [22] — source-portfolio](../../decks/zombies/the_smash/viral_handbuff_22.md)
+- [Knight conversion / Going Viral swarm [128676] — source-portfolio](../../decks/zombies/the_smash/king_viral_128676.md)
+- [Pet tempo / Going Viral swarm [22155] — source-portfolio](../../decks/zombies/the_smash/pets_viral_22155.md)
+- [Pet tempo / Knight conversion [1967] — source-portfolio](../../decks/zombies/the_smash/pets_king_1967.md)
+- [Pharaoh survival / Gargantuar pressure [168] — source-portfolio](../../decks/zombies/the_smash/pharaoh_gargs_168.md)
+- [Pharaoh survival / Going Viral swarm [1707] — source-portfolio](../../decks/zombies/the_smash/pharaoh_viral_1707.md)
+- [Sports team / Arm Wrestler [1404] — source-portfolio](../../decks/zombies/the_smash/sports_solo_1404.md)
+- [Stompadon hand growth / Going Viral swarm [-58] — source-portfolio](../../decks/zombies/the_smash/handbuff_tempo_n58.md)
+- [Swimmer stat copy / Gargantuar pressure [39] — source-portfolio](../../decks/zombies/the_smash/swimmer_gargs_39.md)
 
 ## Источник
 

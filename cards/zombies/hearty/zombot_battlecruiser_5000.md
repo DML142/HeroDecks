@@ -28,7 +28,13 @@ Defensive End мешает трюкам, но не даёт одновремен
 ## Разобранные колоды
 
 - [The Smash — Luminous](../../../decks/zombies/the_smash/luminous.md)
+- [The Smash — Pharaoh survival / Going Viral swarm [1707]](../../../decks/zombies/the_smash/pharaoh_viral_1707.md)
+- [Rustbolt — Pharaoh survival / Healthy Treat [420]](../../../decks/zombies/rustbolt/pharaoh_solo_420.md)
+- [Rustbolt — Science attack / Going Viral swarm [173]](../../../decks/zombies/rustbolt/science_viral_173.md)
 - [Z-Mech — CGP Dark Ages](../../../decks/zombies/z_mech/cgp_dark_ages.md)
+- [Z-Mech — Binary burst / Going Viral swarm [176]](../../../decks/zombies/z_mech/binary_viral_176.md)
+- [Z-Mech — Pharaoh survival / Gargantuar pressure [393]](../../../decks/zombies/z_mech/pharaoh_gargs_393.md)
+- [Z-Mech — Stompadon hand growth / Gargantuar pressure [606]](../../../decks/zombies/z_mech/handbuff_gargs_606.md)
 
 ## Источник
 

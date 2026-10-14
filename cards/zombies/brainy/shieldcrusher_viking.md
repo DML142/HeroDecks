@@ -28,9 +28,22 @@ Trickster даёт немедленную атаку и скидку от трю
 ## Разобранные колоды
 
 - [Super Brainz — Limerence](../../../decks/zombies/super_brainz/limerence.md)
+- [Super Brainz — Gravestone replay / Chimney Sweep [10484]](../../../decks/zombies/super_brainz/graves_tempo_10484.md)
+- [Super Brainz — Imp network / Mime bonus echo [35]](../../../decks/zombies/super_brainz/imps_mime_35.md)
+- [Super Brainz — Pirate breakthrough / Gravestone replay [-2318]](../../../decks/zombies/super_brainz/pirates_graves_n2318.md)
+- [Rustbolt — Mustache economy / Going Viral swarm [-60]](../../../decks/zombies/rustbolt/mustache_viral_n60.md)
 - [Professor Brainstorm — Trickstache](../../../decks/zombies/professor_brainstorm/trickstache.md)
+- [Professor Brainstorm — Mime bonus echo / Mustache economy [1159]](../../../decks/zombies/professor_brainstorm/mime_mustache_1159.md)
+- [Professor Brainstorm — Valkyrie reserve / Death value [73]](../../../decks/zombies/professor_brainstorm/valkyrie_death_z_73.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
+- [Immorticia — Independent tempo / Gargantuar pressure [370]](../../../decks/zombies/immorticia/tempo_gargs_370.md)
+- [Immorticia — Mustache economy / Swimmer stat copy [124561]](../../../decks/zombies/immorticia/mustache_swimmer_124561.md)
 - [Huge-Gigantacus — Telimps](../../../decks/zombies/huge_gigantacus/telimps.md)
+- [Huge-Gigantacus — Gravestone replay / Chimney Sweep [11672]](../../../decks/zombies/huge_gigantacus/graves_tempo_11672.md)
+- [Huge-Gigantacus — Leap progression / Zombie discovery [277]](../../../decks/zombies/huge_gigantacus/leap_conjure_z_277.md)
+- [Huge-Gigantacus — Mustache economy / Pirate breakthrough [137]](../../../decks/zombies/huge_gigantacus/mustache_pirates_137.md)
+- [Huge-Gigantacus — Pirate breakthrough / Gravestone replay [341]](../../../decks/zombies/huge_gigantacus/pirates_graves_341.md)
+- [Huge-Gigantacus — Trickster finish / Mustache economy [4]](../../../decks/zombies/huge_gigantacus/trickster_mustache_4.md)
 
 ## Источник
 

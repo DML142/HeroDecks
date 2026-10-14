@@ -28,8 +28,22 @@ Berry Blast универсальнее, но три урона не снимаю
 ## Разобранные колоды
 
 - [Spudow — Soteria](../../../decks/plants/spudow/soteria.md)
+- [Spudow — Bowling control / Banana Bomb [103]](../../../decks/plants/spudow/bowling_anti_trick_103.md)
+- [Spudow — Health attacks / Mirror-Nut attrition [94]](../../../decks/plants/spudow/pecan_mirror_94.md)
+- [Spudow — Root economy / Hot Lava [-436]](../../../decks/plants/spudow/roots_solo_n436.md)
+- [Spudow — Taxed tempo / Astro Shroom [10674]](../../../decks/plants/spudow/anti_trick_tempo_10674.md)
+- [Spudow — Three-Nut swarm / Root economy [1989]](../../../decks/plants/spudow/three_nut_roots_1989.md)
 - [Nightcap — Cyclecap](../../../decks/plants/nightcap/cyclecap.md)
+- [Nightcap — Cyclecap draw loop / Pineclone conversion [-12308]](../../../decks/plants/nightcap/cycle_pineclone_n12308.md)
+- [Nightcap — Mushroom swarm / Water and crossfire [71]](../../../decks/plants/nightcap/mushrooms_amphibious_71.md)
+- [Nightcap — Pineclone conversion / Plant transformation [10573]](../../../decks/plants/nightcap/pineclone_molekale_10573.md)
+- [Nightcap — Plant discovery / Plant transformation [-10684]](../../../decks/plants/nightcap/conjure_p_molekale_n10684.md)
+- [Nightcap — Plant discovery / Plant transformation [132]](../../../decks/plants/nightcap/conjure_p_molekale_132.md)
+- [Nightcap — Plant transformation / Bean pressure [-426]](../../../decks/plants/nightcap/molekale_beans_n426.md)
 - [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Captain Combustible — Pea evolution / Puff Shroom [165]](../../../decks/plants/captain_combustible/pea_tempo_165.md)
+- [Captain Combustible — Repeat Moss engine / Banana Bomb [65]](../../../decks/plants/captain_combustible/moss_solo_65.md)
+- [Captain Combustible — Untrickable OTK / Plant transformation [50]](../../../decks/plants/captain_combustible/apotk_molekale_50.md)
 
 ## Источник
 

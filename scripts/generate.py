@@ -2,7 +2,8 @@
 """Build readable Markdown from the frozen factual and editorial datasets."""
 import json,pathlib,re,math,collections,urllib.parse,os
 R=pathlib.Path(__file__).resolve().parents[1]
-load=lambda p:json.loads((R/p).read_text())
+from data_io import read_data
+load=lambda p:read_data(R,p)
 C={x['id']:x for x in load('data/cards.json')};H={x['id']:x for x in load('data/heroes.json')};D=load('data/decks.json');A=load('data/deck-analysis.json');P=load('data/card-analysis.json')
 def write(path,text):
  p=R/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text.rstrip()+'\n')
@@ -35,12 +36,14 @@ for d in D:
   text+='## Изменения относительно основы\n\n| Карта | Изменение |\n| --- | --- |\n'+'\n'.join(f"| {cardlink(C[x['card']],path)} | {x['delta']:+d} |" for x in d['changes'])+'\n\n'+a.get('variant_tradeoff','')+'\n\n'
  text+='## Каждая карта: правило, роль, альтернативы и количество\n\n'
  for x in d['cards']:
-  c=C[x['card']];n=x['count'];p=P[c['id']]
+  c=C[x['card']];n=x['count'];p={'role':a.get('card_roles',{}).get(c['id'],P[c['id']]['role']),'alternative':a.get('card_alternatives',{}).get(c['id'],P[c['id']]['alternative'])}
   text+=f"### {n}× {c['name']}\n\n**Цена {c['cost']}; {stats(c)}; {c['class']}; {c['type']}.** [Карточная запись]({os.path.relpath(R/cardpath(c),(R/path).parent)}).\n\n**Правило:** {clean(c['effect'])}\n\n**Работа в плане:** {p['role']}\n\n**Почему эта карта, а не замена:** {p['alternative']}\n\n**Почему {n}×:** {a['notes'].get(c['id'],qreasons[n])} Вероятность увидеть хотя бы одну в исходных четырёх картах — **{prob(n,4):.1f}%**, в первых десяти обычных выборках — **{prob(n,10):.1f}%**. Это расчёт без mulligan, Conjure и изменения состава колоды; он показывает цену количества, но не доказывает оптимальность.\n\n"
+ text+='## Оценки 1–10\n\nАвторские ориентиры для сравнения стилей, без измеренного винрейта. Высокие RNG и сложность означают больше случайности и более трудное управление. [Шкалы и формулы](../../../research/ratings.md).\n\n| Параметр | Оценка | Обоснование |\n| --- | --- | --- |\n'+'\n'.join(f"| {v['label']} | {a['ratings'][v['id']]['score']}/10 | {a['ratings'][v['id']]['reason']} |" for v in load('data/rating-metrics.json'))+'\n\nУверенность: '+a['confidence']+'\n\n## Доступность пакета\n\n'+a['package_access']+'\n\n'
  text+='## Mulligan и старт\n\n'+a['mulligan']+'\n\n## Как играть\n\n### Начало\n\n'+a['early']+'\n\n### Средняя игра\n\n'+a['mid']+'\n\n### Завершение\n\n'+a['late']+'\n\n## Проверенная последовательность и ограничения\n\n'+a['combo']+'\n\n'
+ text+='### Предпосылки именно этого списка\n\n| Компонент | Проверка | Найденная поддержка | Ограничение |\n| --- | --- | --- | --- |\n'+'\n'.join(f"| {cardlink(C[z['card']],path)} | {z['check']} | {clean(z['evidence'])} | {clean(z['limit'])} |" for z in a['semantic_checks'])+'\n\n'
  text+='Проверка здесь означает соответствие приведённым правилам, ресурсам, типам и фазам. Это не воспроизведение в клиенте. Если wiki-excerpt у нужной карты отличается от клиентского текста, пересчитайте последовательность по клиенту.\n\n## Контрколоды и реакция\n\n| Противник | Почему опасен и как менять решение |\n| --- | --- |\n'
  for name,why in a['counters']:
-  match=next((v for v in D if v['name'].lower()==name.lower()),None);label=link(name,deckpath(match),path) if match else name
+  match=next((v for v in D if re.sub('[^a-z0-9]','',v['name'].lower())==re.sub('[^a-z0-9]','',name.lower())),None);label=link(name,deckpath(match),path) if match else name
   text+=f'| {label} | {why} |\n'
  text+='\nНе указан процент побед: открытого актуального матчевого массива для этих конкретных 40-карточных версий нет. Смысл таблицы — какие механики обходят ваш план, а не обещание автоматической победы соперника.\n\n## Ошибки, которые ломают план\n\n'+'\n'.join('- '+m for m in a['mistakes'])+'\n\n## Кривая стоимости\n\n| Цена | Количество |\n| --- | --- |\n'+'\n'.join(f'| {k} | {v} |' for k,v in sorted(curve.items()))+'\n\n'
  text+='Кривая учитывает напечатанную текущую цену. Не включает скидки Teacher/Waxer/Terror-Former, расход эволюционного основания, Conjure-карты и вероятные непредсказуемые токены.\n\n## Итоговый список для сборки\n\n| Количество | Карта | Цена | Класс |\n| --- | --- | --- | --- |\n'
@@ -53,15 +56,15 @@ for h in H.values():
  write(path,text)
 write('cards/README.md','# Карты\n\n[Главная](../README.md) · [Герои](../heroes/README.md) · [Правила](../rules/README.md)\n\n503 записи основной базы, включая отдельные архивные/недоступные записи. Жетоны и суперсилы индексируются отдельно. `wiki-infobox` означает извлечение карточного блока, `wiki-search-excerpt` — неполную индексированную выдержку, `wiki-reviewed` — ручное исправление выявленного расхождения. Ни один статус не означает клиентскую проверку.\n\n| Класс | Карты |\n| --- | --- |\n'+'\n'.join(f'| {cl} | '+', '.join(link(c['name'],cardpath(c),'cards/README.md') for c in sorted(C.values(),key=lambda v:(v['cost'],v['name'])) if c['class']==cl)+' |' for cl in ['Guardian','Kabloom','Mega-Grow','Smarty','Solar','Beastly','Brainy','Crazy','Hearty','Sneaky'])+'\n\n[JSON-каталог](../data/cards.json) · [жетоны](tokens.md) · [суперсилы](../heroes/powers.md).')
 write('heroes/README.md','# Все 22 героя\n\n[Главная](../README.md) · [Все колоды](../decks/README.md) · [Все суперсилы](powers.md)\n\n| Герой | Сторона | Классы | Сигнатура |\n| --- | --- | --- | --- |\n'+'\n'.join(f"| {link(h['name'],'heroes/'+h['faction']+'/'+h['id']+'.md','heroes/README.md')} | {h['faction']} | {' + '.join(h['classes'])} | {h['signature']} |" for h in H.values()))
-write('decks/README.md','# Все 32 разобранные колоды\n\n[Главная](../README.md) · [Герои](../heroes/README.md) · [Техника построения](../research/deckbuilding.md)\n\n`source-based` и `source-based-alt` — численный состав найденного источника с нашим разбором. `theorycraft` — авторская конструкция. `countermeta-theorycraft` — проверенный по механикам кандидат против указанного плана; победы над метой не измерены.\n\n| Герой | Колода | Статус | Дата состава |\n| --- | --- | --- | --- |\n'+'\n'.join(f"| {H[d['hero']]['name']} | {link(d['name'],deckpath(d),'decks/README.md')} | {d['category']} | {d['source_date']} |" for d in D))
+write('decks/README.md','# Все 330 разобранных колод\n\n[Главная](../README.md) · [Герои](../heroes/README.md) · [Техника построения](../research/deckbuilding.md)\n\n`source-based` и `source-based-alt` — численный состав найденного источника с нашим разбором. `theorycraft` — авторская конструкция. `source-portfolio` — разнообразный опубликованный список (дата сохраняется), разобранный по текущему каталогу; `theme-theorycraft` — авторский вариант Moon/Patch для конкретного героя. `countermeta-theorycraft` — проверенный по механикам кандидат против указанного плана; победы над метой не измерены.\n\n| Герой | Колода | Статус | Дата состава |\n| --- | --- | --- | --- |\n'+'\n'.join(f"| {H[d['hero']]['name']} | {link(d['name'],deckpath(d),'decks/README.md')} | {d['category']} | {d['source_date']} |" for d in D))
 write('README.md',f'''# HeroDecks
 
-Исследовательская база PvZ Heroes на русском: **22 героя · 32 подробных разбора колод · 503 карточные записи · корпус 2027 опубликованных списков**. Дата среза: **14 октября 2026 года**.
+Исследовательская база PvZ Heroes на русском: **22 героя · 330 подробных разборов колод · по 15 на героя · 15 оценок для каждой · 503 карточные записи · корпус 2027 опубликованных списков**. Дата среза: **14 октября 2026 года**.
 
 | Раздел | Что внутри |
 | --- | --- |
 | [Колоды](decks/README.md) | `decks/plants-or-zombies/hero_name/deck_name.md`: мышление, роль каждой карты, количества, альтернативы, mulligan, игра, контры и итоговые 40 карт |
-| [Карты](cards/README.md) | Отдельные карточные файлы по стороне и классу; характеристики, правила, ссылки на колоды и источники |
+| [Тематические колоды](research/themes.md) | Bad Moon Rising и Force Field + Soul Patch на всех подходящих героях |\n| [Оценки и подбор](research/ratings.md) | 15 шкал с направлением и ограничениями; сравнение вариантов каждого героя |\n| [Портфель по героям](research/portfolio.md) | 15 вариантов каждому, основные параметры и разнообразие |\n| [Карты](cards/README.md) | Отдельные карточные файлы по стороне и классу; характеристики, правила, ссылки на колоды и источники |
 | [Герои](heroes/README.md) | Классы, четыре силы, особенности плана и колоды каждого героя |
 | [Суперсилы](heroes/powers.md) | Эффекты и ограничения отдельного набора сил |
 | [Правила](rules/README.md) | Фазы, поле, ресурс, рука, победа и блок |

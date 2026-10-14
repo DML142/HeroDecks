@@ -29,6 +29,13 @@ Sneezing Zombie слабее как финишер, зато непосредс�
 
 - [Electric Boogaloo — Omani](../../../decks/zombies/electric_boogaloo/omani.md)
 - [Electric Boogaloo — Omani anti-heal](../../../decks/zombies/electric_boogaloo/omani_anti_heal.md)
+- [Electric Boogaloo — Draw punishment / Death value [1209]](../../../decks/zombies/electric_boogaloo/draw_burn_death_z_1209.md)
+- [Electric Boogaloo — Frenzy tempo / Binary burst [-15868]](../../../decks/zombies/electric_boogaloo/frenzy_binary_n15868.md)
+- [Electric Boogaloo — Valkyrie reserve / Swimmer stat copy [20983]](../../../decks/zombies/electric_boogaloo/valkyrie_swimmer_20983.md)
+- [Professor Brainstorm — Binary burst / Dancing burn [-14]](../../../decks/zombies/professor_brainstorm/binary_dance_n14.md)
+- [Z-Mech — Binary burst / Dancing burn [-17]](../../../decks/zombies/z_mech/binary_dance_n17.md)
+- [Z-Mech — Death value / Gargantuar pressure [258]](../../../decks/zombies/z_mech/death_z_gargs_258.md)
+- [Z-Mech — Gargantuar pressure / Going Viral swarm [247]](../../../decks/zombies/z_mech/gargs_viral_247.md)
 
 ## Источник
 

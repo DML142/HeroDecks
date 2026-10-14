@@ -27,7 +27,12 @@ When a Plant Trick is played, this gets +1Strength/+1Health and moves to a rando
 
 ## Разобранные колоды
 
+- [The Smash — Pet tempo / Going Viral swarm [22155]](../../../decks/zombies/the_smash/pets_viral_22155.md)
+- [Brain Freeze — Pet tempo / Swimmer stat copy [-2518]](../../../decks/zombies/brain_freeze/pets_swimmer_n2518.md)
+- [Brain Freeze — Swimmer stat copy / Gargantuar pressure [21675]](../../../decks/zombies/brain_freeze/swimmer_gargs_21675.md)
+- [Brain Freeze — Swimmer stat copy / Pet tempo [312]](../../../decks/zombies/brain_freeze/swimmer_pets_312.md)
 - [Immorticia — Secret Swimmer Blob](../../../decks/zombies/immorticia/secret_swimmer_blob.md)
+- [Immorticia — Swimmer stat copy / Protected zombie engine [882]](../../../decks/zombies/immorticia/swimmer_parasol_882.md)
 
 ## Источник
 

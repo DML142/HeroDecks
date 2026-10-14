@@ -27,10 +27,23 @@ Leprechaun Imp самостоятельнее, но не возвращает р
 
 ## Разобранные колоды
 
+- [Super Brainz — Blood Moon Replay](../../../decks/zombies/super_brainz/blood_moon_replay.md)
 - [Super Brainz — Limerence](../../../decks/zombies/super_brainz/limerence.md)
+- [Rustbolt — Flag Moon Academy](../../../decks/zombies/rustbolt/flag_moon_academy.md)
+- [Rustbolt — Mustache economy / Going Viral swarm [-60]](../../../decks/zombies/rustbolt/mustache_viral_n60.md)
+- [Professor Brainstorm — Deadbeard Moon Laboratory](../../../decks/zombies/professor_brainstorm/deadbeard_moon_laboratory.md)
 - [Professor Brainstorm — Trickstache](../../../decks/zombies/professor_brainstorm/trickstache.md)
+- [Professor Brainstorm — Mustache economy / Binary burst [102]](../../../decks/zombies/professor_brainstorm/mustache_binary_102.md)
+- [Professor Brainstorm — Science attack / Mustache economy [60]](../../../decks/zombies/professor_brainstorm/science_mustache_60.md)
+- [Immorticia — Familiar Moon Menagerie](../../../decks/zombies/immorticia/familiar_moon_menagerie.md)
 - [Immorticia — Bestached](../../../decks/zombies/immorticia/bestached.md)
 - [Immorticia — Bestached anti-Untrickable](../../../decks/zombies/immorticia/bestached_anti_untrickable.md)
+- [Immorticia — Mustache economy / Swimmer stat copy [124561]](../../../decks/zombies/immorticia/mustache_swimmer_124561.md)
+- [Huge-Gigantacus — Cosmic Moon Factory](../../../decks/zombies/huge_gigantacus/cosmic_moon_factory.md)
+- [Huge-Gigantacus — Gravestone replay / Mustache economy [335]](../../../decks/zombies/huge_gigantacus/graves_mustache_335.md)
+- [Huge-Gigantacus — Mustache economy / Pirate breakthrough [137]](../../../decks/zombies/huge_gigantacus/mustache_pirates_137.md)
+- [Huge-Gigantacus — Science attack / Mustache economy [22055]](../../../decks/zombies/huge_gigantacus/science_mustache_22055.md)
+- [Huge-Gigantacus — Trickster finish / Mustache economy [4]](../../../decks/zombies/huge_gigantacus/trickster_mustache_4.md)
 
 ## Источник
 

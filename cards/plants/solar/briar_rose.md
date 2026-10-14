@@ -28,6 +28,13 @@ Aloesaurus сохраняет поле лечением, но не наказы�
 ## Разобранные колоды
 
 - [Solar Flare — Valueflare](../../../decks/plants/solar_flare/valueflare.md)
+- [Solar Flare — Flower retaliation / Heal conversion [157]](../../../decks/plants/solar_flare/flowers_heal_157.md)
+- [Solar Flare — Pineclone conversion / Flower retaliation [415]](../../../decks/plants/solar_flare/pineclone_flowers_415.md)
+- [Wall-Knight — Flower retaliation / Bowling control [46]](../../../decks/plants/wall_knight/flowers_bowling_46.md)
+- [Wall-Knight — Flower retaliation / Heal conversion [-66]](../../../decks/plants/wall_knight/flowers_heal_n66.md)
+- [Chompzilla — Flower retaliation / Untrickable OTK [-2]](../../../decks/plants/chompzilla/flowers_apotk_n2.md)
+- [Chompzilla — Repeat Moss engine / Flower retaliation [1298]](../../../decks/plants/chompzilla/moss_flowers_1298.md)
+- [Rose — Flower retaliation / Starfruit crossfire [1397]](../../../decks/plants/rose/flowers_starfruit_1397.md)
 
 ## Источник
 

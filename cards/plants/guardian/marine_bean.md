@@ -28,6 +28,8 @@ Jelly Bean снимает blocker при эволюции, но не получ�
 ## Разобранные колоды
 
 - [Citron — Amphibious Momentus](../../../decks/plants/citron/amphibious_momentus.md)
+- [Citron — Water and crossfire / Root economy [111621]](../../../decks/plants/citron/amphibious_roots_111621.md)
+- [Beta-Carrotina — Water and crossfire / Splash board control [6]](../../../decks/plants/beta_carrotina/amphibious_splash_p_6.md)
 
 ## Источник
 

@@ -27,9 +27,24 @@ When this hurts a Zombie, Bounce that Zombie.
 
 ## Разобранные колоды
 
+- [Green Shadow — Onion hand conversion / Untrickable OTK [18879]](../../../decks/plants/green_shadow/rings_apotk_18879.md)
+- [Green Shadow — Pea evolution / Bean pressure [90]](../../../decks/plants/green_shadow/pea_beans_90.md)
+- [Green Shadow — Pea evolution / Water and crossfire [70]](../../../decks/plants/green_shadow/pea_amphibious_70.md)
+- [Green Shadow — Plant discovery / Untrickable OTK [-108]](../../../decks/plants/green_shadow/conjure_p_apotk_n108.md)
+- [Green Shadow — Repeat Moss engine / Pea evolution [667]](../../../decks/plants/green_shadow/moss_pea_667.md)
+- [Citron — Peel Shield Sanctuary](../../../decks/plants/citron/peel_shield_sanctuary.md)
+- [Citron — Splash board control / Galacta-Cactus [2655]](../../../decks/plants/citron/splash_p_solo_2655.md)
 - [Nightcap — Cyclecap](../../../decks/plants/nightcap/cyclecap.md)
-- [Rose — Heal MidRose](../../../decks/plants/rose/heal_midrose.md)
+- [Nightcap — Plant discovery / Plant transformation [132]](../../../decks/plants/nightcap/conjure_p_molekale_132.md)
+- [Nightcap — Splash board control / Plant transformation [525]](../../../decks/plants/nightcap/splash_p_molekale_525.md)
+- [Nightcap — Water and crossfire / Plant transformation [10672]](../../../decks/plants/nightcap/amphibious_molekale_10672.md)
 - [Rose — HMR anti-Waxer](../../../decks/plants/rose/hmr_anti_waxer.md)
+- [Rose — Heal MidRose](../../../decks/plants/rose/heal_midrose.md)
+- [Rose — Bean pressure / Admiral Navy Bean [831]](../../../decks/plants/rose/beans_solo_831.md)
+- [Rose — Water and crossfire / Flower retaliation [144]](../../../decks/plants/rose/amphibious_flowers_144.md)
+- [Beta-Carrotina — Splash board control / Forget-Me-Nuts [239]](../../../decks/plants/beta_carrotina/splash_p_anti_trick_239.md)
+- [Beta-Carrotina — Taxed tempo / Splash board control [51]](../../../decks/plants/beta_carrotina/anti_trick_splash_p_51.md)
+- [Beta-Carrotina — Water and crossfire / Mars Flytrap [67]](../../../decks/plants/beta_carrotina/amphibious_solo_67.md)
 
 ## Источник
 

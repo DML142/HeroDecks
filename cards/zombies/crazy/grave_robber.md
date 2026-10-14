@@ -27,7 +27,13 @@ Quickdraw Con Man эффективнее против добора, однако
 
 ## Разобранные колоды
 
+- [Impfinity — Overshoot clock / Draw punishment [19879]](../../../decks/zombies/impfinity/overshoot_draw_burn_19879.md)
+- [Impfinity — Pirate breakthrough / Binary burst [11673]](../../../decks/zombies/impfinity/pirates_binary_11673.md)
 - [Professor Brainstorm — Trickstache](../../../decks/zombies/professor_brainstorm/trickstache.md)
+- [Professor Brainstorm — Binary burst / Dancing burn [-14]](../../../decks/zombies/professor_brainstorm/binary_dance_n14.md)
+- [Professor Brainstorm — Draw punishment / Bungee Plumber [1283_imported_1]](../../../decks/zombies/professor_brainstorm/draw_burn_solo_1283_imported_1.md)
+- [Professor Brainstorm — Mime bonus echo / Mustache economy [1159]](../../../decks/zombies/professor_brainstorm/mime_mustache_1159.md)
+- [Professor Brainstorm — Mustache economy / Binary burst [102]](../../../decks/zombies/professor_brainstorm/mustache_binary_102.md)
 
 ## Источник
 

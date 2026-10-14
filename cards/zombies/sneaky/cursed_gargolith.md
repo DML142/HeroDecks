@@ -27,10 +27,24 @@ Mixed-Up Gravedigger повторяет раскрытия сразу более
 
 ## Разобранные колоды
 
+- [Super Brainz — Gravestone replay / Chimney Sweep [10484]](../../../decks/zombies/super_brainz/graves_tempo_10484.md)
 - [Impfinity — No-Hokai](../../../decks/zombies/impfinity/no_hokai.md)
+- [Impfinity — Binary burst / Zombie discovery [178672]](../../../decks/zombies/impfinity/binary_conjure_z_178672.md)
+- [Impfinity — Zombie discovery / Imp network [208]](../../../decks/zombies/impfinity/conjure_z_imps_208.md)
+- [Impfinity — Zombie freeze / Imp network [2855]](../../../decks/zombies/impfinity/freeze_z_imps_2855.md)
 - [Brain Freeze — Lock the Bathroom](../../../decks/zombies/brain_freeze/lock_the_bathroom.md)
+- [Brain Freeze — Frenzy tempo / Gravestone replay [131]](../../../decks/zombies/brain_freeze/frenzy_graves_131.md)
+- [Brain Freeze — Gravestone replay / Zombie freeze [-154560]](../../../decks/zombies/brain_freeze/graves_freeze_z_n154560.md)
+- [Brain Freeze — Pet tempo / Zombie freeze [79]](../../../decks/zombies/brain_freeze/pets_freeze_z_79.md)
+- [Brain Freeze — Pirate breakthrough / Zombie freeze [36]](../../../decks/zombies/brain_freeze/pirates_freeze_z_36.md)
 - [Neptuna — Midtomba](../../../decks/zombies/neptuna/midtomba.md)
 - [Neptuna — Midtomba anti-swarm](../../../decks/zombies/neptuna/midtomba_anti_swarm.md)
+- [Neptuna — Going Viral swarm / Gargantuar pressure [116561]](../../../decks/zombies/neptuna/viral_gargs_116561.md)
+- [Neptuna — Imp network / Gravestone replay [-1200]](../../../decks/zombies/neptuna/imps_graves_n1200.md)
+- [Neptuna — Pharaoh survival / Gargantuar pressure [245]](../../../decks/zombies/neptuna/pharaoh_gargs_245.md)
+- [Neptuna — Sun denial / Gravestone replay [-1518]](../../../decks/zombies/neptuna/sun_denial_graves_n1518.md)
+- [Neptuna — Sun denial / Zombie discovery [242]](../../../decks/zombies/neptuna/sun_denial_conjure_z_242.md)
+- [Neptuna — Zombie discovery / Gargantuar pressure [86]](../../../decks/zombies/neptuna/conjure_z_gargs_86.md)
 
 ## Источник
 

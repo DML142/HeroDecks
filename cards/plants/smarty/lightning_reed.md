@@ -19,6 +19,18 @@ Amphibious Splash Damage 1; No special ability.
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+Тело за 2 с исходными 2/2 для занятия линии и боя. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [Green Shadow — Bean pressure / Water and crossfire [1777]](../../../decks/plants/green_shadow/beans_amphibious_1777.md)
+- [Green Shadow — Water and crossfire / Bonk Choy [260]](../../../decks/plants/green_shadow/amphibious_solo_260.md)
+- [Beta-Carrotina — Root economy / Bowling control [367]](../../../decks/plants/beta_carrotina/roots_bowling_367.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Lightning_Reed_%28PvZH%29). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.

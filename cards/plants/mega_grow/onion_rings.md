@@ -27,8 +27,13 @@ Fertilize улучшает поле здесь и сейчас; Rings требу
 
 ## Разобранные колоды
 
-- [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Green Shadow — Onion hand conversion / Bean pressure [253]](../../../decks/plants/green_shadow/rings_beans_253.md)
+- [Green Shadow — Onion hand conversion / Untrickable OTK [18879]](../../../decks/plants/green_shadow/rings_apotk_18879.md)
 - [Chompzilla — Ringspresso](../../../decks/plants/chompzilla/ringspresso.md)
+- [Chompzilla — Onion hand conversion / Solar acceleration [188]](../../../decks/plants/chompzilla/rings_ramp_p_188.md)
+- [Grass Knuckles — Onion hand conversion / Growth reserve [-5]](../../../decks/plants/grass_knuckles/rings_potted_n5.md)
+- [Captain Combustible — Comboss](../../../decks/plants/captain_combustible/comboss.md)
+- [Captain Combustible — Onion hand conversion / Repeat Moss engine [202]](../../../decks/plants/captain_combustible/rings_moss_202.md)
 
 ## Источник
 

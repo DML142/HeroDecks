@@ -19,6 +19,18 @@ Destroy a Plant. A plague upon your lawns!
 
 Текст правил приведён на английском, чтобы не скрывать неоднозначность неофициального перевода. Числа и краткое правило — фактическая карточная запись; стратегическая оценка ниже — авторский разбор.
 
+## Применение и цена альтернативы
+
+трюк требует ресурса в фазе своей стороны и не оставляет постоянного бойца сам по себе; уничтожение выполняется при указанном условии, без автоматической подмены на повреждение. Точные цели, числовые пороги и timing берутся из правила выше, без расширения его смысла.
+
+Прямой эквивалент не предполагается. Сравнение с легальной картой и роль именно в данном составе приведены в разборе колоды.
+
+## Разобранные колоды
+
+- [The Smash — Pet tempo / Knight conversion [1967]](../../../decks/zombies/the_smash/pets_king_1967.md)
+- [Electric Boogaloo — Independent tempo / Bungee Plumber [1385]](../../../decks/zombies/electric_boogaloo/tempo_solo_1385.md)
+- [Electric Boogaloo — Pet tempo / Cat Lady [1941]](../../../decks/zombies/electric_boogaloo/pets_solo_1941.md)
+
 ## Источник
 
 [Индивидуальная статья вики](https://plantsvszombies.wiki.gg/wiki/Locust_Swarm). Получено 2026-10-14. Indexed wiki excerpt retrieved; cached revision may be stale. Exact in-game build not tested.
